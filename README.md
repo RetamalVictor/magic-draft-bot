@@ -1,0 +1,1 @@
+# magic-draft-bot
