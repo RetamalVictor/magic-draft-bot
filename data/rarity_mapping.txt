@@ -1,0 +1,6 @@
+Rarity Mapping:
+mythic: 1
+rare: 2
+uncommon: 3
+common: 4
+special: 5

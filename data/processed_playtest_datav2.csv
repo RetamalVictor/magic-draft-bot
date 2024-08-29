@@ -1,0 +1,1151 @@
+oracle_id,elo,mainboard,pickrate,picks,mainboards,name,mana_cost,type_line,oracle_text,rarity,colors,power,toughness,loyalty
+7f77a84e-5a4b-4834-aefa-3cecc175ae8e,1692,1.0,0.3095238095238095,26,8,"Jace, the Mind Sculptor",{2}{U}{U},Legendary Planeswalker — Jace,"+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
+0: Draw three cards, then put two cards from your hand on top of your library in any order.
+−1: Return target creature to its owner's hand.
+−12: Exile all cards from target player's library, then that player shuffles their hand into their library.",1,1,0,0,3
+5def9f38-0a0b-4e8d-9f9d-29dcb46520b4,1508,1.0,0.1764705882352941,21,8,Esper Sentinel,{W},Artifact Creature — Human Soldier,"Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is Esper Sentinel's power.",2,2,1,1,0
+0bbcb563-09b3-499d-a9cc-3a6d7501dd81,1232,0.6666666666666666,0.0821256038647343,17,4,Collected Company,{3}{G},Instant,Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.,1,3,0,0,0
+176f5ba8-6e7b-4234-a298-b6164f51656f,1024,1.0,0.064516129032258,8,2,"Inti, Seneschal of the Sun",{1}{R},Legendary Creature — Human Knight,"Whenever you attack, you may discard a card. When you do, put a +1/+1 counter on target attacking creature. It gains trample until end of turn.
+Whenever you discard one or more cards, exile the top card of your library. You may play that card until your next end step.",2,4,2,2,0
+c823e687-6311-4c99-974b-fd77d204141a,1652,1.0,0.2903225806451613,18,3,Timetwister,{2}{U},Sorcery,"Each player shuffles their hand and graveyard into their library, then draws seven cards. (Then put Timetwister into its owner's graveyard.)",2,1,0,0,0
+86bf58f2-7f25-4e10-b797-25e0e8e67769,1198,1.0,0.1214285714285714,17,5,Flusterstorm,{U},Instant,"Counter target instant or sorcery spell unless its controller pays {1}.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",2,1,0,0,0
+3123ec89-8e95-4761-ba17-747ec667509f,1682,1.0,0.2361111111111111,34,13,Spara's Headquarters,0,Land — Forest Plains Island,"({T}: Add {G}, {W}, or {U}.)
+Spara's Headquarters enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",2,5,0,0,0
+8c1fe337-375a-4add-93b6-0ac39ed72b4f,1570,0.9166666666666666,0.171875,22,11,Natural Order,{2}{G}{G},Sorcery,"As an additional cost to cast this spell, sacrifice a green creature.
+Search your library for a green creature card, put it onto the battlefield, then shuffle.",1,3,0,0,0
+254878f0-be90-4653-a395-0c41258fceaf,1238,0.0,0.1527777777777778,11,0,Tinker,{2}{U},Sorcery,"As an additional cost to cast this spell, sacrifice an artifact.
+Search your library for an artifact card, put that card onto the battlefield, then shuffle.",3,1,0,0,0
+7fffbe7f-ad78-4bb6-a611-c37e495c6ee0,896,1.0,0.0544217687074829,8,1,Kappa Cannoneer,{5}{U},Artifact Creature — Turtle Warrior,"Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)
+Ward {4}
+Whenever Kappa Cannoneer or another artifact you control enters, put a +1/+1 counter on Kappa Cannoneer and it can't be blocked this turn.",2,1,4,4,0
+2b8afa9f-4236-4c02-a8d5-3c145caecfd6,892,0.0,0.0588235294117647,9,0,Rift Bolt,{2}{R},Sorcery,"Rift Bolt deals 3 damage to any target.
+Suspend 1—{R} (Rather than cast this card from your hand, you may pay {R} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)",4,4,0,0,0
+7cafc972-a6f5-4cac-a3d3-8a3ae36ffb1e,1454,0.5,0.1129032258064516,14,2,Upheaval,{4}{U}{U},Sorcery,Return all permanents to their owners' hands.,2,1,0,0,0
+1ff25f67-36a7-4cfa-a2b1-2135b5b6fb67,1238,1.0,0.0392156862745098,6,3,Scavenging Ooze,{1}{G},Creature — Ooze,"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.",2,3,2,2,0
+7514e401-7aa1-405d-9f7a-312b4e630cc2,852,0.0,0.017094017094017,2,0,"Etali, Primal Conqueror // Etali, Primal Sickness",{5}{R}{R},Legendary Creature — Elder Dinosaur,"Trample
+When Etali, Primal Conqueror enters, each player exiles cards from the top of their library until they exile a nonland card. You may cast any number of spells from among the nonland cards exiled this way without paying their mana costs.
+{9}{G/P}: Transform Etali. Activate only as a sorcery.
+//
+Trample, indestructible
+Whenever Etali, Primal Sickness deals combat damage to a player, they get that many poison counters. (A player with ten or more poison counters loses the game.)",2,4,7,7,0
+09dd85aa-47bc-4713-a9b9-8b52ff2285ed,1558,0.75,0.1290322580645161,8,3,Misty Rainforest,0,Land,"{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.",2,5,0,0,0
+17039058-822d-409f-938c-b727a366ba63,1128,0.0,0.0888888888888888,8,0,Steam Vents,0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+As Steam Vents enters, you may pay 2 life. If you don't, it enters tapped.",2,5,0,0,0
+74c0164c-130f-4572-9066-626c77f6e2ff,1284,0.5714285714285714,0.1563636363636363,43,8,Barrowgoyf,{2}{B},Creature — Lhurgoyf,"Deathtouch, lifelink
+Barrowgoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.
+Whenever Barrowgoyf deals combat damage to a player, you may mill that many cards. If you do, you may put a creature card from among them into your hand.",2,6,-1,-1,0
+e4d2dcbb-9910-482e-9e46-dfed2097509b,1260,1.0,0.074074074074074,8,4,Caves of Chaos Adventurer,{3}{R},Creature — Human Barbarian,"Trample
+When Caves of Chaos Adventurer enters, you take the initiative.
+Whenever Caves of Chaos Adventurer attacks, exile the top card of your library. If you've completed a dungeon, you may play that card this turn without paying its mana cost. Otherwise, you may play that card this turn.",2,4,5,3,0
+aa854d50-444c-49d9-bfb1-5476b33c1c0b,1258,0.8571428571428571,0.0853658536585365,14,6,Scute Swarm,{2}{G},Creature — Insect,"Landfall — Whenever a land you control enters, create a 1/1 green Insect creature token. If you control six or more lands, create a token that's a copy of Scute Swarm instead.",2,3,1,1,0
+c85d824b-c190-4d04-ab99-918ad0e6516c,1188,1.0,0.056338028169014,8,3,Endurance,{1}{G}{G},Creature — Elemental Incarnation,"Flash
+Reach
+When Endurance enters, up to one target player puts all the cards from their graveyard on the bottom of their library in a random order.
+Evoke—Exile a green card from your hand.",1,3,3,4,0
+a6abb6af-7ea2-43f3-8718-2a077ad0c947,1052,0.4285714285714285,0.0729166666666666,14,3,"Ob Nixilis, the Adversary",{1}{B}{R},Legendary Planeswalker — Nixilis,"Casualty X. The copy isn't legendary and has starting loyalty X. (As you cast this spell, you may sacrifice a creature with power X. When you do, copy this spell. The copy becomes a token.)
++1: Each opponent loses 2 life unless they discard a card. If you control a Demon or Devil, you gain 2 life.
+−2: Create a 1/1 red Devil creature token with ""When this creature dies, it deals 1 damage to any target.""
+−7: Target player draws seven cards and loses 7 life.",1,7,0,0,3
+032b8a0d-491a-4a12-ab9f-689010054d5b,992,0.0,0.0285714285714285,2,0,Prismatic Vista,0,Land,"{T}, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle.",2,5,0,0,0
+9b7f1d05-707c-4ed3-9f0e-8ced1232c2ee,1316,1.0,0.1013513513513513,15,4,"Thalia, Guardian of Thraben",{1}{W},Legendary Creature — Human Soldier,"First strike
+Noncreature spells cost {1} more to cast.",2,2,2,1,0
+d3b2d8a2-d3bc-448c-9cf6-6bead6010c28,1434,0.6153846153846154,0.1773049645390071,50,8,"Bristly Bill, Spine Sower",{1}{G},Legendary Creature — Plant Druid,"Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.
+{3}{G}{G}: Double the number of +1/+1 counters on each creature you control.",1,3,2,2,0
+7798a4d9-1c1d-48e6-b9a2-ecd6aec1efa7,1212,0.0,0.168,21,0,Palantír of Orthanc,{3},Legendary Artifact,"At the beginning of your end step, put an influence counter on Palantír of Orthanc and scry 2. Then target opponent may have you draw a card. If that player doesn't, you mill X cards, where X is the number of influence counters on Palantír of Orthanc, and that player loses life equal to the total mana value of those cards.",1,5,0,0,0
+38515f89-348b-4cf3-b7bd-1f6fe4ce2fba,1060,1.0,0.0821917808219178,12,1,"Adeline, Resplendent Cathar",{1}{W}{W},Legendary Creature — Human Knight,"Vigilance
+Adeline, Resplendent Cathar's power is equal to the number of creatures you control.
+Whenever you attack, for each opponent, create a 1/1 white Human creature token that's tapped and attacking that player or a planeswalker they control.",2,2,-1,4,0
+13ff3222-91cb-4796-a34e-899ed817694c,900,0.25,0.0423728813559322,5,1,Badlands,0,Land — Swamp Mountain,({T}: Add {B} or {R}.),2,5,0,0,0
+d57a8f0b-7989-4db5-8756-6f2690097252,1204,1.0,0.064,8,3,Damnation,{2}{B}{B},Sorcery,Destroy all creatures. They can't be regenerated.,2,6,0,0,0
+6c1d22d4-f28e-4041-a9b6-1575e8929b61,1456,1.0,0.1726618705035971,24,4,Nexus of Fate,{5}{U}{U},Instant,"Take an extra turn after this one.
+If Nexus of Fate would be put into a graveyard from anywhere, reveal Nexus of Fate and shuffle it into its owner's library instead.",1,1,0,0,0
+3407fe41-fdd3-4119-8f70-4bc4590a379f,906,1.0,0.0838709677419354,13,3,Negate,{1}{U},Instant,Counter target noncreature spell.,4,1,0,0,0
+975ec9a3-6f20-4177-8211-82526e092538,1162,1.0,0.0522875816993464,8,3,Overgrown Tomb,0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+As Overgrown Tomb enters, you may pay 2 life. If you don't, it enters tapped.",2,5,0,0,0
+33869ba6-13e5-4e48-8963-92f7965648fb,1168,1.0,0.0833333333333333,15,4,Felidar Guardian,{3}{W},Creature — Cat Beast,"When Felidar Guardian enters, you may exile another target permanent you control, then return that card to the battlefield under its owner's control.",2,2,1,4,0
+1f438b8f-fe23-4f3b-ab2e-f6c33676c462,770,0.0,0.0279720279720279,4,0,Opposition Agent,{2}{B},Creature — Human Rogue,"Flash
+You control your opponents while they're searching their libraries.
+While an opponent is searching their library, they exile each card they find. You may play those cards for as long as they remain exiled, and you may spend mana as though it were mana of any color to cast them.",2,6,3,2,0
+ec3471ad-b65c-4e35-a7d1-68da9555a9ec,1222,0.0,0.0473372781065088,8,0,Ethersworn Canonist,{1}{W},Artifact Creature — Human Cleric,Each player who has cast a nonartifact spell this turn can't cast additional nonartifact spells.,2,2,2,2,0
+8ed57194-7508-4aef-9373-64f7e80612d8,1296,0.0,0.110091743119266,12,0,Treachery,{3}{U}{U},Enchantment — Aura,"Enchant creature
+When Treachery enters, untap up to five lands.
+You control enchanted creature.",2,1,0,0,0
+d36e0c9f-c025-4dfe-9644-9cad2461ce38,674,1.0,0.0070921985815602,1,1,Gruul Signet,{2},Artifact,"{1}, {T}: Add {R}{G}.",3,5,0,0,0
+73864fcc-1bde-4bc0-831e-2b93e546e417,772,0.0,0.04,7,0,Godless Shrine,0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+As Godless Shrine enters, you may pay 2 life. If you don't, it enters tapped.",2,5,0,0,0
+f6314e50-a610-4fff-8f60-803d23460ff0,1056,0.0,0.0773195876288659,15,0,Lizard Blades,{1}{R},Artifact Creature — Equipment Lizard,"Double strike
+Equipped creature has double strike.
+Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",2,4,1,1,0
+0b8c3337-04dd-4798-8203-6d8b8cfb936b,756,1.0,0.0348837209302325,6,1,Lingering Souls,{2}{W},Sorcery,"Create two 1/1 white Spirit creature tokens with flying.
+Flashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",3,2,0,0,0
+bf1341dd-41a3-49f6-87ec-63170dde4324,936,1.0,0.0232558139534883,3,2,"Boseiju, Who Endures",0,Legendary Land,"{T}: Add {G}.
+Channel — {1}{G}, Discard Boseiju, Who Endures: Destroy target artifact, enchantment, or nonbasic land an opponent controls. That player may search their library for a land card with a basic land type, put it onto the battlefield, then shuffle. This ability costs {1} less to activate for each legendary creature you control.",2,5,0,0,0
+0fd57894-b917-41c8-a394-360d1d31b236,1260,0.0,0.1027027027027027,19,0,Ephemerate,{W},Instant,"Exile target creature you control, then return it to the battlefield under its owner's control.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",2,2,0,0,0
+0c23fefe-9891-4dd8-9bb1-eebdb3274e31,1380,1.0,0.1451612903225806,27,12,Bloom Tender,{1}{G},Creature — Elf Druid,"{T}: For each color among permanents you control, add one mana of that color.",2,3,1,1,0
+f3abd4d1-a975-4e85-8684-aa0fce029670,1100,0.0,0.0903225806451612,14,0,Grave Titan,{4}{B}{B},Creature — Giant,"Deathtouch
+Whenever Grave Titan enters or attacks, create two 2/2 black Zombie creature tokens.",1,6,6,6,0
+3bc8a406-3ae7-4f56-a33c-b4a2c115b917,1098,0.0,0.0733333333333333,11,0,Stern Scolding,{U},Instant,Counter target creature spell with power or toughness 2 or less.,3,1,0,0,0
+d64e9152-ef24-4394-aeb0-9c3befc56549,1134,0.0,0.0730337078651685,13,0,Altar of Dementia,{2},Artifact,Sacrifice a creature: Target player mills cards equal to the sacrificed creature's power.,1,5,0,0,0
+f1750962-a87c-49f6-b731-02ae971ac6ea,1304,0.5,0.0849056603773584,9,1,Hallowed Fountain,0,Land — Plains Island,"({T}: Add {W} or {U}.)
+As Hallowed Fountain enters, you may pay 2 life. If you don't, it enters tapped.",2,5,0,0,0
+7bc4c7e2-6758-4a85-84e7-03ab93981106,1178,0.5,0.1136363636363636,30,6,"Tinybones, the Pickpocket",{B},Legendary Creature — Skeleton Rogue,"Deathtouch
+Whenever Tinybones, the Pickpocket deals combat damage to a player, you may cast target nonland permanent card from that player's graveyard, and mana of any type can be spent to cast that spell.",1,6,1,1,0
+6e9ef5ef-6aed-4d3e-a59b-9e3dc8740b1b,1180,1.0,0.0924369747899159,11,1,Raffine's Tower,0,Land — Plains Island Swamp,"({T}: Add {W}, {U}, or {B}.)
+Raffine's Tower enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",2,5,0,0,0
+ed7bdb3e-5c51-4547-9266-76a791e0b2b0,1062,0.0,0.0542168674698795,9,0,Humility,{2}{W}{W},Enchantment,All creatures lose all abilities and have base power and toughness 1/1.,1,2,0,0,0
+70486bee-6ee7-41ea-b834-8caf4699302b,1002,0.0,0.0873015873015873,11,0,Daze,{1}{U},Instant,"You may return an Island you control to its owner's hand rather than pay this spell's mana cost.
+Counter target spell unless its controller pays {1}.",3,1,0,0,0
+0c85b8f7-0bd0-4680-9ec5-d4b110460a54,1356,0.0,0.1138211382113821,14,0,Fabled Passage,0,Land,"{T}, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.",2,5,0,0,0
+05e9b55e-6329-48ec-b7d7-24c6b9692244,884,0.0,0.1041666666666666,25,0,"Nicol Bolas, Planeswalker",{4}{U}{B}{B}{R},Legendary Planeswalker — Bolas,"+3: Destroy target noncreature permanent.
+−2: Gain control of target creature.
+−9: Nicol Bolas, Planeswalker deals 7 damage to target player or planeswalker. That player or that planeswalker's controller discards seven cards, then sacrifices seven permanents.",1,8,0,0,5
+0c4bc9ea-a5fd-4f44-96a1-5448eee228c4,730,0.0,0.0180722891566265,3,0,Collector Ouphe,{1}{G},Creature — Ouphe,Activated abilities of artifacts can't be activated.,2,3,2,2,0
+e9da499c-fa43-4e94-8395-5c030ff39502,1320,1.0,0.1058823529411764,18,5,Price of Progress,{1}{R},Instant,Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.,3,4,0,0,0
+0e26b429-0469-474a-818a-2d4696c38a05,1154,0.2857142857142857,0.0718562874251497,12,2,Samwise the Stouthearted,{1}{W},Legendary Creature — Halfling Peasant,"Flash
+When Samwise the Stouthearted enters, choose up to one target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand. Then the Ring tempts you.",3,2,2,1,0
+6bae00e8-06cf-4ac4-a1cc-757e454109fe,1066,1.0,0.1052631578947368,12,1,Ketria Triome,0,Land — Forest Island Mountain,"({T}: Add {G}, {U}, or {R}.)
+Ketria Triome enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",2,5,0,0,0
+d1a60f44-7696-49ee-91fb-cab5b3102962,1296,0.0,0.0820895522388059,11,0,Wurmcoil Engine,{6},Artifact Creature — Phyrexian Wurm,"Deathtouch, lifelink
+When Wurmcoil Engine dies, create a 3/3 colorless Phyrexian Wurm artifact creature token with deathtouch and a 3/3 colorless Phyrexian Wurm artifact creature token with lifelink.",1,5,6,6,0
+15d5b198-edbe-40f3-87e2-d72f7f0c58ab,1156,1.0,0.0985915492957746,14,7,Dance of the Dead,{1}{B},Enchantment — Aura,"Enchant creature card in a graveyard
+When Dance of the Dead enters, if it's on the battlefield, it loses ""enchant creature card in a graveyard"" and gains ""enchant creature put onto the battlefield with Dance of the Dead."" Put enchanted creature card onto the battlefield tapped under your control and attach Dance of the Dead to it. When Dance of the Dead leaves the battlefield, that creature's controller sacrifices it.
+Enchanted creature gets +1/+1 and doesn't untap during its controller's untap step.
+At the beginning of the upkeep of enchanted creature's controller, that player may pay {1}{B}. If the player does, untap that creature.",3,6,0,0,0
+c396db03-bf11-4e20-b630-4f9aa8fd78da,1540,1.0,0.140625,18,9,The Mightstone and Weakstone,{5},Legendary Artifact — Powerstone,"When The Mightstone and Weakstone enters, choose one —
+• Draw two cards.
+• Target creature gets -5/-5 until end of turn.
+{T}: Add {C}{C}. This mana can't be spent to cast nonartifact spells.
+(Melds with Urza, Lord Protector.)",2,5,0,0,0
+3bc757c1-3adb-4321-8832-8e1cc9e687f7,1064,0.0,0.0941176470588235,16,0,Lurrus of the Dream-Den,{1}{W/B}{W/B},Legendary Creature — Cat Nightmare,"Companion — Each permanent card in your starting deck has mana value 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+Lifelink
+Once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.",2,9,3,2,0
+e6e4a8bd-5c40-4654-8de1-0da9afed90fd,1232,0.0,0.0828025477707006,13,0,Regrowth,{1}{G},Sorcery,Return target card from your graveyard to your hand.,3,3,0,0,0
+bffdfe7b-f17a-41b6-a460-80280fe497d4,1264,0.3333333333333333,0.1262458471760797,38,4,Collective Resistance,{1}{G},Instant,"Escalate {G} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Target creature gains hexproof and indestructible until end of turn.",3,3,0,0,0
+00625242-9348-4ef4-b975-f2ac82fee21d,1064,0.5,0.1063829787234042,20,3,Savai Triome,0,Land — Mountain Plains Swamp,"({T}: Add {R}, {W}, or {B}.)
+Savai Triome enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",2,5,0,0,0
+33c722cf-b4bf-431f-aefd-ee96241a7fbf,1336,0.5714285714285714,0.1071428571428571,15,4,Crucible of Worlds,{3},Artifact,You may play lands from your graveyard.,1,5,0,0,0
+f1c2dbe2-fbe0-4058-bdf1-91d1b1832786,1220,1.0,0.1203007518796992,16,3,Dauthi Voidwalker,{B}{B},Creature — Dauthi Rogue,"Shadow (This creature can block or be blocked by only creatures with shadow.)
+If a card would be put into an opponent's graveyard from anywhere, instead exile it with a void counter on it.
+{T}, Sacrifice Dauthi Voidwalker: Choose an exiled card an opponent owns with a void counter on it. You may play it this turn without paying its mana cost.",2,6,3,2,0
+dafd2713-d1bc-474b-b390-d2ff20b5375e,1114,0.0,0.0443037974683544,7,0,Monastery Swiftspear,{R},Creature — Human Monk,"Haste
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",2,4,1,2,0
+1861e642-21d5-4232-89f3-b5557f2946c1,968,0.25,0.0446927374301676,8,1,Phyrexian Tower,0,Legendary Land,"{T}: Add {C}.
+{T}, Sacrifice a creature: Add {B}{B}.",1,5,0,0,0
+d5d91377-fd66-4dbe-a092-07f2ea379ca7,672,1.0,0.023391812865497,4,1,"Leovold, Emissary of Trest",{B}{G}{U},Legendary Creature — Elf Advisor,"Each opponent can't draw more than one card each turn.
+Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card.",1,10,3,3,0
+265236d1-d96c-4424-835e-a0fe91c41170,1270,1.0,0.0977011494252873,17,6,Ravages of War,{3}{W},Sorcery,Destroy all lands.,1,2,0,0,0
+2111588d-9af5-4a33-989e-b074d83f0463,1848,1.0,0.3870967741935484,36,10,Library of Alexandria,0,Land,"{T}: Add {C}.
+{T}: Draw a card. Activate only if you have exactly seven cards in hand.",1,5,0,0,0
+6a23963c-21dc-4d21-8d28-5abad7f859a1,960,0.0,0.09375,18,0,Arena Rector,{3}{W},Creature — Human Cleric,"When Arena Rector dies, you may exile it. If you do, search your library for a planeswalker card, put it onto the battlefield, then shuffle.",2,2,1,2,0
+cb9994b9-924b-4e10-9075-9cfbec88f2bf,1182,1.0,0.0849673202614379,13,6,Luminarch Aspirant,{1}{W},Creature — Human Cleric,"At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.",2,2,1,1,0
+f748b2fb-6c2a-400a-8e96-fa4e4a1dfe80,1108,1.0,0.0517241379310344,6,1,Shelldock Isle,0,Land,"Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+Shelldock Isle enters tapped.
+{T}: Add {U}.
+{U}, {T}: You may play the exiled card without paying its mana cost if a library has twenty or fewer cards in it.",2,5,0,0,0
+c7a15ca4-085f-4d92-8387-c3711c04c8fa,1224,1.0,0.0839694656488549,11,4,Plateau,0,Land — Mountain Plains,({T}: Add {R} or {W}.),2,5,0,0,0
+d38937a6-ab1c-4de8-a278-d81a6ce0d921,1594,0.75,0.2439024390243902,30,3,Paradox Engine,{5},Legendary Artifact,"Whenever you cast a spell, untap all nonland permanents you control.",1,5,0,0,0
+1ed9e351-0000-4b75-8ecb-d15bd88df68a,1202,0.6153846153846154,0.2179487179487179,68,8,"Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar",{U},Legendary Creature — Moonfolk Wizard,"Flying
+Whenever Tamiyo, Inquisitive Student attacks, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")
+When you draw your third card in a turn, exile Tamiyo, then return her to the battlefield transformed under her owner's control.
+//
++2: Until your next turn, whenever a creature attacks you or a planeswalker you control, it gets -1/-0 until end of turn.
+−3: Return target instant or sorcery card from your graveyard to your hand. If it's a green card, add one mana of any color.
+−7: Draw cards equal to half the number of cards in your library, rounded up. You get an emblem with ""You have no maximum hand size.""",2,1,0,3,0
+4b033a0a-c1ae-44d7-9662-72cbbfda024b,1380,0.25,0.1419753086419753,23,1,Aether Spellbomb,{1},Artifact,"{U}, Sacrifice Aether Spellbomb: Return target creature to its owner's hand.
+{1}, Sacrifice Aether Spellbomb: Draw a card.",4,5,0,0,0
+1cf51f50-24e4-48d0-95b3-1dad3ffa4bf5,720,0.4,0.0375,6,2,Golgari Signet,{2},Artifact,"{1}, {T}: Add {B}{G}.",3,5,0,0,0
+24661b81-6bee-4ad8-b3ab-53cb65005c51,1492,1.0,0.1,14,6,Goblin Rabblemaster,{2}{R},Creature — Goblin Warrior,"Other Goblin creatures you control attack each combat if able.
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token with haste.
+Whenever Goblin Rabblemaster attacks, it gets +1/+0 until end of turn for each other attacking Goblin.",2,4,2,2,0
+d1b815d1-2848-40d4-a555-66822d1becbc,1412,0.4285714285714285,0.1651376146788991,18,3,Channel,{G}{G},Sorcery,"Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C}.",3,3,0,0,0
+0ff11a61-6fe3-4c70-aba8-417023a5e54e,950,0.5882352941176471,0.149090909090909,41,10,"Nadu, Winged Wisdom",{1}{G}{U},Legendary Creature — Bird Wizard,"Flying
+Creatures you control have ""Whenever this creature becomes the target of a spell or ability, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand. This ability triggers only twice each turn.""",2,11,3,4,0
+878b6808-48af-4047-ac35-bfc58bf92e7d,1222,1.0,0.1188118811881188,24,11,Goblin Bushwhacker,{R},Creature — Goblin Warrior,"Kicker {R} (You may pay an additional {R} as you cast this spell.)
+When Goblin Bushwhacker enters, if it was kicked, creatures you control get +1/+0 and gain haste until end of turn.",4,4,1,1,0
+d6d72f5f-8f5d-4180-b514-f22ff5482902,1276,1.0,0.1171171171171171,13,2,Bonecrusher Giant // Stomp,{2}{R},Creature — Giant,"Whenever Bonecrusher Giant becomes the target of a spell, Bonecrusher Giant deals 2 damage to that spell's controller.
+//
+Damage can't be prevented this turn. Stomp deals 2 damage to any target.",2,4,4,3,0
+73e7a2ad-d11c-4867-b97d-f971809da778,1042,0.4285714285714285,0.1428571428571428,28,3,Glacial Chasm,0,Land,"Cumulative upkeep—Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+When Glacial Chasm enters, sacrifice a land.
+Creatures you control can't attack.
+Prevent all damage that would be dealt to you.",1,5,0,0,0
+f7f76f39-a0de-4bda-86b6-0f291892fcec,1190,1.0,0.0510948905109489,7,3,Yawgmoth's Bargain,{4}{B}{B},Enchantment,"Skip your draw step.
+Pay 1 life: Draw a card.",1,6,0,0,0
+69b409b3-fa16-4c79-8b46-215a7036ed46,1378,0.625,0.1694915254237288,30,5,The Tabernacle at Pendrell Vale,0,Legendary Land,"All creatures have ""At the beginning of your upkeep, destroy this creature unless you pay {1}.""",5,5,0,0,0
+30b24e8e-3b0e-4d8e-90f3-f66eb7c1858c,1480,1.0,0.1610738255033557,24,6,Eternal Witness,{1}{G}{G},Creature — Human Shaman,"When Eternal Witness enters, you may return target card from your graveyard to your hand.",3,3,2,1,0
+4b515bb0-f275-4400-8032-3173b799ab40,1554,0.4,0.1568627450980392,16,2,Walking Ballista,{X}{X},Artifact Creature — Construct,"Walking Ballista enters with X +1/+1 counters on it.
+{4}: Put a +1/+1 counter on Walking Ballista.
+Remove a +1/+1 counter from Walking Ballista: It deals 1 damage to any target.",2,5,0,0,0
+b1544f21-7e98-461b-aed5-e748b0168c52,2154,1.0,0.3809523809523809,32,10,Swords to Plowshares,{W},Instant,Exile target creature. Its controller gains life equal to its power.,1,2,0,0,0
+454a8902-8120-4373-96ee-bbf352b04e8d,1114,1.0,0.0584415584415584,9,4,Hero of Bladehold,{2}{W}{W},Creature — Human Knight,"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Whenever Hero of Bladehold attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking.",1,2,3,4,0
+9fc28e1f-f4ea-4bf8-9442-a36dba3b3b29,772,0.5,0.0687830687830687,13,1,Goblin Welder,{R},Creature — Goblin Artificer,"{T}: Choose target artifact a player controls and target artifact card in that player's graveyard. If both targets are still legal as this ability resolves, that player simultaneously sacrifices the artifact and returns the artifact card to the battlefield.",2,4,1,1,0
+53f7c868-b03e-4fc2-8dcf-a75bbfa3272b,916,0.0,0.0543478260869565,5,0,Dark Ritual,{B},Instant,Add {B}{B}{B}.,4,6,0,0,0
+32e5339e-9e4f-46f8-b305-f9d6d3ba8bb5,1528,1.0,0.1372549019607843,14,2,Lotus Petal,{0},Artifact,"{T}, Sacrifice Lotus Petal: Add one mana of any color.",4,5,0,0,0
+e49d745c-5130-4b54-bcbb-643b08528456,1200,0.875,0.0989010989010989,18,7,"Kytheon, Hero of Akros // Gideon, Battle-Forged",{W},Legendary Creature — Human Soldier,"At end of combat, if Kytheon, Hero of Akros and at least two other creatures attacked this combat, exile Kytheon, then return him to the battlefield transformed under his owner's control.
+{2}{W}: Kytheon gains indestructible until end of turn.
+//
++2: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.
++1: Until your next turn, target creature gains indestructible. Untap that creature.
+0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.",2,2,2,1,0
+f3c7af78-a77d-4134-82a2-a5ce84285a84,1558,1.0,0.1530612244897959,15,8,Flooded Strand,0,Land,"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.",2,5,0,0,0
+9d63ba8a-a5cd-4fdb-bba3-95612be0077c,1042,0.3333333333333333,0.1299212598425196,33,3,Long Goodbye,{1}{B},Instant,"This spell can't be countered. (This includes by the ward ability.)
+Destroy target creature or planeswalker with mana value 3 or less.",3,6,0,0,0
+eb9c9a34-88a8-4afe-a053-806f6b29834f,1086,1.0,0.1337579617834395,21,6,Memory Jar,{5},Artifact,"{T}, Sacrifice Memory Jar: Each player exiles all cards from their hand face down and draws seven cards. At the beginning of the next end step, each player discards their hand and returns to their hand each card they exiled this way.",1,5,0,0,0
+222fd9fc-7af4-4269-bbb9-cd7b8ac029bd,1356,1.0,0.1214953271028037,13,8,Troll of Khazad-dûm,{5}{B},Creature — Troll,"Troll of Khazad-dûm can't be blocked except by three or more creatures.
+Swampcycling {1} ({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)",4,6,6,5,0
+4df0d381-fc05-4d30-9307-48963aa2ecfd,1316,0.75,0.0696202531645569,11,6,Robber of the Rich,{1}{R},Creature — Human Archer Rogue,"Reach, haste
+Whenever Robber of the Rich attacks, if defending player has more cards in hand than you, exile the top card of their library. During any turn you attacked with a Rogue, you may cast that card and you may spend mana as though it were mana of any color to cast that spell.",1,4,2,2,0
+16437a83-be52-44cd-a768-a767c9347eb2,1052,1.0,0.0909090909090909,13,3,Fatal Push,{B},Instant,"Destroy target creature if it has mana value 2 or less.
+Revolt — Destroy that creature if it has mana value 4 or less instead if a permanent you controlled left the battlefield this turn.",3,6,0,0,0
+89c83a6d-f6c8-4984-a888-0db62dfb93b1,950,1.0,0.0437956204379562,6,2,Manamorphose,{1}{R/G},Instant,"Add two mana in any combination of colors.
+Draw a card.",3,12,0,0,0
+20283c4a-f1f0-42f0-bc08-6da87474426b,1278,1.0,0.0530973451327433,6,1,Breeding Pool,0,Land — Forest Island,"({T}: Add {G} or {U}.)
+As Breeding Pool enters, you may pay 2 life. If you don't, it enters tapped.",2,5,0,0,0
+ed14be15-8f8d-4fe3-a147-f5da8ed873bf,886,1.0,0.0504201680672268,6,1,Conduit of Worlds,{2}{G}{G},Artifact,"You may play lands from your graveyard.
+{T}: Choose target nonland permanent card in your graveyard. If you haven't cast a spell this turn, you may cast that card. If you do, you can't cast additional spells this turn. Activate only as a sorcery.",2,3,0,0,0
+4001b868-ada1-43f4-92e2-27ab0e80c913,802,0.0,0.1043956043956044,19,0,Vesuva,0,Land,You may have Vesuva enter tapped as a copy of any land on the battlefield.,2,5,0,0,0
+165bdc68-1da0-47db-a069-978fc4c04b3f,1122,0.1,0.1006711409395973,30,1,Caustic Bronco,{1}{B},Creature — Snake Horse Mount,"Whenever Caustic Bronco attacks, reveal the top card of your library and put it into your hand. You lose life equal to that card's mana value if Caustic Bronco isn't saddled. Otherwise, each opponent loses that much life.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)",2,6,2,2,0
+4567a528-75f0-4ea6-b927-3a500caf76ac,1414,1.0,0.0958904109589041,14,3,Arbor Elf,{G},Creature — Elf Druid,{T}: Untap target Forest.,2,3,1,1,0
+dbcbdf37-c40f-4068-b4a7-a849cab1056c,1122,0.5,0.125,35,5,Six,{2}{G},Legendary Creature — Treefolk,"Reach
+Whenever Six attacks, mill three cards. You may put a land card from among them into your hand.
+During your turn, nonland permanent cards in your graveyard have retrace. (You may cast permanent cards from your graveyard by discarding a land card in addition to paying their other costs.)",2,3,2,4,0
+cf0dcb27-f02e-4065-81dc-75fbbb09ea3f,1234,0.875,0.0666666666666666,12,7,Oath of Druids,{1}{G},Enchantment,"At the beginning of each player's upkeep, that player chooses target player who controls more creatures than they do and is their opponent. The first player may reveal cards from the top of their library until they reveal a creature card. If the first player does, that player puts that card onto the battlefield and all other cards revealed this way into their graveyard.",1,3,0,0,0
+8104e454-77f5-4d38-894e-41ed0d74c17c,1176,0.8,0.1291866028708134,27,4,Overburden,{1}{U},Enchantment,"Whenever a player puts a nontoken creature onto the battlefield, that player returns a land they control to its owner's hand.",2,1,0,0,0
+68954295-54e3-4303-a6bc-fc4547a4e3a3,1588,1.0,0.1089743589743589,17,7,Llanowar Elves,{G},Creature — Elf Druid,{T}: Add {G}.,4,3,1,1,0
+22f1a4a4-c423-4d1c-8775-0ed604a9fa51,836,0.0,0.009090909090909,1,0,Deathrite Shaman,{B/G},Creature — Elf Shaman,"{T}: Exile target land card from a graveyard. Add one mana of any color.
+{B}, {T}: Exile target instant or sorcery card from a graveyard. Each opponent loses 2 life.
+{G}, {T}: Exile target creature card from a graveyard. You gain 2 life.",2,13,1,2,0
+df2af646-3e5b-43a3-8f3e-50565889f456,1518,1.0,0.1846153846153846,24,6,"Urza, Lord Protector",{1}{W}{U},Legendary Creature — Human Artificer,"Artifact, instant, and sorcery spells you cast cost {1} less to cast.
+{7}: If you both own and control Urza, Lord Protector and an artifact named The Mightstone and Weakstone, exile them, then meld them into Urza, Planeswalker. Activate only as a sorcery.",1,14,2,4,0
+8e7b079d-9ede-421c-bd2b-f9a5126a8e6f,1304,0.0,0.0993377483443708,15,0,Esika's Chariot,{3}{G},Legendary Artifact — Vehicle,"When Esika's Chariot enters, create two 2/2 green Cat creature tokens.
+Whenever Esika's Chariot attacks, create a token that's a copy of target token you control.
+Crew 4",2,3,4,4,0
+ae1f2ab5-c6a5-4d49-a746-3cb4668bf805,822,1.0,0.044776119402985,6,1,Mycosynth Lattice,{6},Artifact,"All permanents are artifacts in addition to their other types.
+All cards that aren't on the battlefield, spells, and permanents are colorless.
+Players may spend mana as though it were mana of any color.",1,5,0,0,0
+0eaea4fd-a377-4541-9bdd-14921034a975,1144,0.0833333333333333,0.16,48,1,Doorkeeper Thrull,{1}{W},Creature — Thrull,"Flash
+Flying
+Artifacts and creatures entering don't cause abilities to trigger.",2,2,1,2,0
+49471b65-be9d-4ded-b2e5-dfc81b306b54,1076,0.25,0.096045197740113,17,1,"Brimaz, King of Oreskos",{1}{W}{W},Legendary Creature — Cat Soldier,"Vigilance
+Whenever Brimaz, King of Oreskos attacks, create a 1/1 white Cat Soldier creature token with vigilance that's attacking.
+Whenever Brimaz blocks a creature, create a 1/1 white Cat Soldier creature token with vigilance that's blocking that creature.",1,2,3,4,0
+38a12bd7-4394-44a8-91a0-6a4ff7fa4f71,1406,1.0,0.2270531400966183,47,6,Maze of Ith,0,Land,{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.,2,5,0,0,0
+ec3d4466-547c-4e02-b1b5-a156ec4637e9,1490,1.0,0.2112676056338028,15,3,Chrome Mox,{0},Artifact,"Imprint — When Chrome Mox enters, you may exile a nonartifact, nonland card from your hand.
+{T}: Add one mana of any of the exiled card's colors.",1,5,0,0,0
+12cc800c-c7be-4811-8207-fd01a99cc892,974,0.25,0.056,7,1,"Chandra, Torch of Defiance",{2}{R}{R},Legendary Planeswalker — Chandra,"+1: Exile the top card of your library. You may cast that card. If you don't, Chandra, Torch of Defiance deals 2 damage to each opponent.
++1: Add {R}{R}.
+−3: Chandra, Torch of Defiance deals 4 damage to target creature.
+−7: You get an emblem with ""Whenever you cast a spell, this emblem deals 5 damage to any target.""",1,4,0,0,4
+3adb7681-977f-4a32-9ec8-51481b958268,852,0.0,0.0451127819548872,6,0,Rakdos Signet,{2},Artifact,"{1}, {T}: Add {B}{R}.",3,5,0,0,0
+e0c00a74-bdf8-4fee-8042-42c5878e9e3c,1706,0.6153846153846154,0.32,48,8,Broadside Bombardiers,{2}{R},Creature — Goblin Pirate,"Menace, haste
+Boast — Sacrifice another creature or artifact: Broadside Bombardiers deals damage equal to 2 plus the sacrificed permanent's mana value to any target. (Activate only if this creature attacked this turn and only once each turn.)",2,4,2,2,0
+cd133d30-51ff-4114-a7d7-029345f0f0d7,774,0.0,0.0454545454545454,8,0,"Omnath, Locus of Creation",{R}{G}{W}{U},Legendary Creature — Elemental,"When Omnath, Locus of Creation enters, draw a card.
+Landfall — Whenever a land you control enters, you gain 4 life if this is the first time this ability has resolved this turn. If it's the second time, add {R}{G}{W}{U}. If it's the third time, Omnath deals 4 damage to each opponent and each planeswalker you don't control.",1,15,4,4,0
+7f06c098-6482-4bf3-a9a1-110d6d5b5703,982,0.0,0.0625,11,0,Gilded Drake,{1}{U},Creature — Drake,"Flying
+When Gilded Drake enters, exchange control of Gilded Drake and up to one target creature an opponent controls. If you don't or can't make an exchange, sacrifice Gilded Drake. This ability still resolves if its target becomes illegal.",2,1,3,3,0
+13d4c46b-c2d6-44cc-a252-4a991d471854,1342,0.75,0.1073825503355704,16,6,Sylvan Caryatid,{1}{G},Creature — Plant,"Defender, hexproof
+{T}: Add one mana of any color.",2,3,0,3,0
+2588f348-d7a3-46c8-9ace-dca53ed5ef99,1356,0.5555555555555556,0.1422924901185771,36,5,"Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",{1}{W},Legendary Creature — Cat Warrior,"When Ajani, Nacatl Pariah enters, create a 2/1 white Cat Warrior creature token.
+Whenever one or more other Cats you control die, you may exile Ajani, then return him to the battlefield transformed under his owner's control.
+//
++2: Put a +1/+1 counter on each Cat you control.
+0: Create a 2/1 white Cat Warrior creature token. When you do, if you control a red permanent other than Ajani, Nacatl Avenger, he deals damage equal to the number of creatures you control to any target.
+−4: Each opponent chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents they control, then sacrifices the rest.",2,2,1,2,0
+17fa98cd-ed8f-483f-9525-7e989a82ebb2,1420,1.0,0.1206896551724138,14,5,Balance,{1}{W},Sorcery,"Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.",1,2,0,0,0
+8ba36878-0816-44c7-b543-8ebfc28c2ecd,1134,0.4,0.0921658986175115,20,2,Angelic Destiny,{2}{W}{W},Enchantment — Aura,"Enchant creature
+Enchanted creature gets +4/+4, has flying and first strike, and is an Angel in addition to its other types.
+When enchanted creature dies, return Angelic Destiny to its owner's hand.",1,2,0,0,0
+108ae90a-50fa-4cfd-b751-d630e41425fe,1134,1.0,0.0588235294117647,6,3,Wrenn and Six,{R}{G},Legendary Planeswalker — Wrenn,"+1: Return up to one target land card from your graveyard to your hand.
+−1: Wrenn and Six deals 1 damage to any target.
+−7: You get an emblem with ""Instant and sorcery cards in your graveyard have retrace."" (You may cast instant and sorcery cards from your graveyard by discarding a land card in addition to paying their other costs.)",1,12,0,0,3
+2fd7018e-1c36-4d7f-8f72-22f2f7f60c60,966,0.25,0.0517241379310344,9,1,Eidolon of the Great Revel,{R}{R},Enchantment Creature — Spirit,"Whenever a player casts a spell with mana value 3 or less, Eidolon of the Great Revel deals 2 damage to that player.",2,4,2,2,0
+8b27326f-e7b8-4a4d-b589-df459246d19a,906,1.0,0.0512820512820512,8,1,Shadowspear,{1},Legendary Artifact — Equipment,"Equipped creature gets +1/+1 and has trample and lifelink.
+{1}: Permanents your opponents control lose hexproof and indestructible until end of turn.
+Equip {2}",2,5,0,0,0
+b4ce2c8f-a19c-461e-8a2e-0ec2bd3ebca3,1416,0.6956521739130435,0.2253968253968254,71,16,Ocelot Pride,{W},Creature — Cat,"First strike, lifelink
+Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+At the beginning of your end step, if you gained life this turn, create a 1/1 white Cat creature token. Then if you have the city's blessing, for each token you control that entered this turn, create a token that's a copy of it.",1,2,1,1,0
+97cabeda-9fe3-490d-99b4-4c8d87c17157,1328,0.8,0.0978260869565217,18,4,Noxious Revival,{G/P},Instant,"({G/P} can be paid with either {G} or 2 life.)
+Put target card from a graveyard on top of its owner's library.",3,3,0,0,0
+34515b16-c9a4-4f98-8c77-416a7a523407,1214,0.6666666666666666,0.1396648044692737,25,6,Wrath of God,{2}{W}{W},Sorcery,Destroy all creatures. They can't be regenerated.,2,2,0,0,0
+040cbd8a-a9e5-454b-a5ae-9b66bb66b8e9,1110,0.0,0.123076923076923,32,0,Nethergoyf,{B},Creature — Lhurgoyf,"Nethergoyf's power is equal to the number of card types among cards in your graveyard and its toughness is equal to that number plus 1.
+Escape—{2}{B}, Exile any number of other cards from your graveyard with four or more card types among them. (You may cast this card from your graveyard for its escape cost.)",1,6,-1,-1,0
+ba48e067-f4d9-45b2-ade1-71cf8cda418c,886,1.0,0.046979865771812,7,1,Kaito Shizuki,{1}{U}{B},Legendary Planeswalker — Kaito,"At the beginning of your end step, if Kaito Shizuki entered this turn, he phases out.
++1: Draw a card. Then discard a card unless you attacked this turn.
+−2: Create a 1/1 blue Ninja creature token with ""This creature can't be blocked.""
+−7: You get an emblem with ""Whenever a creature you control deals combat damage to a player, search your library for a blue or black creature card, put it onto the battlefield, then shuffle.""",1,16,0,0,3
+380c367f-73ea-485f-a37b-5af0ba160893,638,1.0,0.0065359477124183,1,1,Not Dead After All,{B},Instant,"Until end of turn, target creature you control gains ""When this creature dies, return it to the battlefield tapped under its owner's control, then create a Wicked Role token attached to it."" (Enchanted creature gets +1/+1. When this Aura is put into a graveyard, each opponent loses 1 life.)",4,6,0,0,0
+09a70ae8-3859-4a09-901d-dce063fa3b5f,1482,1.0,0.1792452830188679,19,4,Wasteland,0,Land,"{T}: Add {C}.
+{T}, Sacrifice Wasteland: Destroy target nonbasic land.",3,5,0,0,0
+1436dd81-496e-42a5-b210-fb5b9cdf073f,984,1.0,0.0355029585798816,6,3,Selesnya Signet,{2},Artifact,"{1}, {T}: Add {G}{W}.",4,5,0,0,0
+f25351e3-539b-4bbc-b92d-6480acf4d722,1324,1.0,0.0902255639097744,12,4,City of Brass,0,Land,"Whenever City of Brass becomes tapped, it deals 1 damage to you.
+{T}: Add one mana of any color.",2,5,0,0,0
+4eb813fd-2d5a-4b02-8193-662681ef4e7d,1268,0.4285714285714285,0.1317073170731707,27,3,Farewell,{4}{W}{W},Sorcery,"Choose one or more —
+• Exile all artifacts.
+• Exile all creatures.
+• Exile all enchantments.
+• Exile all graveyards.",2,2,0,0,0
+54022a10-c9f0-458d-a0ed-228843cd9a40,1038,0.5,0.0457516339869281,7,2,Bazaar of Baghdad,0,Land,"{T}: Draw two cards, then discard three cards.",5,5,0,0,0
+217062f5-96f1-454c-9507-17f34ef37070,1196,1.0,0.0661764705882353,9,1,Sheoldred's Edict,{1}{B},Instant,"Choose one —
+• Each opponent sacrifices a nontoken creature.
+• Each opponent sacrifices a creature token.
+• Each opponent sacrifices a planeswalker.",3,6,0,0,0
+9a1de7e4-9930-4db3-a8f3-d146d0abf38b,1112,0.5,0.0588235294117647,12,3,"Edric, Spymaster of Trest",{1}{G}{U},Legendary Creature — Elf Rogue,"Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.",2,11,2,2,0
+0bfa4512-e35a-4c93-b324-80ec659f5a97,1298,1.0,0.0909090909090909,13,6,"Ulamog, the Ceaseless Hunger",{10},Legendary Creature — Eldrazi,"When you cast this spell, exile two target permanents.
+Indestructible
+Whenever Ulamog, the Ceaseless Hunger attacks, defending player exiles the top twenty cards of their library.",1,5,10,10,0
+ef86989d-ce80-4e55-aece-7d11710eeffa,1406,1.0,0.15625,10,3,Polluted Delta,0,Land,"{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.",2,5,0,0,0
+65986c1b-8e51-4604-b685-d82fa7d1263a,1278,1.0,0.1089108910891089,11,3,Skullclamp,{1},Artifact — Equipment,"Equipped creature gets +1/-1.
+Whenever equipped creature dies, draw two cards.
+Equip {1}",3,5,0,0,0
+c0957e5e-c71b-439c-931c-9f55d2f76ace,960,0.0,0.0151515151515151,1,0,Fable of the Mirror-Breaker // Reflection of Kiki-Jiki,{2}{R},Enchantment — Saga,"(As this Saga enters and after your draw step, add a lore counter.)
+I — Create a 2/2 red Goblin Shaman creature token with ""Whenever this creature attacks, create a Treasure token.""
+II — You may discard up to two cards. If you do, draw that many cards.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+//
+{1}, {T}: Create a token that's a copy of another target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.",2,4,0,0,0
+0ba134d8-ee7d-48ec-8dc6-57942b8e9261,1254,0.6666666666666666,0.1162790697674418,15,2,Liliana of the Veil,{1}{B}{B},Legendary Planeswalker — Liliana,"+1: Each player discards a card.
+−2: Target player sacrifices a creature.
+−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.",1,6,0,0,3
+e27193b7-1a47-4555-865d-b1fd4c6d597f,1636,0.6666666666666666,0.1555555555555555,14,6,Fastbond,{G},Enchantment,"You may play any number of lands on each of your turns.
+Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you.",2,3,0,0,0
+c7c7bffa-442d-4ba5-b778-ad394c192f27,1396,1.0,0.1156462585034013,17,4,Candelabra of Tawnos,{1},Artifact,"{X}, {T}: Untap X target lands.",2,5,0,0,0
+e9117015-1050-44dd-a46b-e7ffe2085fae,878,0.0,0.0416666666666666,5,0,Ledger Shredder,{1}{U},Creature — Bird Advisor,"Flying
+Whenever a player casts their second spell each turn, Ledger Shredder connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)",1,1,1,3,0
+fcb2a95b-cef0-4b29-8b2b-538f380aff2b,596,0.0,0.0056497175141242,1,0,Vampire Hexmage,{B}{B},Creature — Vampire Shaman,"First strike
+Sacrifice Vampire Hexmage: Remove all counters from target permanent.",5,6,2,1,0
+34f34409-326d-4994-a0ea-1a69aa278f03,1242,1.0,0.1645569620253164,13,3,"Sheoldred, the Apocalypse",{2}{B}{B},Legendary Creature — Phyrexian Praetor,"Deathtouch
+Whenever you draw a card, you gain 2 life.
+Whenever an opponent draws a card, they lose 2 life.",1,6,4,5,0
+ee302659-59ed-4eef-babe-451b9ccf7f14,976,0.0,0.0692307692307692,9,0,"Uro, Titan of Nature's Wrath",{1}{G}{U},Legendary Creature — Elder Giant,"When Uro enters, sacrifice it unless it escaped.
+Whenever Uro enters or attacks, you gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield.
+Escape—{G}{G}{U}{U}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",1,11,6,6,0
+a3da7d5b-2c2b-45fe-b9c5-413b8c8fc0a2,760,1.0,0.0266666666666666,4,1,Academy Ruins,0,Legendary Land,"{T}: Add {C}.
+{1}{U}, {T}: Put target artifact card from your graveyard on top of your library.",2,5,0,0,0
+7973820b-fdaf-46ec-9e3e-d4c0e77b5067,1080,0.4444444444444444,0.1642857142857142,46,4,Fanatic of Rhonas,{1}{G},Creature — Snake Druid,"{T}: Add {G}.
+Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature with power 4 or greater.
+Eternalize {2}{G}{G} ({2}{G}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Snake Druid with no mana cost. Eternalize only as a sorcery.)",2,3,1,4,0
+45181cb8-2090-4471-ba90-e5a8f04d525f,1210,1.0,0.1282051282051282,20,7,Sacred Foundry,0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+As Sacred Foundry enters, you may pay 2 life. If you don't, it enters tapped.",2,5,0,0,0
+254f87cc-e0c2-484d-b5e8-1ea8c366990c,1518,1.0,0.147239263803681,24,7,Worldspine Wurm,{8}{G}{G}{G},Creature — Wurm,"Trample
+When Worldspine Wurm dies, create three 5/5 green Wurm creature tokens with trample.
+When Worldspine Wurm is put into a graveyard from anywhere, shuffle it into its owner's library.",1,3,15,15,0
+8ad91f64-ccab-4edc-bd54-b2ee9267d614,1380,0.6666666666666666,0.0972222222222222,14,6,Lotus Cobra,{1}{G},Creature — Snake,"Landfall — Whenever a land you control enters, add one mana of any color.",2,3,2,1,0
+a8abd966-de7b-46a3-8ac7-8747ab35653a,1804,1.0,0.3209876543209876,26,6,Wheel of Fortune,{2}{R},Sorcery,"Each player discards their hand, then draws seven cards.",2,4,0,0,0
+60433b48-d27f-413c-905c-43839b1943f1,1260,1.0,0.0967741935483871,12,5,Mother of Runes,{W},Creature — Human Cleric,{T}: Target creature you control gains protection from the color of your choice until end of turn.,3,2,1,1,0
+98aa9424-5912-4bd6-9300-b3972a31d8af,1746,0.9,0.2162162162162162,24,9,Noble Hierarch,{G},Creature — Human Druid,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{T}: Add {G}, {W}, or {U}.",2,3,0,1,0
+13575cf9-65c1-4861-b21e-eb2155e07766,1416,1.0,0.1095890410958904,8,1,Sensei's Divining Top,{1},Artifact,"{1}: Look at the top three cards of your library, then put them back in any order.
+{T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.",3,5,0,0,0
+bde94af8-faea-41ff-8eed-ba642eac9968,836,1.0,0.0421686746987951,7,1,Phantasmal Image,{1}{U},Creature — Illusion,"You may have Phantasmal Image enter as a copy of any creature on the battlefield, except it's an Illusion in addition to its other types and it has ""When this creature becomes the target of a spell or ability, sacrifice it.""",2,1,0,0,0
+c0d8fef4-65f4-4769-982d-b397d2b7e977,1296,1.0,0.1181818181818181,13,3,Animate Dead,{1}{B},Enchantment — Aura,"Enchant creature card in a graveyard
+When Animate Dead enters, if it's on the battlefield, it loses ""enchant creature card in a graveyard"" and gains ""enchant creature put onto the battlefield with Animate Dead."" Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.
+Enchanted creature gets -1/-0.",3,6,0,0,0
+c1cbbda0-e02b-4b9c-8669-ea87ca629520,1326,0.5,0.095505617977528,17,1,Dress Down,{1}{U},Enchantment,"Flash
+When Dress Down enters, draw a card.
+Creatures lose all abilities.
+At the beginning of the end step, sacrifice Dress Down.",2,1,0,0,0
+377179d5-ac83-4d34-b5b1-f3d8caa60f79,1192,1.0,0.1468531468531468,21,4,Subtlety,{2}{U}{U},Creature — Elemental Incarnation,"Flash
+Flying
+When Subtlety enters, choose up to one target creature spell or planeswalker spell. Its owner puts it on the top or bottom of their library.
+Evoke—Exile a blue card from your hand.",1,1,3,3,0
+1de1b591-a73f-4974-b507-8c63e07a0868,1386,0.0,0.1058823529411764,18,0,Thassa's Oracle,{U}{U},Creature — Merfolk Wizard,"When Thassa's Oracle enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",2,1,1,3,0
+7c2a4fe5-43e8-4e20-bef2-0278d18afc4b,1106,0.9230769230769232,0.12,30,12,Shifting Woodland,0,Land,"Shifting Woodland enters tapped unless you control a Forest.
+{T}: Add {G}.
+Delirium — {2}{G}{G}: Shifting Woodland becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard.",2,5,0,0,0
+16d40f56-691b-42a7-a5ab-157568921e03,958,0.0,0.1198501872659176,32,0,"Ral, Monsoon Mage // Ral, Leyline Prodigy",{1}{R},Legendary Creature — Human Wizard,"Instant and sorcery spells you cast cost {1} less to cast.
+Whenever you cast an instant or sorcery spell during your turn, flip a coin. If you lose the flip, Ral, Monsoon Mage deals 1 damage to you. If you win the flip, you may exile Ral. If you do, return him to the battlefield transformed under his owner's control.
+//
+Ral, Leyline Prodigy enters with an additional loyalty counter on him for each instant and sorcery spell you've cast this turn.
++1: Until your next turn, instant and sorcery spells you cast cost {1} less to cast.
+−2: Ral deals 2 damage divided as you choose among one or two targets. Draw a card if you control a blue permanent other than Ral.
+−8: Exile the top eight cards of your library. You may cast instant and sorcery spells from among them this turn without paying their mana costs.",2,4,1,3,0
+59119143-c0fa-49dd-adf0-e2fd3029c48b,1716,1.0,0.3309859154929577,47,12,Karakas,0,Legendary Land,"{T}: Add {W}.
+{T}: Return target legendary creature to its owner's hand.",1,5,0,0,0
+5e57a8cd-f4f0-40b2-84a0-e002751c0d40,1084,0.5,0.1118421052631579,17,3,Portable Hole,{W},Artifact,"When Portable Hole enters, exile target nonland permanent an opponent controls with mana value 2 or less until Portable Hole leaves the battlefield.",3,2,0,0,0
+c207aaee-0b67-4520-ad02-2c289228be2a,1396,0.6,0.1337209302325581,23,6,Through the Breach,{4}{R},Instant — Arcane,"You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.
+Splice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",1,4,0,0,0
+3979067a-9c68-443d-a85f-d9f07be880b9,1126,1.0,0.0833333333333333,14,3,Monastery Mentor,{2}{W},Creature — Human Monk,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell, create a 1/1 white Monk creature token with prowess.",1,2,2,2,0
+6b8cf2a0-b045-4d91-9d91-c602d40c6237,1402,1.0,0.188034188034188,22,4,Basalt Monolith,{3},Artifact,"Basalt Monolith doesn't untap during your untap step.
+{T}: Add {C}{C}{C}.
+{3}: Untap Basalt Monolith.",3,5,0,0,0
+4b22be3a-8ce1-47d1-b82e-6c3ccfb0548b,1086,1.0,0.0760869565217391,7,1,Underground Sea,0,Land — Island Swamp,({T}: Add {U} or {B}.),2,5,0,0,0
+8a76a9b9-3127-45fe-b20f-a8f643276281,1046,0.0,0.0756756756756756,14,0,Containment Priest,{1}{W},Creature — Human Cleric,"Flash
+If a nontoken creature would enter and it wasn't cast, exile it instead.",2,2,2,2,0
+907ae517-22d5-4ac7-bc3a-3f4d5eaeeb57,918,0.1428571428571428,0.0597014925373134,12,1,"Valki, God of Lies // Tibalt, Cosmic Impostor",{1}{B},Legendary Creature — God,"When Valki enters, each opponent reveals their hand. For each opponent, exile a creature card they revealed this way until Valki leaves the battlefield.
+{X}: Choose a creature card exiled with Valki with mana value X. Valki becomes a copy of that card.
+//
+As Tibalt enters, you get an emblem with ""You may play cards exiled with Tibalt, Cosmic Impostor, and you may spend mana as though it were mana of any color to cast those spells.""
++2: Exile the top card of each player's library.
+−3: Exile target artifact or creature.
+−8: Exile all graveyards. Add {R}{R}{R}.",2,6,2,1,0
+09ef446c-a13d-49d9-a94c-cd5f5a2d440b,1378,0.1666666666666666,0.1691176470588235,23,1,Displacer Kitten,{3}{U},Creature — Cat Beast,"Avoidance — Whenever you cast a noncreature spell, exile up to one target nonland permanent you control, then return that card to the battlefield under its owner's control.",2,1,2,2,0
+89b24b5f-d837-4274-8877-8ff7dc2708ba,1214,1.0,0.0373831775700934,8,3,"Drana, Liberator of Malakir",{1}{B}{B},Legendary Creature — Vampire Ally,"Flying, first strike
+Whenever Drana, Liberator of Malakir deals combat damage to a player, put a +1/+1 counter on each attacking creature you control.",1,6,2,3,0
+ededbdae-d9dc-4206-9335-d7158f2d7700,1432,1.0,0.1025641025641025,8,2,Vampiric Tutor,{B},Instant,"Search your library for a card, then shuffle and put that card on top. You lose 2 life.",1,6,0,0,0
+a20dd48d-d344-4db1-b0e9-a2b71c3cc9d1,1396,1.0,0.087719298245614,10,4,"Karn, the Great Creator",{4},Legendary Planeswalker — Karn,"Activated abilities of artifacts your opponents control can't be activated.
++1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.
+−2: You may reveal an artifact card you own from outside the game or choose a face-up artifact card you own in exile. Put that card into your hand.",2,5,0,0,5
+3ceaeb1b-8b25-453d-ac09-e466cfdd9c77,720,1.0,0.0426829268292682,7,1,Undying Evil,{B},Instant,"Target creature gains undying until end of turn. (When it dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",4,6,0,0,0
+0c7f18d5-36cb-4bc6-a358-443b97666215,1092,1.0,0.1042944785276073,17,3,The Wandering Emperor,{2}{W}{W},Legendary Planeswalker,"Flash
+As long as The Wandering Emperor entered this turn, you may activate her loyalty abilities any time you could cast an instant.
++1: Put a +1/+1 counter on up to one target creature. It gains first strike until end of turn.
+−1: Create a 2/2 white Samurai creature token with vigilance.
+−2: Exile target tapped creature. You gain 2 life.",1,2,0,0,3
+4adcd967-9ff7-4940-b8b9-0c4215bbcb75,1286,0.3636363636363636,0.1019607843137254,26,4,"Anzrag, the Quake-Mole",{2}{R}{G},Legendary Creature — Mole God,"Whenever Anzrag, the Quake-Mole becomes blocked, untap each creature you control. After this phase, there is an additional combat phase.
+{3}{R}{R}{G}{G}: Anzrag must be blocked each combat this turn if able.",1,12,8,4,0
+da3e7d3d-2ca0-40c3-9602-fca37c92f507,972,1.0,0.1145038167938931,15,2,"Emry, Lurker of the Loch",{2}{U},Legendary Creature — Merfolk Wizard,"This spell costs {1} less to cast for each artifact you control.
+When Emry, Lurker of the Loch enters, mill four cards.
+{T}: Choose target artifact card in your graveyard. You may cast that card this turn. (You still pay its costs. Timing rules still apply.)",2,1,1,2,0
+4ec85850-f274-4c0c-9a03-0488267caa14,1410,1.0,0.1013513513513513,15,2,Giver of Runes,{W},Creature — Kor Cleric,{T}: Another target creature you control gains protection from colorless or from the color of your choice until end of turn.,2,2,1,2,0
+afaef788-34d1-460b-b884-9d7ae6ddeb18,1198,1.0,0.0859375,11,1,Toxic Deluge,{2}{B},Sorcery,"As an additional cost to cast this spell, pay X life.
+All creatures get -X/-X until end of turn.",2,6,0,0,0
+02418479-9455-417f-a6a1-004356faff37,1246,1.0,0.1181818181818181,13,5,Tundra,0,Land — Plains Island,({T}: Add {W} or {U}.),2,5,0,0,0
+730e39e6-c61d-48b5-8827-bfd952bf1be7,976,0.0,0.0789473684210526,15,0,Omniscience,{7}{U}{U}{U},Enchantment,You may cast spells from your hand without paying their mana costs.,1,1,0,0,0
+749d2994-44e7-40d3-8630-7bebed239e9e,958,0.5,0.0617283950617283,10,1,Haywire Mite,{1},Artifact Creature — Insect,"When Haywire Mite dies, you gain 2 life.
+{G}, Sacrifice Haywire Mite: Exile target noncreature artifact or noncreature enchantment.",3,5,1,1,0
+ef8d9c3a-5860-45bf-8205-14e2df9a6fc8,1338,0.5,0.21,63,5,Nulldrifter,{7},Creature — Eldrazi Elemental,"When you cast this spell, draw two cards.
+Flying
+Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)
+Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)",2,5,4,4,0
+dba4fd31-8931-42dd-bd86-45479c2abf74,1822,1.0,0.345679012345679,28,6,Tolarian Academy,0,Legendary Land,{T}: Add {U} for each artifact you control.,1,5,0,0,0
+9d4b1e44-3c66-4b1b-8a1d-308aa4f841f8,1430,1.0,0.1261261261261261,14,3,Dack Fayden,{1}{U}{R},Legendary Planeswalker — Dack,"+1: Target player draws two cards, then discards two cards.
+−2: Gain control of target artifact.
+−6: You get an emblem with ""Whenever you cast a spell that targets one or more permanents, gain control of those permanents.""",1,17,0,0,3
+c803b788-4213-4fab-b841-7e5bbf66088e,834,1.0,0.0862068965517241,15,1,"Jhoira, Weatherlight Captain",{2}{U}{R},Legendary Creature — Human Artificer,"Whenever you cast a historic spell, draw a card. (Artifacts, legendaries, and Sagas are historic.)",2,17,3,3,0
+28b46183-c62f-47b1-9fee-3ba148202cab,1222,1.0,0.0833333333333333,14,6,Crop Rotation,{G},Instant,"As an additional cost to cast this spell, sacrifice a land.
+Search your library for a land card, put that card onto the battlefield, then shuffle.",3,3,0,0,0
+60e7130a-d321-4e50-93a4-999013c76054,1360,1.0,0.1329113924050632,21,6,"Gut, True Soul Zealot",{2}{R},Legendary Creature — Goblin Shaman,"Whenever you attack, you may sacrifice another creature or an artifact. If you do, create a 4/1 black Skeleton creature token with menace that's tapped and attacking. (It can't be blocked except by two or more creatures.)
+Choose a Background (You can have a Background as a second commander.)",3,4,2,2,0
+395611fa-aec2-4c9e-92c3-70cf95cc00f4,1372,1.0,0.1140350877192982,13,6,Inquisition of Kozilek,{B},Sorcery,Target player reveals their hand. You choose a nonland card from it with mana value 3 or less. That player discards that card.,2,6,0,0,0
+36cd2364-d113-47d1-b2c4-b088d9eb88dd,1188,1.0,0.0886075949367088,7,2,Brainstorm,{U},Instant,"Draw three cards, then put two cards from your hand on top of your library in any order.",4,1,0,0,0
+97836c48-8777-4b4e-98fb-e99204f38bdd,1286,0.5909090909090909,0.1925675675675675,57,13,"Ulamog, the Defiler",{10},Legendary Creature — Eldrazi,"When you cast this spell, target opponent exiles the top half of their library, rounded up.
+Ward—Sacrifice two permanents.
+Ulamog, the Defiler enters with a number of +1/+1 counters on it equal to the greatest mana value among cards in exile.
+Ulamog has annihilator X, where X is the number of +1/+1 counters on it.",1,5,7,7,0
+e3c85068-b4b6-40b9-a16c-5c3b2d059ec4,1240,0.3333333333333333,0.0573248407643312,9,1,Academy Rector,{3}{W},Creature — Human Cleric,"When Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle.",2,2,1,2,0
+93723b12-db34-4047-885e-8606415b1553,910,0.0,0.0909090909090909,15,0,"Ashiok, Dream Render",{1}{U/B}{U/B},Legendary Planeswalker — Ashiok,"Spells and abilities your opponents control can't cause their controller to search their library.
+−1: Target player mills four cards. Then exile each opponent's graveyard.",2,16,0,0,5
+ba284fe6-bb29-455c-8321-9714a0cdc05e,1302,1.0,0.1111111111111111,16,4,Mishra's Workshop,0,Land,{T}: Add {C}{C}{C}. Spend this mana only to cast artifact spells.,1,5,0,0,0
+dfbd3afc-9905-4cff-a4f4-df08a4d0a7fa,1426,0.5,0.1381215469613259,25,6,Restoration Angel,{3}{W},Creature — Angel,"Flash
+Flying
+When Restoration Angel enters, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.",2,2,3,4,0
+550c74d4-1fcb-406a-b02a-639a760a4380,2154,1.0,0.4423076923076923,23,13,Ancestral Recall,{U},Instant,Target player draws three cards.,5,1,0,0,0
+c61fe162-2202-4e56-9ba0-393547f9875f,1628,1.0,0.203883495145631,21,4,Mana Leak,{1}{U},Instant,Counter target spell unless its controller pays {3}.,4,1,0,0,0
+824597b8-c89a-47ec-8526-7efc6e24ef0e,1980,1.0,0.4838709677419355,15,1,Mox Pearl,{0},Artifact,{T}: Add {W}.,2,5,0,0,0
+9519a4ea-c4a0-4127-b06a-aac9ffaf7a32,1060,1.0,0.0507614213197969,10,3,"Arwen, Mortal Queen",{1}{G}{W},Legendary Creature — Elf Noble,"Arwen, Mortal Queen enters with an indestructible counter on it.
+{1}, Remove an indestructible counter from Arwen: Another target creature gains indestructible until end of turn. Put a +1/+1 counter and a lifelink counter on that creature and a +1/+1 counter and a lifelink counter on Arwen.",1,18,2,2,0
+f7e7b78c-c769-4720-8585-1874773eb342,1410,0.9,0.1049723756906077,19,9,Ziatora's Proving Ground,0,Land — Swamp Mountain Forest,"({T}: Add {B}, {R}, or {G}.)
+Ziatora's Proving Ground enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",2,5,0,0,0
+c8de43a3-ebd3-4000-b343-a6ffed11d34d,1458,1.0,0.0849056603773584,9,5,Ignoble Hierarch,{G},Creature — Goblin Shaman,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{T}: Add {B}, {R}, or {G}.",2,3,0,1,0
+196f8f13-d4df-4740-8746-8fed3bc71840,990,0.3333333333333333,0.0685483870967741,17,2,"Grist, Voracious Larva // Grist, the Plague Swarm",{G},Legendary Creature — Insect,"Deathtouch
+Whenever Grist, Voracious Larva or another creature you control enters, if it entered from your graveyard or you cast it from your graveyard, you may pay {G}. If you do, exile Grist, then return it to the battlefield transformed under its owner's control.
+//
++1: Create a 1/1 black and green Insect creature token, then mill two cards. Put a deathtouch counter on the token if a black card was milled this way.
+−2: Destroy target artifact or enchantment.
+−6: For each creature card in your graveyard, create a token that's a copy of it, except it's a 1/1 black and green Insect.",2,3,1,2,0
+e157ad1e-be35-47f3-92db-01799f8fb6a5,746,0.6666666666666666,0.1068702290076335,28,4,Psychic Frog,{U}{B},Creature — Frog,"Whenever Psychic Frog deals combat damage to a player or planeswalker, draw a card.
+Discard a card: Put a +1/+1 counter on Psychic Frog.
+Exile three cards from your graveyard: Psychic Frog gains flying until end of turn.",2,16,1,2,0
+e8065e1d-e937-4b56-8011-78f0d07328a0,1262,0.8181818181818182,0.1055555555555555,19,9,"Krenko, Tin Street Kingpin",{2}{R},Legendary Creature — Goblin,"Whenever Krenko, Tin Street Kingpin attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power.",2,4,1,2,0
+e7c67480-1816-4071-9eab-a1d1b535a344,1024,0.5,0.0531914893617021,5,1,"Comet, Stellar Pup",{2}{R}{W},Legendary Planeswalker — Comet,"0: Roll a six-sided die.
+1 or 2 — [+2], then create two 1/1 green Squirrel creature tokens. They gain haste until end of turn.
+3 — [−1], then return a card with mana value 2 or less from your graveyard to your hand.
+4 or 5 — Comet, Stellar Pup deals damage equal to the number of loyalty counters on him to a creature or player, then [−2].
+6 — [+1], and you may activate Comet, Stellar Pup's loyalty ability two more times this turn.",1,19,0,0,5
+fb868840-09fa-49b1-85cb-b08ad065e972,838,0.0,0.0422535211267605,6,0,Bitterblossom,{1}{B},Kindred Enchantment — Faerie,"At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying.",1,6,0,0,0
+45866598-4ee4-46b6-ade2-ffcdbe98e58f,1178,1.0,0.0942028985507246,13,3,Necron Deathmark,{3}{B}{B},Artifact Creature — Necron,"Flash
+Synaptic Disintegrator — When Necron Deathmark enters, destroy up to one target creature and target player mills three cards.",2,6,5,3,0
+edd8d1e8-be43-4c38-bb3a-83081fbaf0b5,1450,1.0,0.1219512195121951,10,6,Thoughtseize,{B},Sorcery,Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.,1,6,0,0,0
+703243f0-8cb3-420f-958f-5fd4bde30293,1106,1.0,0.1137724550898203,19,6,Savannah,0,Land — Forest Plains,({T}: Add {G} or {W}.),2,5,0,0,0
+1da10d5c-36a8-473f-a5d4-782ad61d8057,1004,0.0,0.0259740259740259,2,0,Umezawa's Jitte,{2},Legendary Artifact — Equipment,"Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.
+Remove a charge counter from Umezawa's Jitte: Choose one —
+• Equipped creature gets +2/+2 until end of turn.
+• Target creature gets -1/-1 until end of turn.
+• You gain 2 life.
+Equip {2}",2,5,0,0,0
+5a3fdf5a-bff8-4896-b288-3f43f9a72d9b,1196,0.8888888888888888,0.0885416666666666,17,8,"Vorinclex, Monstrous Raider",{4}{G}{G},Legendary Creature — Phyrexian Praetor,"Trample, haste
+If you would put one or more counters on a permanent or player, put twice that many of each of those kinds of counters on that permanent or player instead.
+If an opponent would put one or more counters on a permanent or player, they put half that many of each of those kinds of counters on that permanent or player instead, rounded down.",1,3,6,6,0
+de3dcb5d-775a-479f-99f5-d1883ed9b1b5,864,0.0,0.05,8,0,Orzhov Signet,{2},Artifact,"{1}, {T}: Add {W}{B}.",3,5,0,0,0
+3dd196b6-a85a-4e3e-bb57-ec34241f8117,1428,0.625,0.1088082901554404,21,5,Terminus,{4}{W}{W},Sorcery,"Put all creatures on the bottom of their owners' libraries.
+Miracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",2,2,0,0,0
+0c2841bb-038c-4fbf-8360-bc0a1522b58d,1492,0.8,0.1804511278195488,24,12,Exploration,{G},Enchantment,You may play an additional land on each of your turns.,2,3,0,0,0
+ea9f4de3-fc35-435a-8dff-a5657d14a9bd,1160,0.0,0.0544217687074829,8,0,"Daretti, Scrap Savant",{3}{R},Legendary Planeswalker — Daretti,"+2: Discard up to two cards, then draw that many cards.
+−2: Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield.
+−10: You get an emblem with ""Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step.""
+Daretti, Scrap Savant can be your commander.",2,4,0,0,3
+340bbe8b-e987-4c3e-ab4e-9dee63e57d4f,1250,0.1428571428571428,0.0967741935483871,12,1,Phyrexian Metamorph,{3}{U/P},Artifact Creature — Phyrexian Shapeshifter,"({U/P} can be paid with either {U} or 2 life.)
+You may have Phyrexian Metamorph enter as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types.",2,1,0,0,0
+2cb1c213-b3f2-4433-8f89-6a3b4c3d2795,942,0.0,0.0666666666666666,10,0,"Kroxa, Titan of Death's Hunger",{B}{R},Legendary Creature — Elder Giant,"When Kroxa enters, sacrifice it unless it escaped.
+Whenever Kroxa enters or attacks, each opponent discards a card, then each opponent who didn't discard a nonland card this way loses 3 life.
+Escape—{B}{B}{R}{R}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",1,7,6,6,0
+a0be9bb2-3234-4c6c-b8ce-0879b1f43003,1382,0.6666666666666666,0.12,12,4,"Laelia, the Blade Reforged",{2}{R},Legendary Creature — Spirit Warrior,"Haste
+Whenever Laelia, the Blade Reforged attacks, exile the top card of your library. You may play that card this turn.
+Whenever one or more cards are put into exile from your library and/or your graveyard, put a +1/+1 counter on Laelia.",2,4,2,2,0
+e87906d2-db1a-4e19-b910-adb4eb339945,1560,1.0,0.1851851851851851,15,4,"Urza, Lord High Artificer",{2}{U}{U},Legendary Creature — Human Artificer,"When Urza, Lord High Artificer enters, create a 0/0 colorless Construct artifact creature token with ""This creature gets +1/+1 for each artifact you control.""
+Tap an untapped artifact you control: Add {U}.
+{5}: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost.",1,1,1,4,0
+acf4d685-a718-42f7-9a7a-dee069ae8db2,1110,1.0,0.0928961748633879,17,3,Council's Judgment,{1}{W}{W},Sorcery,"Will of the council — Starting with you, each player votes for a nonland permanent you don't control. Exile each permanent with the most votes or tied for most votes.",2,2,0,0,0
+60c60923-ff1b-43f7-8768-731499fcffc9,1504,1.0,0.1698113207547169,9,3,"Oko, Thief of Crowns",{1}{G}{U},Legendary Planeswalker — Oko,"+2: Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
++1: Target artifact or creature loses all abilities and becomes a green Elk creature with base power and toughness 3/3.
+−5: Exchange control of target artifact or creature you control and target creature an opponent controls with power 3 or less.",1,11,0,0,4
+f0449cbd-855c-4c20-a1f5-f76a395d8d39,1258,0.75,0.1463414634146341,18,3,Reprieve,{1}{W},Instant,"Return target spell to its owner's hand.
+Draw a card.",3,2,0,0,0
+44503105-3e13-408d-a44f-37d503c61d72,972,0.75,0.0680272108843537,10,3,Simic Signet,{2},Artifact,"{1}, {T}: Add {G}{U}.",4,5,0,0,0
+ae83ef2c-960f-4c5b-97cc-52465c687c18,1562,1.0,0.146067415730337,13,6,Primeval Titan,{4}{G}{G},Creature — Giant,"Trample
+Whenever Primeval Titan enters or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle.",1,3,6,6,0
+dcb9c2a7-ae54-4ddc-a567-640bf4bf4366,1436,1.0,0.1926605504587156,21,10,Solitude,{3}{W}{W},Creature — Elemental Incarnation,"Flash
+Lifelink
+When Solitude enters, exile up to one other target creature. That creature's controller gains life equal to its power.
+Evoke—Exile a white card from your hand.",1,2,3,2,0
+89ca686a-7c72-4d8f-9290-e89635624a83,1132,0.5714285714285714,0.093167701863354,15,4,Cavern of Souls,0,Land,"As Cavern of Souls enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.",1,5,0,0,0
+358789f9-7d87-411d-919e-d597da665cbd,1054,1.0,0.0504201680672268,6,1,Stoneforge Mystic,{1}{W},Creature — Kor Artificer,"When Stoneforge Mystic enters, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+{1}{W}, {T}: You may put an Equipment card from your hand onto the battlefield.",1,2,1,2,0
+23d3e5fe-3f82-44cf-91a1-6646a12a0255,1552,0.6,0.1884057971014492,13,3,Echo of Eons,{4}{U}{U},Sorcery,"Each player shuffles their hand and graveyard into their library, then draws seven cards.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",2,1,0,0,0
+23467047-6dba-4498-b783-1ebc4f74b8c2,1380,1.0,0.1549295774647887,11,2,Ancient Tomb,0,Land,{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.,1,5,0,0,0
+dade5835-ccaf-45e3-b9a3-46017e0384b3,1144,1.0,0.0988372093023255,17,3,Ensnaring Bridge,{3},Artifact,Creatures with power greater than the number of cards in your hand can't attack.,2,5,0,0,0
+3aa83ed2-f48b-4ce6-a614-2c54ddf50538,2302,1.0,0.4507042253521127,32,11,The One Ring,{4},Legendary Artifact,"Indestructible
+When The One Ring enters, if you cast it, you gain protection from everything until your next turn.
+At the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring.
+{T}: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring.",1,5,0,0,0
+322f0459-f394-44f0-977b-55fd0cbe0712,970,0.0,0.0546875,7,0,Yawgmoth's Will,{2}{B},Sorcery,"Until end of turn, you may play lands and cast spells from your graveyard.
+If a card would be put into your graveyard from anywhere this turn, exile that card instead.",1,6,0,0,0
+7975cb9d-d37e-44f8-9614-86d2ad453c35,894,1.0,0.0484848484848484,8,1,Chainer's Edict,{1}{B},Sorcery,"Target player sacrifices a creature.
+Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",3,6,0,0,0
+fc9ec820-4245-4a96-b009-5308a818ca58,760,0.0,0.0095238095238095,1,0,Watery Grave,0,Land — Island Swamp,"({T}: Add {U} or {B}.)
+As Watery Grave enters, you may pay 2 life. If you don't, it enters tapped.",2,5,0,0,0
+c8d95ca8-7d12-4072-aeaf-e20f248c7e39,894,0.0,0.044776119402985,6,0,Scrubland,0,Land — Plains Swamp,({T}: Add {W} or {B}.),5,5,0,0,0
+229d6627-1292-4ae1-8849-b0f956fa6540,1570,1.0,0.25,20,2,Grim Monolith,{2},Artifact,"Grim Monolith doesn't untap during your untap step.
+{T}: Add {C}{C}{C}.
+{4}: Untap Grim Monolith.",2,5,0,0,0
+47a785ed-8095-4685-8daa-02c4e2b0ffcd,1458,1.0,0.1414141414141414,14,2,Spellseeker,{2}{U},Creature — Human Wizard,"When Spellseeker enters, you may search your library for an instant or sorcery card with mana value 2 or less, reveal it, put it into your hand, then shuffle.",1,1,1,1,0
+20347559-95a9-4689-bb79-c5bb3809b719,1224,0.6923076923076923,0.1046511627906976,18,9,Elves of Deep Shadow,{G},Creature — Elf Druid,{T}: Add {B}. Elves of Deep Shadow deals 1 damage to you.,2,3,1,1,0
+02238355-9c84-4ae0-b850-269f460144a8,1286,1.0,0.1,14,3,Seasoned Pyromancer,{1}{R}{R},Creature — Human Shaman,"When Seasoned Pyromancer enters, discard two cards, then draw two cards. For each nonland card discarded this way, create a 1/1 red Elemental creature token.
+{3}{R}{R}, Exile Seasoned Pyromancer from your graveyard: Create two 1/1 red Elemental creature tokens.",1,4,2,2,0
+50aa7aff-1f01-4224-9a83-01f74d703ec2,1358,0.875,0.1194968553459119,19,7,Earthcraft,{1}{G},Enchantment,Tap an untapped creature you control: Untap target basic land.,2,3,0,0,0
+a34b7416-cfe3-4a1e-a8c1-a3056b747519,1494,0.7272727272727273,0.1346153846153846,21,8,"Kiki-Jiki, Mirror Breaker",{2}{R}{R}{R},Legendary Creature — Goblin Shaman,"Haste
+{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.",1,4,2,2,0
+503094aa-6f8f-42c1-ad5a-9305934e5f0c,1372,0.8,0.0935251798561151,13,4,"Myrel, Shield of Argive",{3}{W},Legendary Creature — Human Soldier,"During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.
+Whenever Myrel, Shield of Argive attacks, create X 1/1 colorless Soldier artifact creature tokens, where X is the number of Soldiers you control.",1,2,3,4,0
+ceef2d5a-77ea-4e56-9806-fd1a2d5be400,814,0.0,0.0443037974683544,7,0,Archon of Emeria,{2}{W},Creature — Archon,"Flying
+Each player can't cast more than one spell each turn.
+Nonbasic lands your opponents control enter tapped.",2,2,2,3,0
+41c84665-1f99-40ab-aaca-1188649eb263,752,0.0,0.0305343511450381,4,0,Boros Signet,{2},Artifact,"{1}, {T}: Add {R}{W}.",3,5,0,0,0
+c5229c17-b7be-4b05-b683-f2277edc4849,934,0.0,0.0227272727272727,3,0,Enlightened Tutor,{W},Instant,"Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top.",2,2,0,0,0
+b685757b-521e-4353-a233-97052359723d,1140,1.0,0.0699300699300699,10,3,Questing Beast,{2}{G}{G},Legendary Creature — Beast,"Vigilance, deathtouch, haste
+Questing Beast can't be blocked by creatures with power 2 or less.
+Combat damage that would be dealt by creatures you control can't be prevented.
+Whenever Questing Beast deals combat damage to an opponent, it deals that much damage to target planeswalker that player controls.",1,3,4,4,0
+74b7fe23-5d3a-4092-8d78-7c0eba8f6f73,1444,1.0,0.1188118811881188,12,10,Tropical Island,0,Land — Forest Island,({T}: Add {G} or {U}.),2,5,0,0,0
+99d4d99d-cf56-45aa-aa39-a250695612f2,1632,0.875,0.2586206896551724,15,7,Time Vault,{2},Artifact,"Time Vault enters tapped.
+Time Vault doesn't untap during your untap step.
+If you would begin your turn while Time Vault is tapped, you may skip that turn instead. If you do, untap Time Vault.
+{T}: Take an extra turn after this one.",2,5,0,0,0
+1515b0c2-1b55-4cd4-ad81-fb6b1f3e8188,1532,1.0,0.1489361702127659,14,7,Fractured Identity,{3}{W}{U},Sorcery,Exile target nonland permanent. Each player other than its controller creates a token that's a copy of it.,1,14,0,0,0
+db6174d7-211d-4817-b8e4-8384594c83f9,1026,1.0,0.048076923076923,5,1,"Urborg, Tomb of Yawgmoth",0,Legendary Land,Each land is a Swamp in addition to its other land types.,1,5,0,0,0
+ac2173f9-f223-440a-9231-fd98762bdc6f,1484,1.0,0.1684210526315789,16,7,Force of Negation,{1}{U}{U},Instant,"If it's not your turn, you may exile a blue card from your hand rather than pay this spell's mana cost.
+Counter target noncreature spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",2,1,0,0,0
+3f0c9466-5ab9-4205-a84f-b4b27b5a678e,920,0.0,0.0528846153846153,11,0,Bloodbraid Elf,{2}{R}{G},Creature — Elf Berserker,"Haste
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",3,12,3,2,0
+1d67f5ff-1fce-45e5-b6a1-416c569351e2,1292,1.0,0.1477272727272727,13,3,Gitaxian Probe,{U/P},Sorcery,"({U/P} can be paid with either {U} or 2 life.)
+Look at target player's hand.
+Draw a card.",4,1,0,0,0
+ee6099b0-fb1f-42f1-b862-7708c6e36d05,1156,1.0,0.1238938053097345,14,1,Lion's Eye Diamond,{0},Artifact,"Discard your hand, Sacrifice Lion's Eye Diamond: Add three mana of any one color. Activate only as an instant.",1,5,0,0,0
+94fac5fe-97d5-4c12-a80c-8efff9d853ae,856,1.0,0.0503597122302158,7,1,Blood Moon,{2}{R},Enchantment,Nonbasic lands are Mountains.,1,4,0,0,0
+a6395447-677d-4c39-8eda-2d57e527c94e,1354,0.1428571428571428,0.1024096385542168,17,1,Torrential Gearhulk,{4}{U}{U},Artifact Creature — Construct,"Flash
+When Torrential Gearhulk enters, you may cast target instant card from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.",2,1,5,6,0
+63a19c7c-49d7-4b75-aac8-d0ff36c45fb8,884,0.0,0.1062271062271062,29,0,Sowing Mycospawn,{3}{G},Creature — Eldrazi Fungus,"Devoid (This card has no color.)
+Kicker {1}{C} (You may pay an additional {1}{C} as you cast this spell.)
+When you cast this spell, search your library for a land card, put it onto the battlefield, then shuffle.
+When you cast this spell, if it was kicked, exile target land.",2,5,3,3,0
+736892cb-a34b-4bb9-b56c-e26e3db207a2,1932,1.0,0.3333333333333333,23,10,Mana Vault,{1},Artifact,"Mana Vault doesn't untap during your untap step.
+At the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault.
+At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.
+{T}: Add {C}{C}{C}.",1,5,0,0,0
+45900b2f-f6a9-4c42-9642-008f3c1cf6dd,968,0.0,0.0697674418604651,9,0,Tarmogoyf,{1}{G},Creature — Lhurgoyf,Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.,1,3,-1,-1,0
+7c427c3d-ecd8-45ef-bebd-8f10f4a311db,1972,1.0,0.2758620689655172,32,12,Gaea's Cradle,0,Legendary Land,{T}: Add {G} for each creature you control.,5,5,0,0,0
+02090581-61aa-4348-ad57-451be8ee91c2,1458,0.0,0.1940298507462686,13,0,Ponder,{U},Sorcery,"Look at the top three cards of your library, then put them back in any order. You may shuffle.
+Draw a card.",2,1,0,0,0
+16cd0b90-f70c-4efa-b252-8de8784ef9a3,1436,1.0,0.12,12,5,Imperial Seal,{B},Sorcery,"Search your library for a card, then shuffle and put that card on top. You lose 2 life.",1,6,0,0,0
+43985bbc-a0f6-4812-984e-392bc8562633,818,0.0,0.0363636363636363,4,0,Blood Crypt,0,Land — Swamp Mountain,"({T}: Add {B} or {R}.)
+As Blood Crypt enters, you may pay 2 life. If you don't, it enters tapped.",2,5,0,0,0
+900ca697-ad38-4b2b-bc74-2ff7eb6ea951,1340,1.0,0.1397849462365591,13,4,"Emrakul, the Aeons Torn",{15},Legendary Creature — Eldrazi,"This spell can't be countered.
+When you cast this spell, take an extra turn after this one.
+Flying, protection from spells that are one or more colors, annihilator 6
+When Emrakul, the Aeons Torn is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.",1,5,15,15,0
+8a3ad2ef-8bcb-40c0-85de-f03328c2b644,1144,0.2727272727272727,0.1553398058252427,48,3,Springheart Nantuko,{1}{G},Enchantment Creature — Insect Monk,"Bestow {1}{G}
+Enchanted creature gets +1/+1.
+Landfall — Whenever a land you control enters, you may pay {1}{G} if Springheart Nantuko is attached to a creature you control. If you do, create a token that's a copy of that creature. If you didn't create a token this way, create a 1/1 green Insect creature token.",2,3,1,1,0
+b76d1ae6-ad1d-4bac-b4c3-2e03e0e84d9b,1002,0.0,0.0393700787401574,5,0,Bayou,0,Land — Swamp Forest,({T}: Add {B} or {G}.),2,5,0,0,0
+f9db72dc-9a5b-48a4-a86e-7464d9a2166a,1134,1.0,0.1111111111111111,16,3,Abrade,{1}{R},Instant,"Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.",4,4,0,0,0
+bbfb3e4a-b389-4391-8141-13b68c0ef2e0,1658,1.0,0.2105263157894736,24,9,Memory Lapse,{1}{U},Instant,"Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.",2,1,0,0,0
+2cce7250-f8f9-4c0a-87b1-ba3c5b8ed6b3,962,0.4,0.1319444444444444,19,2,Paradoxical Outcome,{3}{U},Instant,"Return any number of target nonland, nontoken permanents you control to their owners' hands. Draw a card for each card returned to your hand this way.",2,1,0,0,0
+92eed395-62ca-4293-882b-8565c40daab5,1412,0.0,0.0869565217391304,8,0,Sylvan Library,{1}{G},Enchantment,"At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.",1,3,0,0,0
+8d11aa49-d4cd-48b1-aa0f-8548fa733416,958,0.0,0.0609756097560975,10,0,"Kinnan, Bonder Prodigy",{G}{U},Legendary Creature — Human Druid,"Whenever you tap a nonland permanent for mana, add one mana of any type that permanent produced.
+{5}{G}{U}: Look at the top five cards of your library. You may put a non-Human creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.",1,11,2,2,0
+3015882b-4897-4d2c-8e33-6731c85a0d03,1414,0.375,0.1241379310344827,18,3,"Rofellos, Llanowar Emissary",{G}{G},Legendary Creature — Elf Druid,{T}: Add {G} for each Forest you control.,2,3,2,1,0
+699b192c-f3f2-4ac5-9ca9-e35bcf08ad8a,892,1.0,0.0592592592592592,8,1,Necromancy,{2}{B},Enchantment,"You may cast Necromancy as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.
+When Necromancy enters, if it's on the battlefield, it becomes an Aura with ""enchant creature put onto the battlefield with Necromancy."" Put target creature card from a graveyard onto the battlefield under your control and attach Necromancy to it. When Necromancy leaves the battlefield, that creature's controller sacrifices it.",3,6,0,0,0
+78f9c223-9982-4282-a496-a6f892f0a5bf,904,0.0,0.0,0,0,Mind Twist,{X}{B},Sorcery,Target player discards X cards at random.,2,6,0,0,0
+b83a3ba0-249e-4c39-bbf0-cb005413f7d2,1172,0.875,0.1265822784810126,20,7,Show and Tell,{2}{U},Sorcery,"Each player may put an artifact, creature, enchantment, or land card from their hand onto the battlefield.",1,1,0,0,0
+16052b52-ade1-406f-a06b-ce7ea607fb63,1194,1.0,0.0714285714285714,9,4,Stomping Ground,0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+As Stomping Ground enters, you may pay 2 life. If you don't, it enters tapped.",2,5,0,0,0
+2bb2eda7-3b38-4c56-870f-c3218a1056f5,1548,1.0,0.1489361702127659,14,3,Snapcaster Mage,{1}{U},Creature — Human Wizard,"Flash
+When Snapcaster Mage enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)",1,1,2,1,0
+f8e17f4f-080d-4bba-bd05-ca27e94ccecc,1218,0.3333333333333333,0.1123595505617977,20,3,Terror of the Peaks,{3}{R}{R},Creature — Dragon,"Flying
+Spells your opponents cast that target Terror of the Peaks cost an additional 3 life to cast.
+Whenever another creature you control enters, Terror of the Peaks deals damage equal to that creature's power to any target.",1,4,5,4,0
+27e0948b-9916-473b-8d8c-a51bdfbc7457,1794,1.0,0.2621359223300971,27,2,Underworld Breach,{1}{R},Enchantment,"Each nonland card in your graveyard has escape. The escape cost is equal to the card's mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)
+At the beginning of the end step, sacrifice Underworld Breach.",2,4,0,0,0
+060209fa-4b7d-4e08-bf8b-8759bba5641b,1344,1.0,0.1363636363636363,15,3,"Karn, Scion of Urza",{4},Legendary Planeswalker — Karn,"+1: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
+−1: Put a card you own with a silver counter on it from exile into your hand.
+−2: Create a 0/0 colorless Construct artifact creature token with ""This creature gets +1/+1 for each artifact you control.""",1,5,0,0,5
+f5896356-5744-4f7e-a4e5-1cc36dde5958,1350,0.9411764705882352,0.1638418079096045,29,16,Jetmir's Garden,0,Land — Mountain Forest Plains,"({T}: Add {R}, {G}, or {W}.)
+Jetmir's Garden enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",2,5,0,0,0
+22a78443-db21-4656-b38a-e3e3186fd94b,912,0.0,0.0517241379310344,6,0,Collective Brutality,{1}{B},Sorcery,"Escalate—Discard a card. (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Target opponent reveals their hand. You choose an instant or sorcery card from it. That player discards that card.
+• Target creature gets -2/-2 until end of turn.
+• Target opponent loses 2 life and you gain 2 life.",2,6,0,0,0
+05e6b243-48a6-4a42-bc5f-413441de9c33,1474,1.0,0.1751412429378531,31,9,"Elspeth, Sun's Champion",{4}{W}{W},Legendary Planeswalker — Elspeth,"+1: Create three 1/1 white Soldier creature tokens.
+−3: Destroy all creatures with power 4 or greater.
+−7: You get an emblem with ""Creatures you control get +2/+2 and have flying.""",1,2,0,0,4
+de2440de-e948-4811-903c-0bbe376ff64d,1068,1.0,0.0714285714285714,5,1,Mox Opal,{0},Legendary Artifact,Metalcraft — {T}: Add one mana of any color. Activate only if you control three or more artifacts.,1,5,0,0,0
+dd4cf149-2fae-40e5-b50b-639f6bcec65e,1176,0.1428571428571428,0.1117318435754189,20,1,Thousand-Year Storm,{4}{U}{R},Enchantment,"Whenever you cast an instant or sorcery spell, copy it for each other instant and sorcery spell you've cast before it this turn. You may choose new targets for the copies.",2,17,0,0,0
+3f3b2c10-21f8-4e13-be83-4ef3fa36e123,1524,1.0,0.1138211382113821,14,6,Elvish Mystic,{G},Creature — Elf Druid,{T}: Add {G}.,2,3,1,1,0
+a044474a-cd72-4e9d-bd8d-a08f2de9cdc0,1436,0.5714285714285714,0.1888888888888888,17,4,Reanimate,{B},Sorcery,Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its mana value.,3,6,0,0,0
+393e5331-4456-4ba3-b410-bb630bb053db,980,1.0,0.0601092896174863,11,4,Knight of the Reliquary,{1}{G}{W},Creature — Human Knight,"Knight of the Reliquary gets +1/+1 for each land card in your graveyard.
+{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle.",5,18,2,2,0
+7d881c57-0bd9-4c57-aa4a-b10808b86143,1024,1.0,0.0808080808080808,8,3,Dimir Signet,{2},Artifact,"{1}, {T}: Add {U}{B}.",4,5,0,0,0
+fc0707c7-d504-4ccf-a0d2-3eb6e26e7a57,1344,1.0,0.0933333333333333,7,3,Bloodstained Mire,0,Land,"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.",2,5,0,0,0
+d85aa59b-c6aa-4b2f-885c-59d6e5e6e8b9,814,0.0,0.0601851851851851,13,0,"Braids, Cabal Minion",{2}{B}{B},Legendary Creature — Human Minion,"At the beginning of each player's upkeep, that player sacrifices an artifact, creature, or land.",2,6,2,2,0
+acee1d16-1651-4e2c-8138-cc6456c4ee71,1236,1.0,0.1395348837209302,18,5,"""Name Sticker"" Goblin",{2}{R},Creature — Goblin Guest,"When this creature enters from anywhere other than a graveyard or exile, if it's on the battlefield and you control 9 or fewer creatures named ""Name Sticker"" Goblin, roll a 20-sided die.
+1-6 | Add {R}{R}{R}{R}.
+7-14 | Add {R}{R}{R}{R}{R}.
+15-20 | Add {R}{R}{R}{R}{R}{R}.",4,4,2,2,0
+b01e698b-608a-4fc7-8073-b01d044743ec,860,0.0,0.0583941605839416,8,0,Thespian's Stage,0,Land,"{T}: Add {C}.
+{2}, {T}: Thespian's Stage becomes a copy of target land, except it has this ability.",2,5,0,0,0
+025939a0-424a-41bf-8fc9-2ef9ea5485f7,1268,0.6,0.0981595092024539,16,3,Fire Covenant,{1}{B}{R},Instant,"As an additional cost to cast this spell, pay X life.
+Fire Covenant deals X damage divided as you choose among any number of target creatures.",2,7,0,0,0
+34f83b7a-45a7-40a8-abcb-31d7aae4cea1,1126,0.0,0.1009615384615384,21,0,Roiling Vortex,{1}{R},Enchantment,"At the beginning of each player's upkeep, Roiling Vortex deals 1 damage to them.
+Whenever a player casts a spell, if no mana was spent to cast that spell, Roiling Vortex deals 5 damage to that player.
+{R}: Your opponents can't gain life this turn.",2,4,0,0,0
+02598a35-1b11-4abe-89cd-fc44c8c36c15,1098,0.6,0.1202185792349726,22,6,"Winota, Joiner of Forces",{2}{R}{W},Legendary Creature — Human Warrior,"Whenever a non-Human creature you control attacks, look at the top six cards of your library. You may put a Human creature card from among them onto the battlefield tapped and attacking. It gains indestructible until end of turn. Put the rest of the cards on the bottom of your library in a random order.",1,19,4,4,0
+69e12b1f-0fd9-43a9-b3db-fe08290442c6,1044,0.125,0.1888888888888888,51,2,Invert Polarity,{U}{U}{R},Instant,"Choose target spell, then flip a coin. If you win the flip, gain control of that spell and you may choose new targets for it. If you lose the flip, counter that spell.",2,17,0,0,0
+cc187110-1148-4090-bbb8-e205694a39f5,1466,1.0,0.1375,11,2,Counterspell,{U}{U},Instant,Counter target spell.,4,1,0,0,0
+324824cb-f938-401c-b9b5-d8908b431ef0,1324,1.0,0.1160714285714285,13,3,Snuff Out,{3}{B},Instant,"If you control a Swamp, you may pay 4 life rather than pay this spell's mana cost.
+Destroy target nonblack creature. It can't be regenerated.",2,6,0,0,0
+fdd46004-eaba-4024-8687-39b23dc6a58c,972,0.0,0.0737704918032786,9,0,Zagoth Triome,0,Land — Swamp Forest Island,"({T}: Add {B}, {G}, or {U}.)
+Zagoth Triome enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",2,5,0,0,0
+0355249a-8e4e-41db-9cea-1b901faffbe6,1192,0.0454545454545454,0.151624548736462,42,1,Witch Enchanter // Witch-Blessed Meadow,{3}{W},Creature — Human Warlock,"When Witch Enchanter enters, destroy target artifact or enchantment an opponent controls.
+//
+As Witch-Blessed Meadow enters, you may pay 3 life. If you don't, it enters tapped.
+{T}: Add {W}.",2,2,2,2,0
+8fcf50cd-e6d0-4516-850f-d42ee75dcc3a,1378,1.0,0.1702127659574468,24,4,Expedition Map,{1},Artifact,"{2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, put it into your hand, then shuffle.",4,5,0,0,0
+63c1ac21-e3d8-40c2-8c09-3f31c52992ef,812,0.0,0.0388888888888888,7,0,Vindicate,{1}{W}{B},Sorcery,Destroy target permanent.,2,9,0,0,0
+2068185c-1b50-47d0-aa3f-bf505d199428,766,1.0,0.0157480314960629,2,1,Dark Confidant,{1}{B},Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",1,6,2,1,0
+158a6225-a246-4fd6-aa57-0df8067b4383,1162,0.0,0.1071428571428571,9,0,"Lutri, the Spellchaser",{1}{U/R}{U/R},Legendary Creature — Elemental Otter,"Companion — Each nonland card in your starting deck has a different name. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+Flash
+When Lutri, the Spellchaser enters, if you cast it, copy target instant or sorcery spell you control. You may choose new targets for the copy.",2,17,3,2,0
+112322ad-8f66-4cd4-98a1-f425d61a69ce,1264,1.0,0.0729166666666666,7,2,True-Name Nemesis,{1}{U}{U},Creature — Merfolk Rogue,"As True-Name Nemesis enters, choose a player.
+True-Name Nemesis has protection from the chosen player.",2,1,3,1,0
+29737a60-3ebd-40d9-b935-c4f54b90d45d,1644,1.0,0.1775700934579439,19,8,Windswept Heath,0,Land,"{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.",2,5,0,0,0
+1b704798-0c69-4c18-ac7e-42933ce90028,1292,1.0,0.075187969924812,10,7,Pest Infestation,{X}{X}{G},Sorcery,"Destroy up to X target artifacts and/or enchantments. Create twice X 1/1 black and green Pest creature tokens with ""When this creature dies, you gain 1 life.""",2,3,0,0,0
+caa02547-66e3-4e27-a2d3-5e94f3e7a069,958,1.0,0.0822784810126582,13,4,Thraben Inspector,{W},Creature — Human Soldier,"When Thraben Inspector enters, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")",4,2,1,2,0
+3407eb6e-b74d-4159-a801-d7163937953c,1222,0.2608695652173913,0.1916932907348242,60,6,"Phlage, Titan of Fire's Fury",{1}{R}{W},Legendary Creature — Elder Giant,"When Phlage enters, sacrifice it unless it escaped.
+Whenever Phlage enters or attacks, it deals 3 damage to any target and you gain 3 life.
+Escape—{R}{R}{W}{W}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",1,19,6,6,0
+6591a589-deb4-462f-a4f1-f6261f3433c3,1188,0.4,0.1515151515151515,25,2,Exalted Flamer of Tzeentch,{2}{U}{R},Creature — Demon,"Sorcerous Inspiration — At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.
+Fire of Tzeentch — Whenever you cast an instant or sorcery spell, Exalted Flamer of Tzeentch deals 1 damage to each opponent.",2,17,2,4,0
+bddf8f4a-3149-4dd6-a9e5-7747e7e45a1c,584,0.0,0.0228571428571428,4,0,Sylvan Safekeeper,{G},Creature — Human Wizard,Sacrifice a land: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.),2,3,1,1,0
+97652492-7906-4d79-983c-fa1dc1239eba,1150,0.0,0.1165644171779141,19,0,Sheoldred // The True Scriptures,{3}{B}{B},Legendary Creature — Phyrexian Praetor,"Menace
+When Sheoldred enters, each opponent sacrifices a nontoken creature or planeswalker.
+{4}{B}: Exile Sheoldred, then return it to the battlefield transformed under its owner's control. Activate only as a sorcery and only if an opponent has eight or more cards in their graveyard.
+//
+(As this Saga enters and after your draw step, add a lore counter.)
+I — For each opponent, destroy up to one target creature or planeswalker that player controls.
+II — Each opponent discards three cards, then mills three cards.
+III — Put all creature cards from all graveyards onto the battlefield under your control. Exile The True Scriptures, then return it to the battlefield (front face up).",2,6,4,5,0
+86ef6474-613f-41fb-931c-d4279b03ed99,1198,1.0,0.1204188481675392,23,4,Pyretic Ritual,{1}{R},Instant,Add {R}{R}{R}.,2,4,0,0,0
+33d405ea-7a9a-4970-b70f-9c05d90dd6f0,1138,1.0,0.0647482014388489,9,3,Duress,{B},Sorcery,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",4,6,0,0,0
+0f41cefc-d6ff-4db7-ba35-502b7e081de1,1378,1.0,0.1633986928104575,25,8,"Venser, Shaper Savant",{2}{U}{U},Legendary Creature — Human Wizard,"Flash
+When Venser, Shaper Savant enters, return target spell or permanent to its owner's hand.",2,1,2,2,0
+68418069-f615-40ef-ae0d-764192acae00,1120,0.0,0.1067961165048543,22,0,"Krenko, Mob Boss",{2}{R}{R},Legendary Creature — Goblin Warrior,"{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",2,4,3,3,0
+7fd7457a-388d-4cca-a7cf-86b4ea922037,924,0.1111111111111111,0.1418439716312056,40,1,Pyrogoyf,{3}{R},Creature — Lhurgoyf,"Pyrogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.
+Whenever Pyrogoyf or another Lhurgoyf creature you control enters, that creature deals damage equal to its power to any target.",2,4,-1,-1,0
+4d6120d6-fcce-40bc-9fc6-e1f5beb6c728,1186,0.6923076923076923,0.0994764397905759,19,9,Embercleave,{4}{R}{R},Legendary Artifact — Equipment,"Flash
+This spell costs {1} less to cast for each attacking creature you control.
+When Embercleave enters, attach it to target creature you control.
+Equipped creature gets +1/+1 and has double strike and trample.
+Equip {3}",1,4,0,0,0
+1c747fe2-289e-492a-a846-aa77707e2dc3,1148,0.6666666666666666,0.0566037735849056,12,6,Abrupt Decay,{B}{G},Instant,"This spell can't be countered.
+Destroy target nonland permanent with mana value 3 or less.",2,13,0,0,0
+8a2e53f9-8100-488f-8504-b59e9bd1cc29,866,0.6,0.0755813953488372,13,3,Rite of Flame,{R},Sorcery,"Add {R}{R}, then add {R} for each card named Rite of Flame in each graveyard.",4,4,0,0,0
+ae7604bb-4818-45a3-960c-cf3d83f15964,1380,0.5714285714285714,0.2043010752688172,19,4,"Teferi, Time Raveler",{1}{W}{U},Legendary Planeswalker — Teferi,"Each opponent can cast spells only any time they could cast a sorcery.
++1: Until your next turn, you may cast sorcery spells as though they had flash.
+−3: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card.",2,14,0,0,4
+c7fa1dda-9312-4ec8-82cd-a1ba7bc33497,1540,1.0,0.1923076923076923,25,4,Raugrin Triome,0,Land — Island Mountain Plains,"({T}: Add {U}, {R}, or {W}.)
+Raugrin Triome enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",2,5,0,0,0
+3e057471-e415-4105-9064-8236a0a5047d,1522,0.6,0.081967213114754,10,3,Flash,{1}{U},Instant,"You may put a creature card from your hand onto the battlefield. If you do, sacrifice it unless you pay its mana cost reduced by {2}.",2,1,0,0,0
+0accfb04-bc8b-4cab-997a-2337ac42db8f,1434,0.7,0.1823529411764705,31,7,Parallax Wave,{2}{W}{W},Enchantment,"Fading 5 (This enchantment enters with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)
+Remove a fade counter from Parallax Wave: Exile target creature.
+When Parallax Wave leaves the battlefield, each player returns to the battlefield all cards they own exiled with Parallax Wave.",2,2,0,0,0
+6587a463-a108-4854-b6d1-944e89b8c8a4,1476,1.0,0.1285714285714285,9,3,Wooded Foothills,0,Land,"{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.",2,5,0,0,0
+efc12fda-054b-466a-a863-06cf54878172,1510,1.0,0.1924882629107981,41,11,Oust,{W},Sorcery,Put target creature into its owner's library second from the top. Its controller gains 3 life.,3,2,0,0,0
+a145ff8c-5812-4bcb-bd16-9839dc25121d,774,0.0,0.050314465408805,8,0,Storm-Kiln Artist,{3}{R},Creature — Dwarf Shaman,"Storm-Kiln Artist gets +1/+0 for each artifact you control.
+Magecraft — Whenever you cast or copy an instant or sorcery spell, create a Treasure token.",3,4,2,2,0
+299fc083-0834-4064-8344-f895aff68867,1080,1.0,0.09,9,5,Entomb,{B},Instant,"Search your library for a card, put that card into your graveyard, then shuffle.",2,6,0,0,0
+91c380f6-2c41-48b7-9f07-104e8659e397,1148,1.0,0.0693641618497109,12,3,Adanto Vanguard,{1}{W},Creature — Vampire Soldier,"As long as Adanto Vanguard is attacking, it gets +2/+0.
+Pay 4 life: Adanto Vanguard gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",3,2,1,1,0
+f5420901-b5e6-4d54-b3e8-5f45e37f1fab,1240,0.7142857142857143,0.1793893129770992,47,10,Headliner Scarlett,{3}{R},Legendary Creature — Human Warlock,"Haste
+When Headliner Scarlett enters, creatures target player controls can't block this turn.
+At the beginning of your upkeep, exile the top card of your library face down. You may look at and play that card this turn.",2,4,3,3,0
+67d60b24-d429-4ded-90d9-06e49f28c396,1104,0.0,0.0886075949367088,7,0,Verdant Catacombs,0,Land,"{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.",2,5,0,0,0
+f9d3b046-0b95-4103-a630-4b3fb88bb60b,1298,1.0,0.1063829787234042,10,5,Delighted Halfling,{G},Creature — Halfling Citizen,"{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a legendary spell, and that spell can't be countered.",2,3,1,2,0
+aa1a6646-c1e6-4bff-9092-43ee3e137914,1020,1.0,0.0789473684210526,9,3,Archon of Cruelty,{6}{B}{B},Creature — Archon,"Flying
+Whenever Archon of Cruelty enters or attacks, target opponent sacrifices a creature or planeswalker, discards a card, and loses 3 life. You draw a card and gain 3 life.",1,6,6,6,0
+fda61506-ed79-47fd-badd-639185297913,1350,0.2307692307692307,0.1412429378531073,25,3,Smokestack,{4},Artifact,"At the beginning of your upkeep, you may put a soot counter on Smokestack.
+At the beginning of each player's upkeep, that player sacrifices a permanent for each soot counter on Smokestack.",2,5,0,0,0
+a6708b11-1bcd-4208-a967-fe91f2e3313c,1304,1.0,0.0697674418604651,9,4,Recurring Nightmare,{2}{B},Enchantment,"Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.",1,6,0,0,0
+9d5917d5-4fb3-4f37-9278-e08c1f73aae5,1206,0.5384615384615384,0.1529850746268656,41,7,Forensic Gadgeteer,{2}{U},Creature — Vedalken Artificer Detective,"Whenever you cast an artifact spell, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")
+Activated abilities of artifacts you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.",2,1,2,3,0
+4fc5f871-a809-4a4a-adfb-eb4cd52837c8,594,1.0,0.0223463687150838,4,1,Fallen Shinobi,{3}{U}{B},Creature — Zombie Ninja,"Ninjutsu {2}{U}{B} ({2}{U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Fallen Shinobi deals combat damage to a player, that player exiles the top two cards of their library. Until end of turn, you may play those cards without paying their mana costs.",2,16,5,4,0
+ea5103f5-27e0-4eb1-902c-7f34652d6bf3,1450,1.0,0.1666666666666666,12,2,Orcish Bowmasters,{1}{B},Creature — Orc Archer,"Flash
+When Orcish Bowmasters enters and whenever an opponent draws a card except the first one they draw in each of their draw steps, Orcish Bowmasters deals 1 damage to any target. Then amass Orcs 1.",2,6,1,1,0
+2993dc7d-723d-4a9b-94bd-4bb02a9f7243,1454,0.5,0.1338582677165354,17,3,Tishana's Tidebinder,{2}{U},Creature — Merfolk Wizard,"Flash
+When Tishana's Tidebinder enters, counter up to one target activated or triggered ability. If an ability of an artifact, creature, or planeswalker is countered this way, that permanent loses all abilities for as long as Tishana's Tidebinder remains on the battlefield. (Mana abilities can't be targeted.)",2,1,3,2,0
+397b9dcf-690a-4a58-8637-bb9baab7cc2f,908,0.0,0.0526315789473684,8,0,Elder Gargaroth,{3}{G}{G},Creature — Beast,"Vigilance, reach, trample
+Whenever Elder Gargaroth attacks or blocks, choose one —
+• Create a 3/3 green Beast creature token.
+• You gain 3 life.
+• Draw a card.",1,3,6,6,0
+5ade11c0-41dd-4b6a-9f5b-c5903a3a0d7f,984,0.0,0.0545454545454545,9,0,"Elesh Norn, Mother of Machines",{4}{W},Legendary Creature — Phyrexian Praetor,"Vigilance
+If a permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+Permanents entering don't cause abilities of permanents your opponents control to trigger.",1,2,4,7,0
+a984db23-40ea-428d-829f-e944267280f8,1104,0.4,0.0797101449275362,11,2,Faerie Mastermind,{1}{U},Creature — Faerie Rogue,"Flash
+Flying
+Whenever an opponent draws their second card each turn, you draw a card.
+{3}{U}: Each player draws a card.",2,1,2,1,0
+5f15125e-ae89-471e-b055-226a783bc7c1,1228,0.625,0.1388888888888889,25,5,Aetherflux Reservoir,{4},Artifact,"Whenever you cast a spell, you gain 1 life for each spell you've cast this turn.
+Pay 50 life: Aetherflux Reservoir deals 50 damage to any target.",1,5,0,0,0
+aa959340-c869-4caa-92c7-572bd8d23eef,830,1.0,0.0142857142857142,2,1,Field of the Dead,0,Land,"Field of the Dead enters tapped.
+{T}: Add {C}.
+Whenever Field of the Dead or another land you control enters, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",1,5,0,0,0
+7fd61a18-6e4f-40c5-aa00-3d101ec1ec82,812,0.0,0.025,4,0,Stitcher's Supplier,{B},Creature — Zombie,"When Stitcher's Supplier enters or dies, mill three cards. (Put the top three cards of your library into your graveyard.)",3,6,1,1,0
+22e3cf1d-3559-4ce1-954c-8dc815342979,950,1.0,0.08,10,1,Taiga,0,Land — Mountain Forest,({T}: Add {R} or {G}.),2,5,0,0,0
+b2e950fb-cb7e-40a0-a311-5bbdd0477b29,912,0.0,0.0614525139664804,11,0,Sun Titan,{4}{W}{W},Creature — Giant,"Vigilance
+Whenever Sun Titan enters or attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.",1,2,6,6,0
+abbcb153-0763-44c6-964f-b4ff0eb64257,1360,1.0,0.1034482758620689,12,9,"Atraxa, Grand Unifier",{3}{G}{W}{U}{B},Legendary Creature — Phyrexian Angel,"Flying, vigilance, deathtouch, lifelink
+When Atraxa, Grand Unifier enters, reveal the top ten cards of your library. For each card type, you may put a card of that type from among the revealed cards into your hand. Put the rest on the bottom of your library in a random order. (Artifact, battle, creature, enchantment, instant, land, planeswalker, and sorcery are card types.)",1,20,7,7,0
+bf0b252d-1295-44e4-bac3-113b5732a2a9,1210,1.0,0.0679012345679012,11,3,Opposition,{2}{U}{U},Enchantment,"Tap an untapped creature you control: Tap target artifact, creature, or land.",2,1,0,0,0
+0efb0d7e-dea0-4817-a243-15066e9ef333,1336,0.5714285714285714,0.0451977401129943,8,4,"Grist, the Hunger Tide",{1}{B}{G},Legendary Planeswalker — Grist,"As long as Grist, the Hunger Tide isn't on the battlefield, it's a 1/1 Insect creature in addition to its other types.
++1: Create a 1/1 black and green Insect creature token, then mill a card. If an Insect card was milled this way, put a loyalty counter on Grist and repeat this process.
+−2: You may sacrifice a creature. When you do, destroy target creature or planeswalker.
+−5: Each opponent loses life equal to the number of creature cards in your graveyard.",1,13,0,0,3
+215c287d-56a5-46da-b49e-8524b6d320a4,1094,0.0,0.0763888888888889,11,0,Sword of the Meek,{2},Artifact — Equipment,"Equipped creature gets +1/+2.
+Equip {2}
+Whenever a 1/1 creature enters under your control, you may return Sword of the Meek from your graveyard to the battlefield, then attach it to that creature.",3,5,0,0,0
+0c952586-e522-4982-bebd-96f1db73053d,790,0.0,0.046875,6,0,"Tourach, Dread Cantor",{1}{B},Legendary Creature — Human Cleric,"Kicker {B}{B} (You may pay an additional {B}{B} as you cast this spell.)
+Protection from white
+Whenever an opponent discards a card, put a +1/+1 counter on Tourach, Dread Cantor.
+When Tourach enters, if it was kicked, target opponent discards two cards at random.",1,6,2,1,0
+a806f4ee-f48a-46c3-8772-5aaabebe4c7e,1148,1.0,0.0828402366863905,14,1,Mindslaver,{6},Legendary Artifact,"{4}, {T}, Sacrifice Mindslaver: You control target player during that player's next turn. (You see all cards that player could see and make all decisions for the player.)",1,5,0,0,0
+c55909d3-1f67-4a4a-9d53-8513d6cf96d8,1318,1.0,0.1106194690265486,25,9,Stromkirk Noble,{R},Creature — Vampire Noble,"Stromkirk Noble can't be blocked by Humans.
+Whenever Stromkirk Noble deals combat damage to a player, put a +1/+1 counter on it.",2,4,1,1,0
+5f627e45-deee-4a4f-8128-57b0d8ebc553,788,0.0,0.04375,7,0,Force of Vigor,{2}{G}{G},Instant,"If it's not your turn, you may exile a green card from your hand rather than pay this spell's mana cost.
+Destroy up to two target artifacts and/or enchantments.",1,3,0,0,0
+721eb5a2-d7cf-4db0-8013-ef3f596c52a5,712,0.0,0.0393258426966292,7,0,Doomsday,{B}{B}{B},Sorcery,"Search your library and graveyard for five cards and exile the rest. Put the chosen cards on top of your library in any order. You lose half your life, rounded up.",1,6,0,0,0
+ab655810-f67e-4576-9174-35b16f5e3235,1194,0.0,0.0378787878787878,5,0,"Saheeli, Sublime Artificer",{1}{U/R}{U/R},Legendary Planeswalker — Saheeli,"Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact creature token.
+−2: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it's an artifact in addition to its other types.",3,17,0,0,5
+8785f42f-87b9-4a0a-89ce-ea423649ba9c,860,1.0,0.0642201834862385,7,1,Chain Lightning,{R},Sorcery,"Chain Lightning deals 3 damage to any target. Then that player or that permanent's controller may pay {R}{R}. If the player does, they may copy this spell and may choose a new target for that copy.",4,4,0,0,0
+55eca80c-dcd8-4c2f-aa0f-fb0aec7b80f7,1156,0.5,0.0958083832335329,16,3,Ophiomancer,{2}{B},Creature — Human Shaman,"At the beginning of each upkeep, if you control no Snakes, create a 1/1 black Snake creature token with deathtouch.",2,6,2,2,0
+c640654c-487e-4a2c-aced-126ed835b78f,1126,0.25,0.1069182389937107,17,1,Unlicensed Hearse,{2},Artifact — Vehicle,"{T}: Exile up to two target cards from a single graveyard.
+Unlicensed Hearse's power and toughness are each equal to the number of cards exiled with it.
+Crew 2",2,5,-1,-1,0
+cada3481-cc2b-4412-b9b5-0436af53aad2,956,1.0,0.0632911392405063,10,3,Ranger-Captain of Eos,{1}{W}{W},Creature — Human Soldier Ranger,"When Ranger-Captain of Eos enters, you may search your library for a creature card with mana value 1 or less, reveal it, put it into your hand, then shuffle.
+Sacrifice Ranger-Captain of Eos: Your opponents can't cast noncreature spells this turn.",2,2,3,3,0
+a699c663-8131-4045-9265-a83e86609374,1202,1.0,0.1610738255033557,24,1,Thran Dynamo,{4},Artifact,{T}: Add {C}{C}{C}.,3,5,0,0,0
+2f533667-e29b-4bec-897a-e7a9eee08314,1194,1.0,0.1797752808988764,16,3,Hullbreacher,{2}{U},Creature — Merfolk Pirate,"Flash
+If an opponent would draw a card except the first one they draw in each of their draw steps, instead you create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",2,1,3,2,0
+d0ee5bdc-2b69-4b73-9a20-ffcc18783b29,1346,1.0,0.1531531531531531,17,5,Mana Confluence,0,Land,"{T}, Pay 1 life: Add one mana of any color.",2,5,0,0,0
+4f819ba4-52ef-4fdd-8e4c-5ae3b2f44db5,1198,0.4285714285714285,0.0839694656488549,11,3,Ramunap Excavator,{2}{G},Creature — Snake Cleric,You may play lands from your graveyard.,2,3,2,3,0
+52159875-354c-47f9-bb1c-cd65395fcc68,838,0.5,0.0425531914893617,8,1,Fiery Emancipation,{3}{R}{R}{R},Enchantment,"If a source you control would deal damage to a permanent or player, it deals triple that damage to that permanent or player instead.",2,4,0,0,0
+d12e5ce0-5705-4c35-9a93-b883db52c80c,856,1.0,0.0492957746478873,7,1,Batterskull,{5},Artifact — Equipment,"Living weapon (When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +4/+4 and has vigilance and lifelink.
+{3}: Return Batterskull to its owner's hand.
+Equip {5}",1,5,0,0,0
+51d9564b-44fc-4de1-9119-09d7b4089378,856,1.0,0.0534351145038167,7,1,Goblin Guide,{R},Creature — Goblin Scout,"Haste
+Whenever Goblin Guide attacks, defending player reveals the top card of their library. If it's a land card, that player puts it into their hand.",2,4,2,2,0
+594f6881-c059-46f8-aa4e-7151d502de73,1084,1.0,0.0978260869565217,9,3,"Jace, Vryn's Prodigy // Jace, Telepath Unbound",{1}{U},Legendary Creature — Human Wizard,"{T}: Draw a card, then discard a card. If there are five or more cards in your graveyard, exile Jace, Vryn's Prodigy, then return him to the battlefield transformed under his owner's control.
+//
++1: Up to one target creature gets -2/-0 until your next turn.
+−3: You may cast target instant or sorcery card from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.
+−9: You get an emblem with ""Whenever you cast a spell, target opponent mills five cards.""",2,1,0,2,0
+2fda4fe7-8b0c-489c-a000-6d358e614e34,1374,1.0,0.0927835051546391,9,1,Izzet Signet,{2},Artifact,"{1}, {T}: Add {U}{R}.",3,5,0,0,0
+88bef744-550e-4f33-b1ff-a8ee990ec754,1052,0.25,0.0507246376811594,7,1,Thopter Foundry,{W/B}{U},Artifact,"{1}, Sacrifice a nontoken artifact: Create a 1/1 blue Thopter artifact creature token with flying. You gain 1 life.",3,21,0,0,0
+cb70a360-898e-443a-b053-38e35ea2baa2,780,0.1111111111111111,0.1244979919678714,31,1,Emperor of Bones,{1}{B},Creature — Skeleton Noble,"At the beginning of combat on your turn, exile up to one target card from a graveyard.
+{1}{B}: Adapt 2.
+Whenever one or more +1/+1 counters are put on Emperor of Bones, put a creature card exiled with Emperor of Bones onto the battlefield under your control with a finality counter on it. It gains haste. Sacrifice it at the beginning of the next end step.",2,6,2,2,0
+89aa65d9-2502-40b0-90b6-b25a8e9f6155,1374,1.0,0.1984732824427481,26,1,Capture of Jingzhou,{3}{U}{U},Sorcery,Take an extra turn after this one.,1,1,0,0,0
+42208fea-8c24-451f-861d-6d70c0a7a502,1306,1.0,0.1847826086956521,34,5,Moat,{2}{W}{W},Enchantment,Creatures without flying can't attack.,2,2,0,0,0
+c7aecca5-2f67-4245-ab2d-e723d8b23a67,924,0.0,0.040650406504065,5,0,Expressive Iteration,{U}{R},Sorcery,"Look at the top three cards of your library. Put one of them into your hand, put one of them on the bottom of your library, and exile one of them. You may play the exiled card this turn.",3,17,0,0,0
+50330e48-db74-4c5f-a0bc-f9a8607e8f31,1072,0.1666666666666666,0.0880829015544041,17,1,Lion Sash,{1}{W},Artifact Creature — Equipment Cat,"{W}: Exile target card from a graveyard. If it was a permanent card, put a +1/+1 counter on Lion Sash.
+Equipped creature gets +1/+1 for each +1/+1 counter on Lion Sash.
+Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",2,2,1,1,0
+cac55e46-b730-4569-b92c-a4b5922fc20c,1780,0.0,0.2875,23,0,Time Spiral,{4}{U}{U},Sorcery,"Exile Time Spiral. Each player shuffles their hand and graveyard into their library, then draws seven cards. You untap up to six lands.",2,1,0,0,0
+437b2dab-15e0-4b9a-a204-58622d37a3b3,1538,1.0,0.1470588235294117,15,8,Fact or Fiction,{3}{U},Instant,Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.,3,1,0,0,0
+c9b82110-7dfd-4617-9399-9510be449043,890,1.0,0.0629921259842519,8,2,Dark Depths,0,Legendary Snow Land,"Dark Depths enters with ten ice counters on it.
+{3}: Remove an ice counter from Dark Depths.
+When Dark Depths has no ice counters on it, sacrifice it. If you do, create Marit Lage, a legendary 20/20 black Avatar creature token with flying and indestructible.",1,5,0,0,0
+d3a0b660-358c-41bd-9cd2-41fbf3491b1a,1682,0.8,0.2115384615384615,22,8,Birds of Paradise,{G},Creature — Bird,"Flying
+{T}: Add one mana of any color.",2,3,0,1,0
+5d86a59a-ba1f-45f7-b829-dca6f9f3e624,1352,0.75,0.183206106870229,48,6,"Phelia, Exuberant Shepherd",{1}{W},Legendary Creature — Dog,"Flash
+Whenever Phelia, Exuberant Shepherd attacks, exile up to one other target nonland permanent. At the beginning of the next end step, return that card to the battlefield under its owner's control. If it entered under your control, put a +1/+1 counter on Phelia.",2,2,2,2,0
+ac10d218-f9a6-4058-9cda-a15ca1b0b7b5,1222,1.0,0.0279720279720279,4,3,Assassin's Trophy,{B}{G},Instant,"Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.",2,13,0,0,0
+74d3277a-38e5-4732-afed-084a56148f20,1652,1.0,0.2619047619047619,11,3,Mana Drain,{U}{U},Instant,"Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell's mana value.",1,1,0,0,0
+7359e82b-db79-488d-a1d4-75a00f12a4cf,1536,0.0,0.1688311688311688,26,0,Kaldra Compleat,{7},Legendary Artifact — Equipment,"Living weapon
+Indestructible
+Equipped creature gets +5/+5 and has first strike, trample, indestructible, haste, and ""Whenever this creature deals combat damage to a creature, exile that creature.""
+Equip {7}",1,5,0,0,0
+956381ba-6d37-4a8a-846c-bad79222dbee,1338,1.0,0.1839080459770115,16,4,Force of Will,{3}{U}{U},Instant,"You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.
+Counter target spell.",1,1,0,0,0
+ab26fbe2-e808-48b9-8d0d-3fbb6c3d554f,1094,1.0,0.075,6,1,"Narset, Parter of Veils",{1}{U}{U},Legendary Planeswalker — Narset,"Each opponent can't draw more than one card each turn.
+−2: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",3,1,0,0,5
+d0ade00d-a496-441d-9b7e-7dc033d3292c,1200,1.0,0.0408163265306122,6,3,"Titania, Protector of Argoth",{3}{G}{G},Legendary Creature — Elemental,"When Titania, Protector of Argoth enters, return target land card from your graveyard to the battlefield.
+Whenever a land you control is put into a graveyard from the battlefield, create a 5/3 green Elemental creature token.",1,3,5,3,0
+fd74f8eb-0253-42dd-8277-186d4934da38,1384,1.0,0.104,13,3,Dismember,{1}{B/P}{B/P},Instant,"({B/P} can be paid with either {B} or 2 life.)
+Target creature gets -5/-5 until end of turn.",2,6,0,0,0
+63e596a2-9126-4af6-8782-c38687d664ad,1146,0.5,0.0939226519337016,17,3,"Heliod, Sun-Crowned",{2}{W},Legendary Enchantment Creature — God,"Indestructible
+As long as your devotion to white is less than five, Heliod isn't a creature.
+Whenever you gain life, put a +1/+1 counter on target creature or enchantment you control.
+{1}{W}: Another target creature gains lifelink until end of turn.",1,2,5,5,0
+ac641490-ca14-48d7-8cc4-b69ce984befa,1776,1.0,0.1627906976744186,14,8,Preordain,{U},Sorcery,"Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",4,1,0,0,0
+3620ab8f-b693-4225-bb96-5ca3cb3fa465,1166,0.5714285714285714,0.1145833333333333,22,4,Desperate Ritual,{1}{R},Instant — Arcane,"Add {R}{R}{R}.
+Splice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",3,4,0,0,0
+8ab7358e-a0f5-4220-8769-25177237bcdf,812,0.0,0.082901554404145,16,0,"Tezzeret, Agent of Bolas",{2}{U}{B},Legendary Planeswalker — Tezzeret,"+1: Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+−1: Target artifact becomes an artifact creature with base power and toughness 5/5.
+−4: Target player loses X life and you gain X life, where X is twice the number of artifacts you control.",1,16,0,0,3
+b3b00911-ece7-4484-bc36-f211ce72b6cc,1272,0.5,0.1464968152866242,23,2,Stifle,{U},Instant,Counter target activated or triggered ability. (Mana abilities can't be targeted.),2,1,0,0,0
+66f28905-c7fc-4ada-8fa0-199626d9bedb,1080,1.0,0.072289156626506,6,1,Lórien Revealed,{3}{U}{U},Sorcery,"Draw three cards.
+Islandcycling {1} ({1}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",4,1,0,0,0
+4c6a0c30-b547-4eff-8ff4-0ca25803c076,1206,0.0,0.1403508771929824,8,0,Urza's Saga,0,Enchantment Land — Urza's Saga,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Urza's Saga gains ""{T}: Add {C}.""
+II — Urza's Saga gains ""{2}, {T}: Create a 0/0 colorless Construct artifact creature token with 'This creature gets +1/+1 for each artifact you control.'""
+III — Search your library for an artifact card with mana cost {0} or {1}, put it onto the battlefield, then shuffle.",2,5,0,0,0
+35807c14-4647-482f-9ba1-6d640fd5e8d8,1542,1.0,0.2233009708737864,23,9,Forth Eorlingas!,{X}{R}{W},Sorcery,"Create X 2/2 red Human Knight creature tokens with trample and haste.
+Whenever one or more creatures you control deal combat damage to one or more players this turn, you become the monarch.",2,19,0,0,0
+fbf9f8c5-849f-45d5-8129-5fc683c21a04,1054,1.0,0.1208791208791208,11,1,Fury,{3}{R}{R},Creature — Elemental Incarnation,"Double strike
+When Fury enters, it deals 4 damage divided as you choose among any number of target creatures and/or planeswalkers.
+Evoke—Exile a red card from your hand.",1,4,3,3,0
+b3a81bb1-cbd5-41a0-8dd4-faea06593f84,1446,0.625,0.2617801047120419,50,5,Relic of Sauron,{4},Artifact,"{T}: Add two mana in any combination of {U}, {B}, and/or {R}.
+{3}, {T}: Draw two cards, then discard a card.",2,5,0,0,0
+1b355139-4891-436c-9079-0ce17ecc2d65,792,1.0,0.0578034682080924,10,1,Vial Smasher the Fierce,{1}{B}{R},Legendary Creature — Goblin Berserker,"Whenever you cast your first spell each turn, choose an opponent at random. Vial Smasher the Fierce deals damage equal to that spell's mana value to that player or a planeswalker that player controls.
+Partner (You can have two commanders if both have partner.)",1,7,2,3,0
+0c016ccc-a341-4b76-87ba-69c639d2746d,930,0.0,0.0461538461538461,6,0,Dragon's Rage Channeler,{R},Creature — Human Shaman,"Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Delirium — As long as there are four or more card types among cards in your graveyard, Dragon's Rage Channeler gets +2/+2, has flying, and attacks each combat if able.",3,4,1,1,0
+f161111d-9747-47b3-bb10-3c8bded32e21,820,1.0,0.0223880597014925,3,2,City of Traitors,0,Land,"When you play another land, sacrifice City of Traitors.
+{T}: Add {C}{C}.",5,5,0,0,0
+ed85fa82-e4fa-434b-92a8-36b6075708d1,2020,1.0,0.4339622641509434,23,4,Mox Ruby,{0},Artifact,{T}: Add {R}.,2,5,0,0,0
+e7aee670-e6ac-4b3a-b3d1-7b7013db8f3d,1436,0.75,0.1452991452991453,17,6,Sneak Attack,{3}{R},Enchantment,{R}: You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice the creature at the beginning of the next end step.,1,4,0,0,0
+0ca233f4-1b7f-4807-ab6e-2b1f5439b3db,1100,0.25,0.0961538461538461,15,1,Karn Liberated,{7},Legendary Planeswalker — Karn,"+4: Target player exiles a card from their hand.
+−3: Exile target permanent.
+−14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.",1,5,0,0,6
+9cf99129-f51a-4418-a8cc-8ca2992b17fa,1164,0.5,0.073170731707317,15,2,"Tamiyo, Field Researcher",{1}{G}{W}{U},Legendary Planeswalker — Tamiyo,"+1: Choose up to two target creatures. Until your next turn, whenever either of those creatures deals combat damage, you draw a card.
+−2: Tap up to two target nonland permanents. They don't untap during their controller's next untap step.
+−7: Draw three cards. You get an emblem with ""You may cast spells from your hand without paying their mana costs.""",1,22,0,0,4
+1dae6f39-2cbd-485c-b190-017a26401fd4,1208,0.5714285714285714,0.1125827814569536,17,4,Zealous Conscripts,{4}{R},Creature — Human Warrior,"Haste
+When Zealous Conscripts enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.",2,4,3,3,0
+56148ae7-a9df-4771-8d53-d9ffb815c884,1234,1.0,0.1145038167938931,15,3,Sublime Epiphany,{4}{U}{U},Instant,"Choose one or more —
+• Counter target spell.
+• Counter target activated or triggered ability.
+• Return target nonland permanent to its owner's hand.
+• Create a token that's a copy of target creature you control.
+• Target player draws a card.",2,1,0,0,0
+376ee366-e082-402f-b4db-6592fcfcacd2,2024,1.0,0.4310344827586206,25,13,Mox Emerald,{0},Artifact,{T}: Add {G}.,2,5,0,0,0
+f3c5978a-70fa-431f-933b-b954bd0db0ea,1796,1.0,0.293103448275862,17,3,Mox Diamond,{0},Artifact,"If Mox Diamond would enter, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard.
+{T}: Add one mana of any color.",1,5,0,0,0
+e1de0c94-0ecc-425a-9b92-27c2745d07e7,1332,1.0,0.125,23,3,Narset Transcendent,{2}{W}{U},Legendary Planeswalker — Narset,"+1: Look at the top card of your library. If it's a noncreature, nonland card, you may reveal it and put it into your hand.
+−2: When you next cast an instant or sorcery spell from your hand this turn, it gains rebound. (Exile the spell as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)
+−9: You get an emblem with ""Your opponents can't cast noncreature spells.""",1,14,0,0,6
+75d56a0a-2f64-4e80-b83e-85942d3e6dd7,1356,0.5,0.1347150259067357,26,3,"Tamiyo, Collector of Tales",{2}{G}{U},Legendary Planeswalker — Tamiyo,"Spells and abilities your opponents control can't cause you to discard cards or sacrifice permanents.
++1: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.
+−3: Return target card from your graveyard to your hand.",2,11,0,0,5
+51f091a7-9b0b-4362-8e9c-c174752f369b,1482,1.0,0.1372549019607843,14,7,White Plume Adventurer,{2}{W},Creature — Orc Cleric,"When White Plume Adventurer enters, you take the initiative.
+At the beginning of each opponent's upkeep, untap a creature you control. If you've completed a dungeon, untap all creatures you control instead.",2,2,3,3,0
+3a310554-3f69-4158-bb94-9d6965c7125a,1314,1.0,0.1481481481481481,12,3,"Minsc & Boo, Timeless Heroes",{2}{R}{G},Legendary Planeswalker — Minsc,"When Minsc & Boo, Timeless Heroes enters and at the beginning of your upkeep, you may create Boo, a legendary 1/1 red Hamster creature token with trample and haste.
++1: Put three +1/+1 counters on up to one target creature with trample or haste.
+−2: Sacrifice a creature. When you do, Minsc & Boo, Timeless Heroes deals X damage to any target, where X is that creature's power. If the sacrificed creature was a Hamster, draw X cards.
+Minsc & Boo, Timeless Heroes can be your commander.",1,12,0,0,3
+917f2b4b-79ec-4ded-b4c8-cbcf363cb23b,1182,0.75,0.0808080808080808,16,3,Eureka,{2}{G}{G},Sorcery,"Starting with you, each player may put a permanent card from their hand onto the battlefield. Repeat this process until no one puts a card onto the battlefield.",2,3,0,0,0
+037355be-71e7-4866-80a6-80352c304970,1188,0.25,0.1034482758620689,15,1,"Karlach, Fury of Avernus",{4}{R},Legendary Creature — Tiefling Barbarian,"Whenever you attack, if it's the first combat phase of the turn, untap all attacking creatures. They gain first strike until end of turn. After this phase, there is an additional combat phase.
+Choose a Background (You can have a Background as a second commander.)",1,4,5,4,0
+45f1e957-09f0-4d46-8e32-238f26060a87,980,0.0,0.0496894409937888,8,0,Kolaghan's Command,{1}{B}{R},Instant,"Choose two —
+• Return target creature card from your graveyard to your hand.
+• Target player discards a card.
+• Destroy target artifact.
+• Kolaghan's Command deals 2 damage to any target.",2,7,0,0,0
+c5acf2a5-40f4-433d-a74d-1cb56c521464,1508,1.0,0.1267605633802817,9,1,Arid Mesa,0,Land,"{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.",2,5,0,0,0
+5ea675aa-88d6-4387-a14d-e606fa9c3aec,1570,0.7272727272727273,0.22,22,8,Seasoned Dungeoneer,{3}{W},Creature — Human Warrior,"When Seasoned Dungeoneer enters, you take the initiative.
+Whenever you attack, target attacking Cleric, Rogue, Warrior, or Wizard gains protection from creatures until end of turn. It explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)",2,2,3,4,0
+ec2b3779-55f7-4169-aa66-6312fb52721f,1094,0.75,0.0824175824175824,15,3,Indatha Triome,0,Land — Plains Swamp Forest,"({T}: Add {W}, {B}, or {G}.)
+Indatha Triome enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",2,5,0,0,0
+0d6b89dc-23fb-48e9-a54b-cea2838ae7c8,1224,1.0,0.14,14,2,Grief,{2}{B}{B},Creature — Elemental Incarnation,"Menace
+When Grief enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Evoke—Exile a black card from your hand.",1,6,3,2,0
+5a46ad2a-35b1-4dd5-b7c3-fec36b7c67ab,714,0.0,0.0333333333333333,6,0,Sinkhole,{B}{B},Sorcery,Destroy target land.,4,6,0,0,0
+f2f165b6-ef0a-42ad-9352-ba68be8248b0,1500,0.7272727272727273,0.2264150943396226,36,8,"Teferi, Hero of Dominaria",{3}{W}{U},Legendary Planeswalker — Teferi,"+1: Draw a card. At the beginning of the next end step, untap up to two lands.
+−3: Put target nonland permanent into its owner's library third from the top.
+−8: You get an emblem with ""Whenever you draw a card, exile target permanent an opponent controls.""",1,14,0,0,4
+63afc3d1-7653-476e-838f-fc18d4a62a21,1516,1.0,0.2363636363636363,26,6,Mishra's Bauble,{0},Artifact,"{T}, Sacrifice Mishra's Bauble: Look at the top card of target player's library. Draw a card at the beginning of the next turn's upkeep.",3,5,0,0,0
+8291543f-d086-48aa-b2b7-5481ca8c9198,1222,1.0,0.109375,14,5,Xander's Lounge,0,Land — Island Swamp Mountain,"({T}: Add {U}, {B}, or {R}.)
+Xander's Lounge enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",2,5,0,0,0
+2c63e4e1-89d2-4bc6-a232-94e75c4b1c8a,1844,1.0,0.3492063492063492,22,8,Mana Crypt,{0},Artifact,"At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.
+{T}: Add {C}{C}.",1,5,0,0,0
+f759d112-76db-4091-a22b-b9f19ab6fa5f,1312,1.0,0.128440366972477,14,3,Griselbrand,{4}{B}{B}{B}{B},Legendary Creature — Demon,"Flying, lifelink
+Pay 7 life: Draw seven cards.",1,6,7,7,0
+069f6530-e65c-4d52-85f3-e0a2acd148c5,1112,1.0,0.1130952380952381,19,5,Avacyn's Pilgrim,{G},Creature — Human Monk,{T}: Add {W}.,4,3,1,1,0
+df317532-7d36-40fd-938f-e972749c8792,1526,1.0,0.1147540983606557,14,6,Fyndhorn Elves,{G},Creature — Elf Druid,{T}: Add {G}.,4,3,1,1,0
+f413a83d-a40d-434c-b20a-4c707c0527fa,1076,1.0,0.0566037735849056,9,4,Temple Garden,0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+As Temple Garden enters, you may pay 2 life. If you don't, it enters tapped.",2,5,0,0,0
+119d719d-e965-45b4-9bc9-ac03211b10c2,1550,0.7142857142857143,0.073170731707317,12,5,Survival of the Fittest,{1}{G},Enchantment,"{G}, Discard a creature card: Search your library for a creature card, reveal that card, put it into your hand, then shuffle.",1,3,0,0,0
+2e5e0abd-38a6-46ca-b922-556db52f1332,1574,0.8461538461538461,0.1937984496124031,25,11,Undermountain Adventurer,{3}{G},Creature — Giant Warrior,"Vigilance
+When Undermountain Adventurer enters, you take the initiative.
+{T}: Add {G}{G}. If you've completed a dungeon, add six {G} instead.",2,3,3,4,0
+16e015b2-f8a3-4b1a-80be-58a8f5fb5e8c,1448,1.0,0.1224489795918367,12,7,Frantic Search,{2}{U},Instant,"Draw two cards, then discard two cards. Untap up to three lands.",4,1,0,0,0
+d21a89eb-7c5b-459a-acc7-12b20b13bf79,1546,1.0,0.2068965517241379,12,5,Strip Mine,0,Land,"{T}: Add {C}.
+{T}, Sacrifice Strip Mine: Destroy target land.",2,5,0,0,0
+8c52bd39-0586-48ca-b263-17210cf9feb6,1262,1.0,0.0820895522388059,11,7,Craterhoof Behemoth,{5}{G}{G}{G},Creature — Beast,"Haste
+When Craterhoof Behemoth enters, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.",1,3,5,5,0
+69bc2afd-9f53-47f2-b9c8-f12732784e10,1232,1.0,0.1102362204724409,14,3,Hexdrinker,{G},Creature — Snake,"Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 3-7
+4/4
+Protection from instants
+LEVEL 8+
+6/6
+Protection from everything",1,3,2,1,0
+d71cd08e-3e84-41ff-b9db-9e343c0af6b4,1484,1.0,0.1794871794871795,14,2,Remand,{1}{U},Instant,"Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.
+Draw a card.",3,1,0,0,0
+cb027150-848c-4a66-88ad-e20222304dd8,1446,1.0,0.1044776119402985,7,1,Scalding Tarn,0,Land,"{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.",2,5,0,0,0
+464c0150-3dbc-403b-9ada-fef25ab1f29d,1416,1.0,0.2015503875968992,26,3,Brain Freeze,{1}{U},Instant,"Target player mills three cards.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",3,1,0,0,0
+3d6fa57a-aa53-4b5c-b8af-a7612c823117,952,0.0,0.0357142857142857,4,0,Faithless Looting,{R},Sorcery,"Draw two cards, then discard two cards.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",2,4,0,0,0
+e80772e2-8623-4094-81a2-70828b2b151c,1252,1.0,0.081081081081081,9,3,Blightsteel Colossus,{12},Artifact Creature — Phyrexian Golem,"Trample, infect, indestructible
+If Blightsteel Colossus would be put into a graveyard from anywhere, reveal Blightsteel Colossus and shuffle it into its owner's library instead.",1,5,11,11,0
+37108cd4-bbab-4ce3-9ed6-f60e8422e703,1670,1.0,0.3018867924528302,16,6,"Ragavan, Nimble Pilferer",{R},Legendary Creature — Monkey Pirate,"Whenever Ragavan, Nimble Pilferer deals combat damage to a player, create a Treasure token and exile the top card of that player's library. Until end of turn, you may cast that card.
+Dash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",1,4,2,1,0
+4457ed35-7c10-48c8-9776-456485fdf070,1348,1.0,0.1558441558441558,12,2,Lightning Bolt,{R},Instant,Lightning Bolt deals 3 damage to any target.,2,4,0,0,0
+6d194882-ca37-49bb-ac9f-a751c53850a8,1636,0.75,0.1926605504587156,21,9,Bribery,{3}{U}{U},Sorcery,Search target opponent's library for a creature card and put that card onto the battlefield under your control. Then that player shuffles.,2,1,0,0,0
+98492d7d-3b9e-4ae1-ac45-1b508d6d2670,1486,0.2727272727272727,0.1851851851851851,30,3,Coveted Jewel,{6},Artifact,"When Coveted Jewel enters, draw three cards.
+{T}: Add three mana of any one color.
+Whenever one or more creatures an opponent controls attack you and aren't blocked, that player draws three cards and gains control of Coveted Jewel. Untap it.",2,5,0,0,0
+d683d985-9888-4d21-8b5f-69e69ce4a03b,1560,1.0,0.2589285714285714,29,7,Path to Exile,{W},Instant,"Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.",3,2,0,0,0
+301d1d8e-d3fc-4010-8b29-4724fa0b31cd,1026,0.0,0.1018518518518518,11,0,Portal to Phyrexia,{9},Artifact,"When Portal to Phyrexia enters, each opponent sacrifices three creatures.
+At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control. It's a Phyrexian in addition to its other types.",1,5,0,0,0
+e018773f-95b3-49a3-9674-6f04ddef2092,1272,1.0,0.0594059405940594,6,3,Azorius Signet,{2},Artifact,"{1}, {T}: Add {W}{U}.",3,5,0,0,0
+82004860-e589-4e38-8d61-8c0210e4ea39,1398,0.0,0.1,3,0,Demonic Tutor,{1}{B},Sorcery,"Search your library for a card, put that card into your hand, then shuffle.",1,6,0,0,0
+dab520d0-20b4-4273-ba6b-eb07f85ea433,1352,1.0,0.116504854368932,12,5,Marsh Flats,0,Land,"{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.",2,5,0,0,0
+d0209d3f-3f7e-4fd5-bce5-10bce6f29c86,2148,1.0,0.4651162790697674,20,12,Time Walk,{1}{U},Sorcery,Take an extra turn after this one.,5,1,0,0,0
+c718911c-c955-4eb9-9e16-be4bd49a4e4e,1354,0.0,0.1095890410958904,8,0,Volcanic Island,0,Land — Island Mountain,({T}: Add {U} or {R}.),1,5,0,0,0
+0677f49e-f8bf-4349-af52-2ccde9287c2e,2270,1.0,0.4337349397590361,36,13,Mox Jet,{0},Artifact,{T}: Add {B}.,2,5,0,0,0
+a7950edb-5670-46fd-a30e-0fe888a5a32b,1098,0.0,0.0441176470588235,6,0,Phyrexian Dreadnought,{1},Artifact Creature — Phyrexian Dreadnought,"Trample
+When Phyrexian Dreadnought enters, sacrifice it unless you sacrifice any number of creatures with total power 12 or greater.",2,5,12,12,0
+5089ec1a-f881-4d55-af14-5d996171203b,2154,1.0,0.4857142857142857,17,5,Black Lotus,{0},Artifact,"{T}, Sacrifice Black Lotus: Add three mana of any one color.",1,5,0,0,0
+6ad8011d-3471-4369-9d68-b264cc027487,1966,1.0,0.4347826086956521,20,6,Sol Ring,{1},Artifact,{T}: Add {C}{C}.,3,5,0,0,0
+d5ed1233-df87-4b90-8918-13922ec95249,1972,1.0,0.4285714285714285,15,2,Mox Sapphire,{0},Artifact,{T}: Add {U}.,2,5,0,0,0
+7f89c0ee-b914-406c-8a3f-98424a52ae14,872,0.0,0.0204081632653061,2,0,Mirri's Guile,{G},Enchantment,"At the beginning of your upkeep, you may look at the top three cards of your library, then put them back in any order.",2,3,0,0,0
+d2bcff58-7a8a-46ef-b6b3-39501d4c8e6e,1076,0.4444444444444444,0.1413043478260869,26,4,Thundering Falls,0,Land — Island Mountain,"({T}: Add {U} or {R}.)
+Thundering Falls enters tapped.
+When Thundering Falls enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",2,5,0,0,0
+ca4b6689-04ee-4227-9bdc-cb5a9590c745,1222,1.0,0.1513513513513513,28,7,Hedge Maze,0,Land — Forest Island,"({T}: Add {G} or {U}.)
+Hedge Maze enters tapped.
+When Hedge Maze enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",2,5,0,0,0
+64bf8929-f5f2-4d50-8667-13b1d007bcfc,860,0.0,0.0619469026548672,7,0,Seething Song,{2}{R},Instant,Add {R}{R}{R}{R}{R}.,4,4,0,0,0
+fb81f95c-70f8-4eb7-8d15-15d0ae23ec03,1254,0.0,0.1194029850746268,8,0,Mystical Tutor,{U},Instant,"Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top.",2,1,0,0,0
+840119bf-e60f-4ff7-9c9b-d420d09df545,934,0.5,0.0613496932515337,10,2,Underground Mortuary,0,Land — Swamp Forest,"({T}: Add {B} or {G}.)
+Underground Mortuary enters tapped.
+When Underground Mortuary enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",2,5,0,0,0
+c18013e4-0b99-44e3-a2b2-027ace68723a,1358,1.0,0.1258741258741259,18,4,Skirk Prospector,{R},Creature — Goblin,Sacrifice a Goblin: Add {R}.,4,4,1,1,0
+47f75e25-8a52-4452-a3a8-bf1bd00942d1,956,1.0,0.0892857142857142,15,5,Warren Instigator,{R}{R},Creature — Goblin Berserker,"Double strike
+Whenever Warren Instigator deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.",1,4,1,1,0
+08cb8a30-9cb4-4517-bee5-8848aa60d1a2,1162,0.0,0.1041666666666666,10,0,Zuran Orb,{0},Artifact,Sacrifice a land: You gain 2 life.,3,5,0,0,0
+216a2a92-9ca3-4ca3-8af7-686c13b04290,666,0.2,0.0621468926553672,11,1,Shadowy Backstreet,0,Land — Plains Swamp,"({T}: Add {W} or {B}.)
+Shadowy Backstreet enters tapped.
+When Shadowy Backstreet enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",2,5,0,0,0
+9ea747cf-5d04-4aa7-bdc3-8145860cd1ba,1120,0.0,0.1835748792270531,38,0,Elegant Parlor,0,Land — Mountain Plains,"({T}: Add {R} or {W}.)
+Elegant Parlor enters tapped.
+When Elegant Parlor enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",2,5,0,0,0
+d51831b1-7394-456e-a1de-6787a59f5932,982,0.5714285714285714,0.0949367088607595,15,4,Lush Portico,0,Land — Forest Plains,"({T}: Add {G} or {W}.)
+Lush Portico enters tapped.
+When Lush Portico enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",2,5,0,0,0
+792e1072-00bf-4f63-b956-5f20cdf09f11,814,0.0,0.0431654676258992,6,0,Goblin Recruiter,{1}{R},Creature — Goblin,"When Goblin Recruiter enters, search your library for any number of Goblin cards, reveal them, then shuffle and put those cards on top in any order.",3,4,1,1,0
+37688720-03de-4eca-a82d-a0afe8d58adc,1154,1.0,0.0625,4,3,Baleful Strix,{U}{B},Artifact Creature — Bird,"Flying, deathtouch
+When Baleful Strix enters, draw a card.",2,16,1,1,0
+aaadfe41-b2be-4183-b45e-a70e53a59d2e,1110,0.0,0.075,6,0,Retrofitter Foundry,{1},Artifact,"{3}: Untap Retrofitter Foundry.
+{2}, {T}: Create a 1/1 colorless Servo artifact creature token.
+{1}, {T}, Sacrifice a Servo: Create a 1/1 colorless Thopter artifact creature token with flying.
+{T}, Sacrifice a Thopter: Create a 4/4 colorless Construct artifact creature token.",2,5,0,0,0
+213fbbdd-f1bc-4bba-9124-7b26e9a706c8,1508,1.0,0.1374045801526717,18,9,Goblin Lackey,{R},Creature — Goblin,"Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.",3,4,1,1,0
+07c82cde-f00d-4454-9df4-9286e344c9bb,1202,0.7,0.15,27,7,"Muxus, Goblin Grandee",{4}{R}{R},Legendary Creature — Goblin Noble,"When Muxus, Goblin Grandee enters, reveal the top six cards of your library. Put all Goblin creature cards with mana value 5 or less from among them onto the battlefield and the rest on the bottom of your library in a random order.
+Whenever Muxus attacks, it gets +1/+1 until end of turn for each other Goblin you control.",2,4,4,4,0
+3a59c882-8bb8-49ba-862f-125020dd5bec,1146,0.0,0.1751824817518248,24,0,Empty the Warrens,{3}{R},Sorcery,"Create two 1/1 red Goblin creature tokens.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)",4,4,0,0,0
+b33656ae-3473-4223-845f-f9147f87678b,1194,0.2222222222222222,0.0979381443298969,19,2,Commercial District,0,Land — Mountain Forest,"({T}: Add {R} or {G}.)
+Commercial District enters tapped.
+When Commercial District enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",2,5,0,0,0
+08d80efc-9542-4ba2-824c-c8615d8d07f2,1132,0.3333333333333333,0.175531914893617,33,3,Undercity Sewers,0,Land — Island Swamp,"({T}: Add {U} or {B}.)
+Undercity Sewers enters tapped.
+When Undercity Sewers enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",2,5,0,0,0
+04e5e84f-8fd4-43ab-8f9d-5b24646f7ae5,1224,0.25,0.1280788177339901,26,3,Raucous Theater,0,Land — Swamp Mountain,"({T}: Add {B} or {R}.)
+Raucous Theater enters tapped.
+When Raucous Theater enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",2,5,0,0,0
+1962d9b3-f057-4d2c-9c5b-386d9a66148a,1130,0.25,0.0476190476190476,5,1,Goblin Cratermaker,{1}{R},Creature — Goblin Warrior,"{1}, Sacrifice Goblin Cratermaker: Choose one —
+• Goblin Cratermaker deals 2 damage to target creature.
+• Destroy target colorless nonland permanent.",3,4,2,2,0
+3a198a16-17b9-481e-b516-5bc945c7e247,1474,0.6428571428571429,0.1944444444444444,28,9,Priest of Titania,{1}{G},Creature — Elf Druid,{T}: Add {G} for each Elf on the battlefield.,3,3,1,1,0
+ddd649f4-dbaf-48ec-8ff7-95581257772d,1250,0.375,0.1458333333333333,14,3,Isochron Scepter,{2},Artifact,"Imprint — When Isochron Scepter enters, you may exile an instant card with mana value 2 or less from your hand.
+{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.",3,5,0,0,0
+eea18c55-8695-4ba1-9b38-3e7638692f5f,1458,1.0,0.0865384615384615,9,5,Saw in Half,{2}{B},Instant,"Destroy target creature. If that creature dies this way, its controller creates two tokens that are copies of that creature, except their power is half that creature's power and their toughness is half that creature's toughness. Round up each time.",2,6,0,0,0
+81f06f84-1580-43c0-89d5-08d34541a519,1142,0.0,0.1428571428571428,17,0,Goblin Electromancer,{U}{R},Creature — Goblin Wizard,Instant and sorcery spells you cast cost {1} less to cast.,4,17,2,2,0
+f7156897-2b02-4ecd-868d-d4d59244e9ed,1142,0.0,0.0777777777777777,7,0,Third Path Iconoclast,{U}{R},Creature — Human Monk,"Whenever you cast a noncreature spell, create a 1/1 colorless Soldier artifact creature token.",3,17,2,1,0
+cf0799f3-ef64-4fcc-924a-5265e52c9727,1216,0.5714285714285714,0.0909090909090909,11,4,Impending Disaster,{1}{R},Enchantment,"At the beginning of your upkeep, if there are seven or more lands on the battlefield, sacrifice Impending Disaster and destroy all lands.",2,4,0,0,0
+656afde2-cdf3-4907-a0fc-7ac93f5d3e03,1432,0.6666666666666666,0.2049180327868852,25,6,Mind Over Matter,{2}{U}{U}{U}{U},Enchantment,"Discard a card: You may tap or untap target artifact, creature, or land.",2,1,0,0,0
+ddc7f59a-bbb1-4ba1-82c8-6813fd191940,1298,0.2857142857142857,0.1162790697674418,15,2,Siege-Gang Commander,{3}{R}{R},Creature — Goblin,"When Siege-Gang Commander enters, create three 1/1 red Goblin creature tokens.
+{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.",2,4,2,2,0
+5277a68e-1ceb-4b40-8e10-3d0564f5d7be,1110,0.0,0.1140350877192982,13,0,"Jace, Wielder of Mysteries",{1}{U}{U}{U},Legendary Planeswalker — Jace,"If you would draw a card while your library has no cards in it, you win the game instead.
++1: Target player mills two cards. Draw a card.
+−8: Draw seven cards. Then if your library has no cards in it, you win the game.",2,1,0,0,4
+3c22e031-4804-4c31-bd3c-c3f29d456b34,1304,0.5,0.1171875,15,3,Fiery Confluence,{2}{R}{R},Sorcery,"Choose three. You may choose the same mode more than once.
+• Fiery Confluence deals 1 damage to each creature.
+• Fiery Confluence deals 2 damage to each opponent.
+• Destroy target artifact.",2,4,0,0,0
+6e760cfe-45b9-4a3f-b2e2-4ca6ec2bd13a,1212,1.0,0.091743119266055,10,6,Bone Shards,{B},Sorcery,"As an additional cost to cast this spell, sacrifice a creature or discard a card.
+Destroy target creature or planeswalker.",4,6,0,0,0
+f2fcef65-4873-4b1f-a257-b8648097c990,1238,0.5,0.0970873786407767,10,1,Helm of Awakening,{2},Artifact,Spells cost {1} less to cast.,2,5,0,0,0
+fac42229-4f5f-4d04-85dd-5031d4e435aa,1040,0.0,0.043859649122807,5,0,Sword of Body and Mind,{3},Artifact — Equipment,"Equipped creature gets +2/+2 and has protection from green and from blue.
+Whenever equipped creature deals combat damage to a player, you create a 2/2 green Wolf creature token and that player mills ten cards.
+Equip {2}",1,5,0,0,0
+1b5e6560-ff2e-4475-96cb-63f64c8a86db,882,0.0,0.0288461538461538,3,0,Soul-Guide Lantern,{1},Artifact,"When Soul-Guide Lantern enters, exile target card from a graveyard.
+{T}, Sacrifice Soul-Guide Lantern: Exile each opponent's graveyard.
+{1}, {T}, Sacrifice Soul-Guide Lantern: Draw a card.",3,5,0,0,0
+94f0a572-e91c-4b56-a5d1-6cbbeabd210d,1340,1.0,0.1311475409836065,16,6,Infernal Grasp,{1}{B},Instant,Destroy target creature. You lose 2 life.,3,6,0,0,0
+ccfb8b4d-651c-418a-aa19-cb23105b3f2f,1304,1.0,0.2139303482587064,43,18,Meticulous Archive,0,Land — Plains Island,"({T}: Add {W} or {U}.)
+Meticulous Archive enters tapped.
+When Meticulous Archive enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",2,5,0,0,0
+5b5bf1fa-6502-4790-b66b-f0f8504ebc7c,1090,0.0,0.0661157024793388,8,0,Cabal Ritual,{1}{B},Instant,"Add {B}{B}{B}.
+Threshold — Add {B}{B}{B}{B}{B} instead if seven or more cards are in your graveyard.",4,6,0,0,0
+cd11c27b-9368-4622-bc5a-2e0b993cc42b,1734,0.0,0.2439024390243902,20,0,Mystic Confluence,{3}{U}{U},Instant,"Choose three. You may choose the same mode more than once.
+• Counter target spell unless its controller pays {3}.
+• Return target creature to its owner's hand.
+• Draw a card.",2,1,0,0,0
+6579bb00-3886-447b-a265-3e72e98bbe2c,1126,0.6666666666666666,0.1197604790419161,20,4,Spellshock,{2}{R},Enchantment,"Whenever a player casts a spell, Spellshock deals 2 damage to that player.",3,4,0,0,0
+f5f4dd28-f4ae-4d39-b9b8-6ebfd63c93fe,1178,0.5,0.1048387096774193,13,3,Basilisk Collar,{1},Artifact — Equipment,"Equipped creature has deathtouch and lifelink.
+Equip {2}",2,5,0,0,0
+2bd111bb-ce02-414c-b5b7-e0e037d8d96b,952,0.0,0.0519480519480519,4,0,Bolas's Citadel,{3}{B}{B}{B},Legendary Artifact,"You may look at the top card of your library any time.
+You may play lands and cast spells from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.
+{T}, Sacrifice ten nonland permanents: Each opponent loses 10 life.",2,6,0,0,0
+6f8a4998-35c7-4e30-a9e7-7d4ec933238a,1116,0.0,0.1066666666666666,8,0,Triumph of Saint Katherine,{4}{W},Creature — Human Warrior,"Lifelink
+Praesidium Protectiva — When Triumph of Saint Katherine is put into your graveyard from the battlefield, exile it and the top six cards of your library in a face-down pile. If you do, shuffle that pile and put it back on top of your library.
+Miracle {1}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",2,2,5,5,0
+b3d81980-76f2-44e2-b1c9-01e30c726312,886,0.0,0.0263157894736842,2,0,Loran of the Third Path,{2}{W},Legendary Creature — Human Artificer,"Vigilance
+When Loran of the Third Path enters, destroy up to one target artifact or enchantment.
+{T}: You and target opponent each draw a card.",2,2,2,1,0
+fbe61f74-1b3c-4e12-8758-7029872c9ff1,1228,1.0,0.074074074074074,6,3,Exhume,{1}{B},Sorcery,Each player puts a creature card from their graveyard onto the battlefield.,3,6,0,0,0
+a91a3266-cadd-47a0-9b20-160307f14c07,1446,1.0,0.1739130434782608,16,3,Archaeomancer,{2}{U}{U},Creature — Human Wizard,"When Archaeomancer enters, return target instant or sorcery card from your graveyard to your hand.",2,1,1,2,0
+52c3fe55-74ee-44cb-b62b-dc6c5dfdc33e,1178,0.3571428571428571,0.1370967741935483,17,5,Detective's Phoenix,{2}{R},Enchantment Creature — Phoenix,"Bestow—{R}, Collect evidence 6. (To pay this bestow cost, pay {R} and exile cards with total mana value 6 or greater from your graveyard.)
+Flying, haste
+Enchanted creature gets +2/+2 and has flying and haste.
+You may cast Detective's Phoenix from your graveyard using its bestow ability.",2,4,2,2,0
+3b1f8108-6911-49e9-8f78-f950bb58cb6c,1360,0.6,0.1014492753623188,7,3,Hornet Queen,{4}{G}{G}{G},Creature — Insect,"Flying, deathtouch
+When Hornet Queen enters, create four 1/1 green Insect creature tokens with flying and deathtouch.",2,3,2,2,0
+26d3a818-7faf-443a-a6bd-9773edaedf17,1156,1.0,0.075,6,3,Orim's Chant,{W},Instant,"Kicker {W} (You may pay an additional {W} as you cast this spell.)
+Target player can't cast spells this turn. If this spell was kicked, creatures can't attack this turn.",2,2,0,0,0
+8a9525f4-74a6-44f0-a1b1-d57937d7783b,1590,0.7,0.296875,19,7,Temporal Fissure,{4}{U},Sorcery,"Return target permanent to its owner's hand.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",4,1,0,0,0
+7739311a-682b-48a6-8db2-c07f44141751,1432,0.1428571428571428,0.1476510067114094,22,2,"The Gitrog, Ravenous Ride",{3}{B}{G},Legendary Creature — Frog Horror Mount,"Trample, haste
+Whenever The Gitrog, Ravenous Ride deals combat damage to a player, you may sacrifice a creature that saddled it this turn. If you do, draw X cards, then put up to X land cards from your hand onto the battlefield tapped, where X is the sacrificed creature's power.
+Saddle 1",1,13,6,5,0
+bdbde5d0-f5e4-44da-b27c-b4ad6f374cc9,1258,0.0,0.1290322580645161,8,0,Dryad of the Ilysian Grove,{2}{G},Enchantment Creature — Nymph Dryad,"You may play an additional land on each of your turns.
+Lands you control are every basic land type in addition to their other types.",2,3,2,4,0
+ebf7ce9b-9e5e-4557-9e28-76556997f0ee,1474,0.6666666666666666,0.2142857142857142,15,6,"Chulane, Teller of Tales",{2}{G}{W}{U},Legendary Creature — Human Druid,"Vigilance
+Whenever you cast a creature spell, draw a card, then you may put a land card from your hand onto the battlefield.
+{3}, {T}: Return target creature you control to its owner's hand.",1,22,2,4,0
+fd547632-a29a-4dad-a9da-155882391815,1042,0.0,0.0689655172413793,6,0,Scion of Draco,{12},Artifact Creature — Dragon,"Domain — This spell costs {2} less to cast for each basic land type among lands you control.
+Flying
+Each creature you control has vigilance if it's white, hexproof if it's blue, lifelink if it's black, first strike if it's red, and trample if it's green.",1,5,4,4,0
+52f0dcbd-ccf3-4525-8e55-2d38b4991834,1270,0.75,0.1428571428571428,12,9,Touch the Spirit Realm,{2}{W},Enchantment,"When Touch the Spirit Realm enters, exile up to one target artifact or creature until Touch the Spirit Realm leaves the battlefield.
+Channel — {1}{W}, Discard Touch the Spirit Realm: Exile target artifact or creature. Return it to the battlefield under its owner's control at the beginning of the next end step.",2,2,0,0,0
+f627e125-15af-4e53-b34e-82b60e4ec87b,1310,0.625,0.1702127659574468,16,5,Tangle,{1}{G},Instant,"Prevent all combat damage that would be dealt this turn.
+Each attacking creature doesn't untap during its controller's next untap step.",3,3,0,0,0
+f74c4d96-bc4a-4d32-9519-a753d192144e,1220,0.0,0.0697674418604651,3,0,"Search for Azcanta // Azcanta, the Sunken Ruin",{1}{U},Legendary Enchantment,"At the beginning of your upkeep, surveil 1. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta. (Look at the top card of your library. You may put that card into your graveyard.)
+//
+(Transforms from Search for Azcanta.)
+{T}: Add {U}.
+{2}{U}, {T}: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",2,1,0,0,0
+6b2e6a51-b9e6-4848-b7d7-98f02f2b897f,1106,0.2727272727272727,0.1157024793388429,14,3,Leyline of the Guildpact,{G/W}{G/U}{B/G}{R/G},Enchantment,"If Leyline of the Guildpact is in your opening hand, you may begin the game with it on the battlefield.
+Each nonland permanent you control is all colors.
+Lands you control are every basic land type in addition to their other types.",2,23,0,0,0
+d81285b7-a718-411a-8be3-ecc0cfe0bcb0,1110,1.0,0.0491803278688524,3,3,Goblin Sharpshooter,{2}{R},Creature — Goblin,"Goblin Sharpshooter doesn't untap during your untap step.
+Whenever a creature dies, untap Goblin Sharpshooter.
+{T}: Goblin Sharpshooter deals 1 damage to any target.",2,4,1,1,0
+4b8856f8-3cd1-450c-a71b-eb0026e8e179,1410,0.7272727272727273,0.1428571428571428,12,8,Pattern of Rebirth,{3}{G},Enchantment — Aura,"Enchant creature
+When enchanted creature dies, that creature's controller may search their library for a creature card, put that card onto the battlefield, then shuffle.",2,3,0,0,0
+03d32ace-dd99-48c6-bcae-9b915d041aef,1542,0.6153846153846154,0.2475247524752475,25,8,Freed from the Real,{2}{U},Enchantment — Aura,"Enchant creature
+{U}: Tap enchanted creature.
+{U}: Untap enchanted creature.",4,1,0,0,0
+1bc44216-4e06-4f66-89b7-5c327004604e,772,0.0,0.0121951219512195,1,0,"Valakut, the Molten Pinnacle",0,Land,"Valakut, the Molten Pinnacle enters tapped.
+Whenever a Mountain you control enters, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to any target.
+{T}: Add {R}.",2,5,0,0,0
+b081352b-d17b-4031-bbcc-c5c02cbfa6b6,1290,1.0,0.0714285714285714,3,3,"Otharri, Suns' Glory",{3}{R}{W},Legendary Creature — Phoenix,"Flying, lifelink, haste
+Whenever Otharri, Suns' Glory attacks, you get an experience counter. Then create a 2/2 red Rebel creature token that's tapped and attacking for each experience counter you have.
+{2}{R}{W}, Tap an untapped Rebel you control: Return Otharri from your graveyard to the battlefield tapped.",1,19,3,3,0
+cfd60d1f-9832-4408-b84e-0fd3018b015b,1330,0.5,0.1052631578947368,6,3,Forbidden Orchard,0,Land,"{T}: Add one mana of any color.
+Whenever you tap Forbidden Orchard for mana, target opponent creates a 1/1 colorless Spirit creature token.",2,5,0,0,0
+4bc79fb3-81bb-42ed-9bbb-93f8cede3094,1290,0.3,0.1785714285714285,15,3,Carnage Interpreter,{1}{B/R}{B/R},Creature — Devil Detective,"When Carnage Interpreter enters, discard your hand, then investigate four times. (To investigate, create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")
+As long as you have one or fewer cards in hand, Carnage Interpreter gets +2/+2 and has menace.",2,7,3,3,0
+3d21f710-6bbc-41ae-a8e5-02debe3e02bd,1182,0.0,0.1216216216216216,9,0,Hushbringer,{1}{W},Creature — Faerie,"Flying, lifelink
+Creatures entering or dying don't cause abilities to trigger.",2,2,1,2,0
+f0d1636e-6f80-44fe-869a-1749ab249815,986,0.0,0.0588235294117647,3,0,Molten Collapse,{B}{R},Sorcery,"Choose one. If you descended this turn, you may choose both instead. (You descended if a permanent card was put into your graveyard from anywhere.)
+• Destroy target creature or planeswalker.
+• Destroy target noncreature, nonland permanent with mana value 1 or less.",2,7,0,0,0
+51b55057-8b14-4277-894b-4813b4f7eb39,890,0.0,0.0,0,0,Tidehollow Sculler,{W}{B},Artifact Creature — Zombie,"When Tidehollow Sculler enters, target opponent reveals their hand and you choose a nonland card from it. Exile that card.
+When Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.",5,9,2,2,0
+ecd8d7f4-7b11-4097-afc0-ef3c81edd90c,1336,1.0,0.1363636363636363,9,6,Serra Paragon,{2}{W}{W},Creature — Angel,"Flying
+Once during each of your turns, you may play a land from your graveyard or cast a permanent spell with mana value 3 or less from your graveyard. If you do, it gains ""When this permanent is put into a graveyard from the battlefield, exile it and you gain 2 life.""",1,2,3,4,0
+59dbc873-72d9-4e7b-9442-2c7b8e8523e1,1182,0.0,0.1304347826086956,12,0,Ruination,{3}{R},Sorcery,Destroy all nonbasic lands.,2,4,0,0,0
+2f70f1bb-29fa-4abb-afc2-653acd0a08b9,1506,1.0,0.1521739130434782,7,5,Woodfall Primus,{5}{G}{G}{G},Creature — Treefolk Shaman,"Trample
+When Woodfall Primus enters, destroy target noncreature permanent.
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",2,3,6,6,0
+981298e6-ddee-49c0-9377-f47f019b4138,1318,1.0,0.15,9,6,Currency Converter,{1},Artifact,"Whenever you discard a card, you may exile that card from your graveyard.
+{2}, {T}: Draw a card, then discard a card.
+{T}: Put a card exiled with Currency Converter into your graveyard. If it's a land card, create a Treasure token. If it's a nonland card, create a 2/2 black Rogue creature token.",2,5,0,0,0
+b99ada26-9a61-4175-9fb8-15a106960220,1656,0.6470588235294118,0.2816901408450704,20,11,Ohran Frostfang,{3}{G}{G},Snow Creature — Snake,"Attacking creatures you control have deathtouch.
+Whenever a creature you control deals combat damage to a player, draw a card.",2,3,2,6,0

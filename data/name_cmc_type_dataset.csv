@@ -1,0 +1,541 @@
+name,mana_cost,type_line
+"Jace, the Mind Sculptor",{2}{U}{U},Legendary Planeswalker — Jace
+Esper Sentinel,{W},Artifact Creature — Human Soldier
+Collected Company,{3}{G},Instant
+"Inti, Seneschal of the Sun",{1}{R},Legendary Creature — Human Knight
+Timetwister,{2}{U},Sorcery
+Flusterstorm,{U},Instant
+Spara's Headquarters,{0},Land — Forest Plains Island
+Natural Order,{2}{G}{G},Sorcery
+Tinker,{2}{U},Sorcery
+Kappa Cannoneer,{5}{U},Artifact Creature — Turtle Warrior
+Rift Bolt,{2}{R},Sorcery
+Upheaval,{4}{U}{U},Sorcery
+Scavenging Ooze,{1}{G},Creature — Ooze
+"Etali, Primal Conqueror // Etali, Primal Sickness",{5}{R}{R},Legendary Creature — Elder Dinosaur
+Misty Rainforest,{0},Land
+Steam Vents,{0},Land — Island Mountain
+Barrowgoyf,{2}{B},Creature — Lhurgoyf
+Caves of Chaos Adventurer,{3}{R},Creature — Human Barbarian
+Scute Swarm,{2}{G},Creature — Insect
+Endurance,{1}{G}{G},Creature — Elemental Incarnation
+"Ob Nixilis, the Adversary",{1}{B}{R},Legendary Planeswalker — Nixilis
+Prismatic Vista,{0},Land
+"Thalia, Guardian of Thraben",{1}{W},Legendary Creature — Human Soldier
+"Bristly Bill, Spine Sower",{1}{G},Legendary Creature — Plant Druid
+Palantír of Orthanc,{3},Legendary Artifact
+"Adeline, Resplendent Cathar",{1}{W}{W},Legendary Creature — Human Knight
+Badlands,{0},Land — Swamp Mountain
+Damnation,{2}{B}{B},Sorcery
+Nexus of Fate,{5}{U}{U},Instant
+Negate,{1}{U},Instant
+Overgrown Tomb,{0},Land — Swamp Forest
+Felidar Guardian,{3}{W},Creature — Cat Beast
+Opposition Agent,{2}{B},Creature — Human Rogue
+Ethersworn Canonist,{1}{W},Artifact Creature — Human Cleric
+Treachery,{3}{U}{U},Enchantment — Aura
+Gruul Signet,{2},Artifact
+Godless Shrine,{0},Land — Plains Swamp
+Lizard Blades,{1}{R},Artifact Creature — Equipment Lizard
+Lingering Souls,{2}{W},Sorcery
+"Boseiju, Who Endures",{0},Legendary Land
+Ephemerate,{W},Instant
+Bloom Tender,{1}{G},Creature — Elf Druid
+Grave Titan,{4}{B}{B},Creature — Giant
+Stern Scolding,{U},Instant
+Altar of Dementia,{2},Artifact
+Hallowed Fountain,{0},Land — Plains Island
+"Tinybones, the Pickpocket",{B},Legendary Creature — Skeleton Rogue
+Raffine's Tower,{0},Land — Plains Island Swamp
+Humility,{2}{W}{W},Enchantment
+Daze,{1}{U},Instant
+Fabled Passage,{0},Land
+"Nicol Bolas, Planeswalker",{4}{U}{B}{B}{R},Legendary Planeswalker — Bolas
+Collector Ouphe,{1}{G},Creature — Ouphe
+Price of Progress,{1}{R},Instant
+Samwise the Stouthearted,{1}{W},Legendary Creature — Halfling Peasant
+Ketria Triome,{0},Land — Forest Island Mountain
+Wurmcoil Engine,{6},Artifact Creature — Phyrexian Wurm
+Dance of the Dead,{1}{B},Enchantment — Aura
+The Mightstone and Weakstone,{5},Legendary Artifact — Powerstone
+Lurrus of the Dream-Den,{1}{W/B}{W/B},Legendary Creature — Cat Nightmare
+Regrowth,{1}{G},Sorcery
+Collective Resistance,{1}{G},Instant
+Savai Triome,{0},Land — Mountain Plains Swamp
+Crucible of Worlds,{3},Artifact
+Dauthi Voidwalker,{B}{B},Creature — Dauthi Rogue
+Monastery Swiftspear,{R},Creature — Human Monk
+Phyrexian Tower,{0},Legendary Land
+"Leovold, Emissary of Trest",{B}{G}{U},Legendary Creature — Elf Advisor
+Ravages of War,{3}{W},Sorcery
+Library of Alexandria,{0},Land
+Arena Rector,{3}{W},Creature — Human Cleric
+Luminarch Aspirant,{1}{W},Creature — Human Cleric
+Shelldock Isle,{0},Land
+Plateau,{0},Land — Mountain Plains
+Paradox Engine,{5},Legendary Artifact
+"Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar",{U},Legendary Creature — Moonfolk Wizard
+Aether Spellbomb,{1},Artifact
+Golgari Signet,{2},Artifact
+Goblin Rabblemaster,{2}{R},Creature — Goblin Warrior
+Channel,{G}{G},Sorcery
+"Nadu, Winged Wisdom",{1}{G}{U},Legendary Creature — Bird Wizard
+Goblin Bushwhacker,{R},Creature — Goblin Warrior
+Bonecrusher Giant // Stomp,{2}{R},Creature — Giant
+Glacial Chasm,{0},Land
+Yawgmoth's Bargain,{4}{B}{B},Enchantment
+The Tabernacle at Pendrell Vale,{0},Legendary Land
+Eternal Witness,{1}{G}{G},Creature — Human Shaman
+Walking Ballista,{X}{X},Artifact Creature — Construct
+Swords to Plowshares,{W},Instant
+Hero of Bladehold,{2}{W}{W},Creature — Human Knight
+Goblin Welder,{R},Creature — Goblin Artificer
+Dark Ritual,{B},Instant
+Lotus Petal,{{0}},Artifact
+"Kytheon, Hero of Akros // Gideon, Battle-Forged",{W},Legendary Creature — Human Soldier
+Flooded Strand,{0},Land
+Long Goodbye,{1}{B},Instant
+Memory Jar,{5},Artifact
+Troll of Khazad-dûm,{5}{B},Creature — Troll
+Robber of the Rich,{1}{R},Creature — Human Archer Rogue
+Fatal Push,{B},Instant
+Manamorphose,{1}{R/G},Instant
+Breeding Pool,{0},Land — Forest Island
+Conduit of Worlds,{2}{G}{G},Artifact
+Vesuva,{0},Land
+Caustic Bronco,{1}{B},Creature — Snake Horse Mount
+Arbor Elf,{G},Creature — Elf Druid
+Six,{2}{G},Legendary Creature — Treefolk
+Oath of Druids,{1}{G},Enchantment
+Overburden,{1}{U},Enchantment
+Llanowar Elves,{G},Creature — Elf Druid
+Deathrite Shaman,{B/G},Creature — Elf Shaman
+"Urza, Lord Protector",{1}{W}{U},Legendary Creature — Human Artificer
+Esika's Chariot,{3}{G},Legendary Artifact — Vehicle
+Mycosynth Lattice,{6},Artifact
+Doorkeeper Thrull,{1}{W},Creature — Thrull
+"Brimaz, King of Oreskos",{1}{W}{W},Legendary Creature — Cat Soldier
+Maze of Ith,{0},Land
+Chrome Mox,{{0}},Artifact
+"Chandra, Torch of Defiance",{2}{R}{R},Legendary Planeswalker — Chandra
+Rakdos Signet,{2},Artifact
+Broadside Bombardiers,{2}{R},Creature — Goblin Pirate
+"Omnath, Locus of Creation",{R}{G}{W}{U},Legendary Creature — Elemental
+Gilded Drake,{1}{U},Creature — Drake
+Sylvan Caryatid,{1}{G},Creature — Plant
+"Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",{1}{W},Legendary Creature — Cat Warrior
+Balance,{1}{W},Sorcery
+Angelic Destiny,{2}{W}{W},Enchantment — Aura
+Wrenn and Six,{R}{G},Legendary Planeswalker — Wrenn
+Eidolon of the Great Revel,{R}{R},Enchantment Creature — Spirit
+Shadowspear,{1},Legendary Artifact — Equipment
+Ocelot Pride,{W},Creature — Cat
+Noxious Revival,{G/P},Instant
+Wrath of God,{2}{W}{W},Sorcery
+Nethergoyf,{B},Creature — Lhurgoyf
+Kaito Shizuki,{1}{U}{B},Legendary Planeswalker — Kaito
+Not Dead After All,{B},Instant
+Wasteland,{0},Land
+Selesnya Signet,{2},Artifact
+City of Brass,{0},Land
+Farewell,{4}{W}{W},Sorcery
+Bazaar of Baghdad,{0},Land
+Sheoldred's Edict,{1}{B},Instant
+"Edric, Spymaster of Trest",{1}{G}{U},Legendary Creature — Elf Rogue
+"Ulamog, the Ceaseless Hunger",{1{0}},Legendary Creature — Eldrazi
+Polluted Delta,{0},Land
+Skullclamp,{1},Artifact — Equipment
+Fable of the Mirror-Breaker // Reflection of Kiki-Jiki,{2}{R},Enchantment — Saga
+Liliana of the Veil,{1}{B}{B},Legendary Planeswalker — Liliana
+Fastbond,{G},Enchantment
+Candelabra of Tawnos,{1},Artifact
+Ledger Shredder,{1}{U},Creature — Bird Advisor
+Vampire Hexmage,{B}{B},Creature — Vampire Shaman
+"Sheoldred, the Apocalypse",{2}{B}{B},Legendary Creature — Phyrexian Praetor
+"Uro, Titan of Nature's Wrath",{1}{G}{U},Legendary Creature — Elder Giant
+Academy Ruins,{0},Legendary Land
+Fanatic of Rhonas,{1}{G},Creature — Snake Druid
+Sacred Foundry,{0},Land — Mountain Plains
+Worldspine Wurm,{8}{G}{G}{G},Creature — Wurm
+Lotus Cobra,{1}{G},Creature — Snake
+Wheel of Fortune,{2}{R},Sorcery
+Mother of Runes,{W},Creature — Human Cleric
+Noble Hierarch,{G},Creature — Human Druid
+Sensei's Divining Top,{1},Artifact
+Phantasmal Image,{1}{U},Creature — Illusion
+Animate Dead,{1}{B},Enchantment — Aura
+Dress Down,{1}{U},Enchantment
+Subtlety,{2}{U}{U},Creature — Elemental Incarnation
+Thassa's Oracle,{U}{U},Creature — Merfolk Wizard
+Shifting Woodland,{0},Land
+"Ral, Monsoon Mage // Ral, Leyline Prodigy",{1}{R},Legendary Creature — Human Wizard
+Karakas,{0},Legendary Land
+Portable Hole,{W},Artifact
+Through the Breach,{4}{R},Instant — Arcane
+Monastery Mentor,{2}{W},Creature — Human Monk
+Basalt Monolith,{3},Artifact
+Underground Sea,{0},Land — Island Swamp
+Containment Priest,{1}{W},Creature — Human Cleric
+"Valki, God of Lies // Tibalt, Cosmic Impostor",{1}{B},Legendary Creature — God
+Displacer Kitten,{3}{U},Creature — Cat Beast
+"Drana, Liberator of Malakir",{1}{B}{B},Legendary Creature — Vampire Ally
+Vampiric Tutor,{B},Instant
+"Karn, the Great Creator",{4},Legendary Planeswalker — Karn
+Undying Evil,{B},Instant
+The Wandering Emperor,{2}{W}{W},Legendary Planeswalker
+"Anzrag, the Quake-Mole",{2}{R}{G},Legendary Creature — Mole God
+"Emry, Lurker of the Loch",{2}{U},Legendary Creature — Merfolk Wizard
+Giver of Runes,{W},Creature — Kor Cleric
+Toxic Deluge,{2}{B},Sorcery
+Tundra,{0},Land — Plains Island
+Omniscience,{7}{U}{U}{U},Enchantment
+Haywire Mite,{1},Artifact Creature — Insect
+Nulldrifter,{7},Creature — Eldrazi Elemental
+Tolarian Academy,{0},Legendary Land
+Dack Fayden,{1}{U}{R},Legendary Planeswalker — Dack
+"Jhoira, Weatherlight Captain",{2}{U}{R},Legendary Creature — Human Artificer
+Crop Rotation,{G},Instant
+"Gut, True Soul Zealot",{2}{R},Legendary Creature — Goblin Shaman
+Inquisition of Kozilek,{B},Sorcery
+Brainstorm,{U},Instant
+"Ulamog, the Defiler",{1{0}},Legendary Creature — Eldrazi
+Academy Rector,{3}{W},Creature — Human Cleric
+"Ashiok, Dream Render",{1}{U/B}{U/B},Legendary Planeswalker — Ashiok
+Mishra's Workshop,{0},Land
+Restoration Angel,{3}{W},Creature — Angel
+Ancestral Recall,{U},Instant
+Mana Leak,{1}{U},Instant
+Mox Pearl,{{0}},Artifact
+"Arwen, Mortal Queen",{1}{G}{W},Legendary Creature — Elf Noble
+Ziatora's Proving Ground,{0},Land — Swamp Mountain Forest
+Ignoble Hierarch,{G},Creature — Goblin Shaman
+"Grist, Voracious Larva // Grist, the Plague Swarm",{G},Legendary Creature — Insect
+Psychic Frog,{U}{B},Creature — Frog
+"Krenko, Tin Street Kingpin",{2}{R},Legendary Creature — Goblin
+"Comet, Stellar Pup",{2}{R}{W},Legendary Planeswalker — Comet
+Bitterblossom,{1}{B},Kindred Enchantment — Faerie
+Necron Deathmark,{3}{B}{B},Artifact Creature — Necron
+Thoughtseize,{B},Sorcery
+Savannah,{0},Land — Forest Plains
+Umezawa's Jitte,{2},Legendary Artifact — Equipment
+"Vorinclex, Monstrous Raider",{4}{G}{G},Legendary Creature — Phyrexian Praetor
+Orzhov Signet,{2},Artifact
+Terminus,{4}{W}{W},Sorcery
+Exploration,{G},Enchantment
+"Daretti, Scrap Savant",{3}{R},Legendary Planeswalker — Daretti
+Phyrexian Metamorph,{3}{U/P},Artifact Creature — Phyrexian Shapeshifter
+"Kroxa, Titan of Death's Hunger",{B}{R},Legendary Creature — Elder Giant
+"Laelia, the Blade Reforged",{2}{R},Legendary Creature — Spirit Warrior
+"Urza, Lord High Artificer",{2}{U}{U},Legendary Creature — Human Artificer
+Council's Judgment,{1}{W}{W},Sorcery
+"Oko, Thief of Crowns",{1}{G}{U},Legendary Planeswalker — Oko
+Reprieve,{1}{W},Instant
+Simic Signet,{2},Artifact
+Primeval Titan,{4}{G}{G},Creature — Giant
+Solitude,{3}{W}{W},Creature — Elemental Incarnation
+Cavern of Souls,{0},Land
+Stoneforge Mystic,{1}{W},Creature — Kor Artificer
+Echo of Eons,{4}{U}{U},Sorcery
+Ancient Tomb,{0},Land
+Ensnaring Bridge,{3},Artifact
+The One Ring,{4},Legendary Artifact
+Yawgmoth's Will,{2}{B},Sorcery
+Chainer's Edict,{1}{B},Sorcery
+Watery Grave,{0},Land — Island Swamp
+Scrubland,{0},Land — Plains Swamp
+Grim Monolith,{2},Artifact
+Spellseeker,{2}{U},Creature — Human Wizard
+Elves of Deep Shadow,{G},Creature — Elf Druid
+Seasoned Pyromancer,{1}{R}{R},Creature — Human Shaman
+Earthcraft,{1}{G},Enchantment
+"Kiki-Jiki, Mirror Breaker",{2}{R}{R}{R},Legendary Creature — Goblin Shaman
+"Myrel, Shield of Argive",{3}{W},Legendary Creature — Human Soldier
+Archon of Emeria,{2}{W},Creature — Archon
+Boros Signet,{2},Artifact
+Enlightened Tutor,{W},Instant
+Questing Beast,{2}{G}{G},Legendary Creature — Beast
+Tropical Island,{0},Land — Forest Island
+Time Vault,{2},Artifact
+Fractured Identity,{3}{W}{U},Sorcery
+"Urborg, Tomb of Yawgmoth",{0},Legendary Land
+Force of Negation,{1}{U}{U},Instant
+Bloodbraid Elf,{2}{R}{G},Creature — Elf Berserker
+Gitaxian Probe,{U/P},Sorcery
+Lion's Eye Diamond,{{0}},Artifact
+Blood Moon,{2}{R},Enchantment
+Torrential Gearhulk,{4}{U}{U},Artifact Creature — Construct
+Sowing Mycospawn,{3}{G},Creature — Eldrazi Fungus
+Mana Vault,{1},Artifact
+Tarmogoyf,{1}{G},Creature — Lhurgoyf
+Gaea's Cradle,{0},Legendary Land
+Ponder,{U},Sorcery
+Imperial Seal,{B},Sorcery
+Blood Crypt,{0},Land — Swamp Mountain
+"Emrakul, the Aeons Torn",{15},Legendary Creature — Eldrazi
+Springheart Nantuko,{1}{G},Enchantment Creature — Insect Monk
+Bayou,{0},Land — Swamp Forest
+Abrade,{1}{R},Instant
+Memory Lapse,{1}{U},Instant
+Paradoxical Outcome,{3}{U},Instant
+Sylvan Library,{1}{G},Enchantment
+"Kinnan, Bonder Prodigy",{G}{U},Legendary Creature — Human Druid
+"Rofellos, Llanowar Emissary",{G}{G},Legendary Creature — Elf Druid
+Necromancy,{2}{B},Enchantment
+Mind Twist,{X}{B},Sorcery
+Show and Tell,{2}{U},Sorcery
+Stomping Ground,{0},Land — Mountain Forest
+Snapcaster Mage,{1}{U},Creature — Human Wizard
+Terror of the Peaks,{3}{R}{R},Creature — Dragon
+Underworld Breach,{1}{R},Enchantment
+"Karn, Scion of Urza",{4},Legendary Planeswalker — Karn
+Jetmir's Garden,{0},Land — Mountain Forest Plains
+Collective Brutality,{1}{B},Sorcery
+"Elspeth, Sun's Champion",{4}{W}{W},Legendary Planeswalker — Elspeth
+Mox Opal,{{0}},Legendary Artifact
+Thousand-Year Storm,{4}{U}{R},Enchantment
+Elvish Mystic,{G},Creature — Elf Druid
+Reanimate,{B},Sorcery
+Knight of the Reliquary,{1}{G}{W},Creature — Human Knight
+Dimir Signet,{2},Artifact
+Bloodstained Mire,{0},Land
+"Braids, Cabal Minion",{2}{B}{B},Legendary Creature — Human Minion
+"""Name Sticker"" Goblin",{2}{R},Creature — Goblin Guest
+Thespian's Stage,{0},Land
+Fire Covenant,{1}{B}{R},Instant
+Roiling Vortex,{1}{R},Enchantment
+"Winota, Joiner of Forces",{2}{R}{W},Legendary Creature — Human Warrior
+Invert Polarity,{U}{U}{R},Instant
+Counterspell,{U}{U},Instant
+Snuff Out,{3}{B},Instant
+Zagoth Triome,{0},Land — Swamp Forest Island
+Witch Enchanter // Witch-Blessed Meadow,{3}{W},Creature — Human Warlock
+Expedition Map,{1},Artifact
+Vindicate,{1}{W}{B},Sorcery
+Dark Confidant,{1}{B},Creature — Human Wizard
+"Lutri, the Spellchaser",{1}{U/R}{U/R},Legendary Creature — Elemental Otter
+True-Name Nemesis,{1}{U}{U},Creature — Merfolk Rogue
+Windswept Heath,{0},Land
+Pest Infestation,{X}{X}{G},Sorcery
+Thraben Inspector,{W},Creature — Human Soldier
+"Phlage, Titan of Fire's Fury",{1}{R}{W},Legendary Creature — Elder Giant
+Exalted Flamer of Tzeentch,{2}{U}{R},Creature — Demon
+Sylvan Safekeeper,{G},Creature — Human Wizard
+Sheoldred // The True Scriptures,{3}{B}{B},Legendary Creature — Phyrexian Praetor
+Pyretic Ritual,{1}{R},Instant
+Duress,{B},Sorcery
+"Venser, Shaper Savant",{2}{U}{U},Legendary Creature — Human Wizard
+"Krenko, Mob Boss",{2}{R}{R},Legendary Creature — Goblin Warrior
+Pyrogoyf,{3}{R},Creature — Lhurgoyf
+Embercleave,{4}{R}{R},Legendary Artifact — Equipment
+Abrupt Decay,{B}{G},Instant
+Rite of Flame,{R},Sorcery
+"Teferi, Time Raveler",{1}{W}{U},Legendary Planeswalker — Teferi
+Raugrin Triome,{0},Land — Island Mountain Plains
+Flash,{1}{U},Instant
+Parallax Wave,{2}{W}{W},Enchantment
+Wooded Foothills,{0},Land
+Oust,{W},Sorcery
+Storm-Kiln Artist,{3}{R},Creature — Dwarf Shaman
+Entomb,{B},Instant
+Adanto Vanguard,{1}{W},Creature — Vampire Soldier
+Headliner Scarlett,{3}{R},Legendary Creature — Human Warlock
+Verdant Catacombs,{0},Land
+Delighted Halfling,{G},Creature — Halfling Citizen
+Archon of Cruelty,{6}{B}{B},Creature — Archon
+Smokestack,{4},Artifact
+Recurring Nightmare,{2}{B},Enchantment
+Forensic Gadgeteer,{2}{U},Creature — Vedalken Artificer Detective
+Fallen Shinobi,{3}{U}{B},Creature — Zombie Ninja
+Orcish Bowmasters,{1}{B},Creature — Orc Archer
+Tishana's Tidebinder,{2}{U},Creature — Merfolk Wizard
+Elder Gargaroth,{3}{G}{G},Creature — Beast
+"Elesh Norn, Mother of Machines",{4}{W},Legendary Creature — Phyrexian Praetor
+Faerie Mastermind,{1}{U},Creature — Faerie Rogue
+Aetherflux Reservoir,{4},Artifact
+Field of the Dead,{0},Land
+Stitcher's Supplier,{B},Creature — Zombie
+Taiga,{0},Land — Mountain Forest
+Sun Titan,{4}{W}{W},Creature — Giant
+"Atraxa, Grand Unifier",{3}{G}{W}{U}{B},Legendary Creature — Phyrexian Angel
+Opposition,{2}{U}{U},Enchantment
+"Grist, the Hunger Tide",{1}{B}{G},Legendary Planeswalker — Grist
+Sword of the Meek,{2},Artifact — Equipment
+"Tourach, Dread Cantor",{1}{B},Legendary Creature — Human Cleric
+Mindslaver,{6},Legendary Artifact
+Stromkirk Noble,{R},Creature — Vampire Noble
+Force of Vigor,{2}{G}{G},Instant
+Doomsday,{B}{B}{B},Sorcery
+"Saheeli, Sublime Artificer",{1}{U/R}{U/R},Legendary Planeswalker — Saheeli
+Chain Lightning,{R},Sorcery
+Ophiomancer,{2}{B},Creature — Human Shaman
+Unlicensed Hearse,{2},Artifact — Vehicle
+Ranger-Captain of Eos,{1}{W}{W},Creature — Human Soldier Ranger
+Thran Dynamo,{4},Artifact
+Hullbreacher,{2}{U},Creature — Merfolk Pirate
+Mana Confluence,{0},Land
+Ramunap Excavator,{2}{G},Creature — Snake Cleric
+Fiery Emancipation,{3}{R}{R}{R},Enchantment
+Batterskull,{5},Artifact — Equipment
+Goblin Guide,{R},Creature — Goblin Scout
+"Jace, Vryn's Prodigy // Jace, Telepath Unbound",{1}{U},Legendary Creature — Human Wizard
+Izzet Signet,{2},Artifact
+Thopter Foundry,{W/B}{U},Artifact
+Emperor of Bones,{1}{B},Creature — Skeleton Noble
+Capture of Jingzhou,{3}{U}{U},Sorcery
+Moat,{2}{W}{W},Enchantment
+Expressive Iteration,{U}{R},Sorcery
+Lion Sash,{1}{W},Artifact Creature — Equipment Cat
+Time Spiral,{4}{U}{U},Sorcery
+Fact or Fiction,{3}{U},Instant
+Dark Depths,{0},Legendary Snow Land
+Birds of Paradise,{G},Creature — Bird
+"Phelia, Exuberant Shepherd",{1}{W},Legendary Creature — Dog
+Assassin's Trophy,{B}{G},Instant
+Mana Drain,{U}{U},Instant
+Kaldra Compleat,{7},Legendary Artifact — Equipment
+Force of Will,{3}{U}{U},Instant
+"Narset, Parter of Veils",{1}{U}{U},Legendary Planeswalker — Narset
+"Titania, Protector of Argoth",{3}{G}{G},Legendary Creature — Elemental
+Dismember,{1}{B/P}{B/P},Instant
+"Heliod, Sun-Crowned",{2}{W},Legendary Enchantment Creature — God
+Preordain,{U},Sorcery
+Desperate Ritual,{1}{R},Instant — Arcane
+"Tezzeret, Agent of Bolas",{2}{U}{B},Legendary Planeswalker — Tezzeret
+Stifle,{U},Instant
+Lórien Revealed,{3}{U}{U},Sorcery
+Urza's Saga,{0},Enchantment Land — Urza's Saga
+Forth Eorlingas!,{X}{R}{W},Sorcery
+Fury,{3}{R}{R},Creature — Elemental Incarnation
+Relic of Sauron,{4},Artifact
+Vial Smasher the Fierce,{1}{B}{R},Legendary Creature — Goblin Berserker
+Dragon's Rage Channeler,{R},Creature — Human Shaman
+City of Traitors,{0},Land
+Mox Ruby,{{0}},Artifact
+Sneak Attack,{3}{R},Enchantment
+Karn Liberated,{7},Legendary Planeswalker — Karn
+"Tamiyo, Field Researcher",{1}{G}{W}{U},Legendary Planeswalker — Tamiyo
+Zealous Conscripts,{4}{R},Creature — Human Warrior
+Sublime Epiphany,{4}{U}{U},Instant
+Mox Emerald,{{0}},Artifact
+Mox Diamond,{{0}},Artifact
+Narset Transcendent,{2}{W}{U},Legendary Planeswalker — Narset
+"Tamiyo, Collector of Tales",{2}{G}{U},Legendary Planeswalker — Tamiyo
+White Plume Adventurer,{2}{W},Creature — Orc Cleric
+"Minsc & Boo, Timeless Heroes",{2}{R}{G},Legendary Planeswalker — Minsc
+Eureka,{2}{G}{G},Sorcery
+"Karlach, Fury of Avernus",{4}{R},Legendary Creature — Tiefling Barbarian
+Kolaghan's Command,{1}{B}{R},Instant
+Arid Mesa,{0},Land
+Seasoned Dungeoneer,{3}{W},Creature — Human Warrior
+Indatha Triome,{0},Land — Plains Swamp Forest
+Grief,{2}{B}{B},Creature — Elemental Incarnation
+Sinkhole,{B}{B},Sorcery
+"Teferi, Hero of Dominaria",{3}{W}{U},Legendary Planeswalker — Teferi
+Mishra's Bauble,{{0}},Artifact
+Xander's Lounge,{0},Land — Island Swamp Mountain
+Mana Crypt,{{0}},Artifact
+Griselbrand,{4}{B}{B}{B}{B},Legendary Creature — Demon
+Avacyn's Pilgrim,{G},Creature — Human Monk
+Fyndhorn Elves,{G},Creature — Elf Druid
+Temple Garden,{0},Land — Forest Plains
+Survival of the Fittest,{1}{G},Enchantment
+Undermountain Adventurer,{3}{G},Creature — Giant Warrior
+Frantic Search,{2}{U},Instant
+Strip Mine,{0},Land
+Craterhoof Behemoth,{5}{G}{G}{G},Creature — Beast
+Hexdrinker,{G},Creature — Snake
+Remand,{1}{U},Instant
+Scalding Tarn,{0},Land
+Brain Freeze,{1}{U},Instant
+Faithless Looting,{R},Sorcery
+Blightsteel Colossus,{12},Artifact Creature — Phyrexian Golem
+"Ragavan, Nimble Pilferer",{R},Legendary Creature — Monkey Pirate
+Lightning Bolt,{R},Instant
+Bribery,{3}{U}{U},Sorcery
+Coveted Jewel,{6},Artifact
+Path to Exile,{W},Instant
+Portal to Phyrexia,{9},Artifact
+Azorius Signet,{2},Artifact
+Demonic Tutor,{1}{B},Sorcery
+Marsh Flats,{0},Land
+Time Walk,{1}{U},Sorcery
+Volcanic Island,{0},Land — Island Mountain
+Mox Jet,{{0}},Artifact
+Phyrexian Dreadnought,{1},Artifact Creature — Phyrexian Dreadnought
+Black Lotus,{{0}},Artifact
+Sol Ring,{1},Artifact
+Mox Sapphire,{{0}},Artifact
+Mirri's Guile,{G},Enchantment
+Thundering Falls,{0},Land — Island Mountain
+Hedge Maze,{0},Land — Forest Island
+Seething Song,{2}{R},Instant
+Mystical Tutor,{U},Instant
+Underground Mortuary,{0},Land — Swamp Forest
+Skirk Prospector,{R},Creature — Goblin
+Warren Instigator,{R}{R},Creature — Goblin Berserker
+Zuran Orb,{{0}},Artifact
+Shadowy Backstreet,{0},Land — Plains Swamp
+Elegant Parlor,{0},Land — Mountain Plains
+Lush Portico,{0},Land — Forest Plains
+Goblin Recruiter,{1}{R},Creature — Goblin
+Baleful Strix,{U}{B},Artifact Creature — Bird
+Retrofitter Foundry,{1},Artifact
+Goblin Lackey,{R},Creature — Goblin
+"Muxus, Goblin Grandee",{4}{R}{R},Legendary Creature — Goblin Noble
+Empty the Warrens,{3}{R},Sorcery
+Commercial District,{0},Land — Mountain Forest
+Undercity Sewers,{0},Land — Island Swamp
+Raucous Theater,{0},Land — Swamp Mountain
+Goblin Cratermaker,{1}{R},Creature — Goblin Warrior
+Priest of Titania,{1}{G},Creature — Elf Druid
+Isochron Scepter,{2},Artifact
+Saw in Half,{2}{B},Instant
+Goblin Electromancer,{U}{R},Creature — Goblin Wizard
+Third Path Iconoclast,{U}{R},Creature — Human Monk
+Impending Disaster,{1}{R},Enchantment
+Mind Over Matter,{2}{U}{U}{U}{U},Enchantment
+Siege-Gang Commander,{3}{R}{R},Creature — Goblin
+"Jace, Wielder of Mysteries",{1}{U}{U}{U},Legendary Planeswalker — Jace
+Fiery Confluence,{2}{R}{R},Sorcery
+Bone Shards,{B},Sorcery
+Helm of Awakening,{2},Artifact
+Sword of Body and Mind,{3},Artifact — Equipment
+Soul-Guide Lantern,{1},Artifact
+Infernal Grasp,{1}{B},Instant
+Meticulous Archive,{0},Land — Plains Island
+Cabal Ritual,{1}{B},Instant
+Mystic Confluence,{3}{U}{U},Instant
+Spellshock,{2}{R},Enchantment
+Basilisk Collar,{1},Artifact — Equipment
+Bolas's Citadel,{3}{B}{B}{B},Legendary Artifact
+Triumph of Saint Katherine,{4}{W},Creature — Human Warrior
+Loran of the Third Path,{2}{W},Legendary Creature — Human Artificer
+Exhume,{1}{B},Sorcery
+Archaeomancer,{2}{U}{U},Creature — Human Wizard
+Detective's Phoenix,{2}{R},Enchantment Creature — Phoenix
+Hornet Queen,{4}{G}{G}{G},Creature — Insect
+Orim's Chant,{W},Instant
+Temporal Fissure,{4}{U},Sorcery
+"The Gitrog, Ravenous Ride",{3}{B}{G},Legendary Creature — Frog Horror Mount
+Dryad of the Ilysian Grove,{2}{G},Enchantment Creature — Nymph Dryad
+"Chulane, Teller of Tales",{2}{G}{W}{U},Legendary Creature — Human Druid
+Scion of Draco,{12},Artifact Creature — Dragon
+Touch the Spirit Realm,{2}{W},Enchantment
+Tangle,{1}{G},Instant
+"Search for Azcanta // Azcanta, the Sunken Ruin",{1}{U},Legendary Enchantment
+Leyline of the Guildpact,{G/W}{G/U}{B/G}{R/G},Enchantment
+Goblin Sharpshooter,{2}{R},Creature — Goblin
+Pattern of Rebirth,{3}{G},Enchantment — Aura
+Freed from the Real,{2}{U},Enchantment — Aura
+"Valakut, the Molten Pinnacle",{0},Land
+"Otharri, Suns' Glory",{3}{R}{W},Legendary Creature — Phoenix
+Forbidden Orchard,{0},Land
+Carnage Interpreter,{1}{B/R}{B/R},Creature — Devil Detective
+Hushbringer,{1}{W},Creature — Faerie
+Molten Collapse,{B}{R},Sorcery
+Tidehollow Sculler,{W}{B},Artifact Creature — Zombie
+Serra Paragon,{2}{W}{W},Creature — Angel
+Ruination,{3}{R},Sorcery
+Woodfall Primus,{5}{G}{G}{G},Creature — Treefolk Shaman
+Currency Converter,{1},Artifact
+Ohran Frostfang,{3}{G}{G},Snow Creature — Snake

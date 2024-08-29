@@ -1,0 +1,1038 @@
+name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,status,Finish,maybeboard,image URL,image Back URL,tags,Notes,MTGO ID
+"Esper Sentinel",1,"Artifact Creature - Human Soldier",W,"mh2","12",rare,w,Not Owned,,false,,,"","",90393
+"Giver of Runes",1,"Creature - Kor Cleric",W,"mh1","13",rare,w,Not Owned,,false,,,"","",72398
+"Kytheon, Hero of Akros",1,"Legendary Creature - Human Soldier",W,"ori","23",mythic,w,Not Owned,,false,,,"","",57876
+"Mother of Runes",1,"Creature - Human Cleric",W,"ulg","14",uncommon,w,Not Owned,,false,,,"","",12553
+"Ocelot Pride",1,"Creature - Cat",W,"mh3","38",mythic,w,Not Owned,,false,,,"","",126093
+"Thraben Inspector",1,"Creature - Human Soldier",W,"soi","44",common,w,Not Owned,,false,,,"","",60240
+"Adanto Vanguard",2,"Creature - Vampire Soldier",W,"xln","1",uncommon,w,Not Owned,,false,,,"","",65012
+"Containment Priest",2,"Creature - Human Cleric",W,"c14","5",rare,w,Not Owned,,false,,,"","",55177
+"Doorkeeper Thrull",2,"Creature - Thrull",W,"mkm","13",rare,w,Not Owned,,false,,,"","",121514
+"Ethersworn Canonist",2,"Artifact Creature - Human Cleric",W,"ala","10",rare,w,Not Owned,,false,,,"","",30999
+"Hushbringer",2,"Creature - Faerie",W,"eld","18",rare,w,Owned,Non-foil,false,,,"","",78128
+"Lion Sash",2,"Artifact Creature - Equipment Cat",W,"neo","26",rare,w,Not Owned,,false,,,"","",96962
+"Luminarch Aspirant",2,"Creature - Human Cleric",W,"znr","24",rare,w,Not Owned,,false,,,"","",82987
+"Phelia, Exuberant Shepherd",2,"Legendary Creature - Dog",W,"mh3","40",rare,w,Not Owned,,false,,,"","",126097
+"Samwise the Stouthearted",2,"Legendary Creature - Halfling Peasant",W,"ltr","28",uncommon,w,Not Owned,,false,,,"","",111966
+"Stoneforge Mystic",2,"Creature - Kor Artificer",W,"wwk","20",rare,w,Not Owned,,false,,,"","",35737
+"Thalia, Guardian of Thraben",2,"Legendary Creature - Human Soldier",W,"dka","24",rare,w,Not Owned,,false,,,"","",43469
+"Adeline, Resplendent Cathar",3,"Legendary Creature - Human Knight",W,"mid","1",rare,w,Not Owned,,false,,,"","",92916
+"Archon of Emeria",3,"Creature - Archon",W,"znr","4",rare,w,Not Owned,,false,,,"","",82943
+"Brimaz, King of Oreskos",3,"Legendary Creature - Cat Soldier",W,"bng","5",mythic,w,Not Owned,,false,,,"","",51739
+"Heliod, Sun-Crowned",3,"Legendary Enchantment Creature - God",W,"thb","18",mythic,w,Not Owned,,false,,,"","",79160
+"Loran of the Third Path",3,"Legendary Creature - Human Artificer",W,"bro","12",rare,w,Not Owned,,false,,,"","",104642
+"Monastery Mentor",3,"Creature - Human Monk",W,"frf","20",mythic,w,Not Owned,,false,,,"","",55410
+"Ranger-Captain of Eos",3,"Creature - Human Soldier Ranger",W,"mh1","21",mythic,w,Not Owned,,false,,,"","",72414
+"White Plume Adventurer",3,"Creature - Orc Cleric",W,"clb","49",rare,w,Not Owned,,false,,,"","",100096
+"Academy Rector",4,"Creature - Human Cleric",W,"uds","1",rare,w,Not Owned,,false,,,"","",12791
+"Arena Rector",4,"Creature - Human Cleric",W,"bbd","23",mythic,w,Not Owned,,false,,,"","",68774
+"Felidar Guardian",4,"Creature - Cat Beast",W,"aer","19",uncommon,w,Not Owned,,false,,,"","",62593
+"Hero of Bladehold",4,"Creature - Human Knight",W,"mbs","8",mythic,w,Owned,Non-foil,false,,,"","",39539
+"Myrel, Shield of Argive",4,"Legendary Creature - Human Soldier",W,"bro","18",mythic,w,Not Owned,,false,,,"","",104654
+"Restoration Angel",4,"Creature - Angel",W,"avr","32",rare,w,Not Owned,,false,,,"","",44009
+"Seasoned Dungeoneer",4,"Creature - Human Warrior",W,"clb","660",rare,w,Not Owned,,false,,,"","",101416
+"Serra Paragon",4,"Creature - Angel",W,"dmu","32",mythic,w,Owned,Non-foil,false,,,"","",102540
+"Witch Enchanter",4,"Creature - Human Warlock",W,"mh3","239",uncommon,w,Not Owned,,false,,,"","",126503
+"Elesh Norn, Mother of Machines",5,"Legendary Creature - Phyrexian Praetor",W,"one","10",mythic,w,Not Owned,,false,,,"","",106235
+"Solitude",5,"Creature - Elemental Incarnation",W,"mh2","32",mythic,w,Not Owned,,false,,,"","",90433
+"Triumph of Saint Katherine",5,"Creature - Human Warrior",W,"40k","17",rare,w,Not Owned,,false,,,"","",108506
+"Sun Titan",6,"Creature - Giant",W,"ncc","210",mythic,w,Owned,Non-foil,false,,,"maybeout","",
+"The Wandering Emperor",4,"Legendary Planeswalker",W,"pneo","42p",mythic,w,Not Owned,,false,,,"","",
+"Elspeth, Sun's Champion",6,"Legendary Planeswalker - Elspeth",W,"moc","182",mythic,w,Owned,Non-foil,false,,,"","",110812
+"Enlightened Tutor",1,"Instant",W,"mir","14",uncommon,w,Not Owned,,false,,,"","",6947
+"Ephemerate",1,"Instant",W,"mh1","7",common,w,Not Owned,,false,,,"","",72386
+"Orim's Chant",1,"Instant",W,"pls","11",rare,w,Owned,Non-foil,false,,,"","",15195
+"Path to Exile",1,"Instant",W,"con","15",uncommon,w,Not Owned,,false,,,"","",31733
+"Swords to Plowshares",1,"Instant",W,"lea","40",uncommon,w,Not Owned,,false,,,"","",
+"Reprieve",2,"Instant",W,"ltr","26",uncommon,w,Not Owned,,false,,,"","",111962
+"Oust",1,"Sorcery",W,"roe","40",uncommon,w,Not Owned,,false,,,"","",36682
+"Balance",2,"Sorcery",W,"lea","3",rare,w,Not Owned,,false,,,"","",
+"Council's Judgment",3,"Sorcery",W,"cns","16",rare,w,Not Owned,,false,,,"","",
+"Ravages of War",4,"Sorcery",W,"ptk","17",rare,w,Not Owned,,false,,,"","",
+"Wrath of God",4,"Sorcery",W,"2xm","383",rare,w,Not Owned,,false,,,"","",
+"Farewell",6,"Sorcery",W,"neo","13",rare,w,Not Owned,,false,,,"","",96936
+"Terminus",6,"Sorcery",W,"avr","38",rare,w,Not Owned,,false,,,"","",43815
+"Mox Pearl",0,"Artifact",W,"lea","263",rare,w,Not Owned,,false,,,"","",651
+"Portable Hole",1,"Artifact",W,"afr","33",uncommon,w,Not Owned,,false,,,"","",91568
+"Touch the Spirit Realm",3,"Enchantment",W,"neo","40",uncommon,w,Owned,Non-foil,false,,,"","",96994
+"Angelic Destiny",4,"Enchantment - Aura",W,"m12","3",mythic,w,Not Owned,,false,,,"","",41427
+"Humility",4,"Enchantment",W,"tmp","24",rare,w,Not Owned,,false,,,"maybeout","",9931
+"Moat",4,"Enchantment",W,"leg","28",rare,w,Not Owned,,false,,,"","",
+"Parallax Wave",4,"Enchantment",W,"nem","17",rare,w,Not Owned,,false,,,"","",13747
+"Faerie Mastermind",2,"Creature - Faerie Rogue",U,"mom","58",rare,u,Not Owned,,false,,,"","",109930
+"Gilded Drake",2,"Creature - Drake",U,"usg","76",rare,u,Not Owned,,false,,,"","",11975
+"Jace, Vryn's Prodigy",2,"Legendary Creature - Human Wizard",U,"ori","60",mythic,u,Not Owned,,false,,,"","",57880
+"Ledger Shredder",2,"Creature - Bird Advisor",U,"snc","46",rare,u,Not Owned,,false,,,"","",98311
+"Phantasmal Image",2,"Creature - Illusion",U,"m12","72",rare,u,Not Owned,,false,,,"","",41369
+"Snapcaster Mage",2,"Creature - Human Wizard",U,"isd","78",rare,u,Not Owned,,false,,,"","",42512
+"Thassa's Oracle",2,"Creature - Merfolk Wizard",U,"thb","73",rare,u,Not Owned,,false,,,"","",79270
+"Emry, Lurker of the Loch",3,"Legendary Creature - Merfolk Wizard",U,"eld","43",rare,u,Not Owned,,false,,,"","",78190
+"Forensic Gadgeteer",3,"Creature - Vedalken Artificer Detective",U,"mkm","57",rare,u,Not Owned,,false,,,"","",121600
+"Hullbreacher",3,"Creature - Merfolk Pirate",U,"cmr","74",rare,u,Not Owned,,false,,,"","",84930
+"Spellseeker",3,"Creature - Human Wizard",U,"bbd","41",rare,u,Not Owned,,false,,,"","",68810
+"Tishana's Tidebinder",3,"Creature - Merfolk Wizard",U,"lci","81",rare,u,Not Owned,,false,,,"","",117962
+"True-Name Nemesis",3,"Creature - Merfolk Rogue",U,"c13","63",rare,u,Not Owned,,false,,,"","",51356
+"Archaeomancer",4,"Creature - Human Wizard",U,"m13","41",common,u,Not Owned,,false,,,"","",45496
+"Displacer Kitten",4,"Creature - Cat Beast",U,"clb","63",rare,u,Not Owned,,false,,,"","",100124
+"Phyrexian Metamorph",4,"Artifact Creature - Phyrexian Shapeshifter",U,"nph","42",rare,u,Not Owned,,false,,,"","",39734
+"Subtlety",4,"Creature - Elemental Incarnation",U,"mh2","67",mythic,u,Not Owned,,false,,,"","",90507
+"Urza, Lord High Artificer",4,"Legendary Creature - Human Artificer",U,"mh1","75",mythic,u,Not Owned,,false,,,"","",72522
+"Venser, Shaper Savant",4,"Legendary Creature - Human Wizard",U,"fut","46",rare,u,Not Owned,,false,,,"","",26594
+"Kappa Cannoneer",6,"Artifact Creature - Turtle Warrior",U,"nec","14",rare,u,Not Owned,,false,,,"","",97776
+"Torrential Gearhulk",6,"Artifact Creature - Construct",U,"kld","67",mythic,u,Not Owned,,false,,,"","",61917
+"Nulldrifter",7,"Creature - Eldrazi Elemental",U,"mh3","13",rare,u,Not Owned,,false,,,"","",126043
+"Narset, Parter of Veils",3,"Legendary Planeswalker - Narset",U,"war","61",uncommon,u,Not Owned,,false,,,"","",71728
+"Jace, the Mind Sculptor",4,"Legendary Planeswalker - Jace",U,"wwk","31",mythic,u,Not Owned,,false,,,"","",35591
+"Jace, Wielder of Mysteries",4,"Legendary Planeswalker - Jace",U,"war","54",rare,u,Not Owned,,false,,,"","",71714
+"Ancestral Recall",1,"Instant",U,"lea","47",rare,u,Not Owned,,false,,,"","",315
+"Brainstorm",1,"Instant",U,"ice","61",common,u,Not Owned,,false,,,"","",24401
+"Flusterstorm",1,"Instant",U,"cmd","46",rare,u,Not Owned,,false,,,"","",40625
+"Mystical Tutor",1,"Instant",U,"dmr","60",rare,u,Owned,Non-foil,false,,,"","",107609
+"Stern Scolding",1,"Instant",U,"ltr","71",uncommon,u,Not Owned,,false,,,"","",112052
+"Stifle",1,"Instant",U,"scg","52",rare,u,Not Owned,,false,,,"","",18902
+"Brain Freeze",2,"Instant",U,"scg","29",uncommon,u,Not Owned,,false,,,"","",18932
+"Counterspell",2,"Instant",U,"mh2","267",uncommon,u,Owned,Non-foil,false,,,"","",90957
+"Daze",2,"Instant",U,"nem","30",common,u,Not Owned,,false,,,"","",14009
+"Flash",2,"Instant",U,"mir","66",rare,u,Not Owned,,false,,,"","",6981
+"Mana Drain",2,"Instant",U,"leg","65",uncommon,u,Not Owned,,false,,,"","",
+"Mana Leak",2,"Instant",U,"sth","36",common,u,Not Owned,,false,,,"","",10307
+"Memory Lapse",2,"Instant",U,"plst","EMA-60",common,u,Not Owned,,false,,,"","",
+"Negate",2,"Instant",U,"mor","43",common,u,Not Owned,,false,,,"","",29010
+"Remand",2,"Instant",U,"rav","63",uncommon,u,Not Owned,,false,,,"","",23174
+"Force of Negation",3,"Instant",U,"mh1","52",rare,u,Not Owned,,false,,,"","",72476
+"Frantic Search",3,"Instant",U,"ulg","32",common,u,Not Owned,,false,,,"","",12615
+"Fact or Fiction",4,"Instant",U,"clb","720",uncommon,u,Owned,Non-foil,false,,,"","",
+"Paradoxical Outcome",4,"Instant",U,"kld","60",rare,u,Not Owned,,false,,,"","",61909
+"Force of Will",5,"Instant",U,"all","28",uncommon,u,Not Owned,,false,,,"","",
+"Mystic Confluence",5,"Instant",U,"tsr","312",special,u,Owned,Non-foil,false,,,"","",87001
+"Sublime Epiphany",6,"Instant",U,"m21","74",rare,u,Not Owned,,false,,,"","",81375
+"Nexus of Fate",7,"Instant",U,"m19","306",mythic,u,Not Owned,,false,,,"","",68145
+"Gitaxian Probe",1,"Sorcery",U,"nph","35",common,u,Not Owned,,false,,,"","",39976
+"Ponder",1,"Sorcery",U,"lrw","79",common,u,Not Owned,,false,,,"","",28339
+"Preordain",1,"Sorcery",U,"otc","107",common,u,Owned,Non-foil,false,,,"","",124673
+"Time Walk",2,"Sorcery",U,"lea","83",rare,u,Not Owned,,false,,,"","",817
+"Show and Tell",3,"Sorcery",U,"usg","96",rare,u,Not Owned,,false,,,"","",12139
+"Timetwister",3,"Sorcery",U,"lea","84",rare,u,Not Owned,,false,,,"","",819
+"Tinker",3,"Sorcery",U,"ulg","45",uncommon,u,Not Owned,,false,,,"","",12623
+"Bribery",5,"Sorcery",U,"mmq","62",rare,u,Not Owned,,false,,,"","",13563
+"Capture of Jingzhou",5,"Sorcery",U,"ptk","38",rare,u,Not Owned,,false,,,"","",
+"Lórien Revealed",5,"Sorcery",U,"ltr","60",common,u,Not Owned,,false,,,"","",112030
+"Temporal Fissure",5,"Sorcery",U,"scg","53",common,u,Owned,Non-foil,false,,,"","",18860
+"Echo of Eons",6,"Sorcery",U,"mh1","46",mythic,u,Not Owned,,false,,,"","",72464
+"Time Spiral",6,"Sorcery",U,"usg","103",rare,u,Not Owned,,false,,,"","",12385
+"Upheaval",6,"Sorcery",U,"ody","113",rare,u,Not Owned,,false,,,"","",16811
+"Mox Sapphire",0,"Artifact",U,"lea","265",rare,u,Not Owned,,false,,,"","",655
+"Aether Spellbomb",1,"Artifact",U,"mrd","141",common,u,Not Owned,,false,,,"","",19871
+"Dress Down",2,"Enchantment",U,"mh2","39",rare,u,Not Owned,,false,,,"","",90447
+"Overburden",2,"Enchantment",U,"pcy","39",rare,u,Not Owned,,false,,,"","",14267
+"Search for Azcanta",2,"Legendary Enchantment",U,"xln","74",rare,u,Owned,Non-foil,false,,,"","",65160
+"Freed from the Real",3,"Enchantment - Aura",U,"a25","58",uncommon,u,Owned,Non-foil,false,,,"","",67030
+"Opposition",4,"Enchantment",U,"uds","40",rare,u,Not Owned,,false,,,"","",12821
+"Treachery",5,"Enchantment - Aura",U,"uds","50",rare,u,Not Owned,,false,,,"","",13039
+"Mind Over Matter",6,"Enchantment",U,"exo","40",rare,u,Owned,Non-foil,false,,,"","",10607
+"Omniscience",10,"Enchantment",U,"m13","63",mythic,u,Not Owned,,false,,,"","",45272
+"Nethergoyf",1,"Creature - Lhurgoyf",B,"mh3","103",mythic,b,Not Owned,,false,,,"","",126223
+"Stitcher's Supplier",1,"Creature - Zombie",B,"m19","121",uncommon,b,Not Owned,,false,,,"","",68403
+"Tinybones, the Pickpocket",1,"Legendary Creature - Skeleton Rogue",B,"otj","109",mythic,b,Not Owned,,false,,,"","",124129
+"Caustic Bronco",2,"Creature - Snake Horse Mount",B,"otj","82",rare,b,Not Owned,,false,,,"","",124075
+"Dark Confidant",2,"Creature - Human Wizard",B,"rav","81",rare,b,Not Owned,,false,,,"","",23084
+"Dauthi Voidwalker",2,"Creature - Dauthi Rogue",B,"mh2","81",rare,b,Not Owned,,false,,,"","",90535
+"Emperor of Bones",2,"Creature - Skeleton Noble",B,"mh3","90",rare,b,Not Owned,,false,,,"","",126197
+"Orcish Bowmasters",2,"Creature - Orc Archer",B,"ltr","103",rare,b,Not Owned,,false,,,"","",112116
+"Tourach, Dread Cantor",2,"Legendary Creature - Human Cleric",B,"mh2","102",mythic,b,Not Owned,,false,,,"","",90577
+"Vampire Hexmage",2,"Creature - Vampire Shaman",B,"zen","114",uncommon,b,Not Owned,,false,,,"","",34690
+"Barrowgoyf",3,"Creature - Lhurgoyf",B,"m3c","102",rare,b,Not Owned,,false,,,"","",127403
+"Drana, Liberator of Malakir",3,"Legendary Creature - Vampire Ally",B,"bfz","109",mythic,b,Not Owned,,false,,,"","",58405
+"Ophiomancer",3,"Creature - Human Shaman",B,"c13","84",rare,b,Not Owned,,false,,,"","",51344
+"Opposition Agent",3,"Creature - Human Rogue",B,"cmr","141",rare,b,Not Owned,,false,,,"","",85064
+"Braids, Cabal Minion",4,"Legendary Creature - Human Minion",B,"ody","117",rare,b,Not Owned,,false,,,"","",16749
+"Grief",4,"Creature - Elemental Incarnation",B,"mh2","87",mythic,b,Not Owned,,false,,,"","",90547
+"Sheoldred, the Apocalypse",4,"Legendary Creature - Phyrexian Praetor",B,"dmu","107",mythic,b,Not Owned,,false,,,"","",102690
+"Necron Deathmark",5,"Artifact Creature - Necron",B,"40k","42",rare,b,Not Owned,,false,,,"","",108556
+"Sheoldred",5,"Legendary Creature - Phyrexian Praetor",B,"mom","125",mythic,b,Not Owned,,false,,,"","",110096
+"Grave Titan",6,"Creature - Giant",B,"m11","97",mythic,b,Not Owned,,false,,,"","",37374
+"Troll of Khazad-dûm",6,"Creature - Troll",B,"ltr","111",common,b,Not Owned,,false,,,"","",112132
+"Archon of Cruelty",8,"Creature - Archon",B,"mh2","75",mythic,b,Owned,Non-foil,false,,,"","",90523
+"Griselbrand",8,"Legendary Creature - Demon",B,"phel","106",mythic,b,Not Owned,,false,,,"","",
+"Liliana of the Veil",3,"Legendary Planeswalker - Liliana",B,"isd","105",mythic,b,Not Owned,,false,,,"","",42616
+"Dark Ritual",1,"Instant",B,"lea","98",common,b,Not Owned,,false,,,"","",
+"Entomb",1,"Instant",B,"ody","132",rare,b,Not Owned,,false,,,"","",17047
+"Fatal Push",1,"Instant",B,"aer","57",uncommon,b,Not Owned,,false,,,"","",62689
+"Not Dead After All",1,"Instant",B,"woe","101",common,b,Not Owned,,false,,,"","",116518
+"Undying Evil",1,"Instant",B,"dka","77",common,b,Not Owned,,false,,,"","",43393
+"Vampiric Tutor",1,"Instant",B,"vis","72",rare,b,Not Owned,,false,,,"","",7777
+"Cabal Ritual",2,"Instant",B,"tor","51",common,b,Owned,Non-foil,false,,,"","",17191
+"Infernal Grasp",2,"Instant",B,"mid","107",uncommon,b,Owned,Non-foil,false,,,"","",93174
+"Long Goodbye",2,"Instant",B,"mkm","92",uncommon,b,Not Owned,,false,,,"","",121662
+"Sheoldred's Edict",2,"Instant",B,"one","108",uncommon,b,Not Owned,,false,,,"","",106431
+"Dismember",3,"Instant",B,"nph","57",uncommon,b,Not Owned,,false,,,"","",39944
+"Saw in Half",3,"Instant",B,"unf","88",rare,b,Owned,Non-foil,false,,,"","",115698
+"Snuff Out",4,"Instant",B,"mmq","162",common,b,Owned,Non-foil,false,,,"","",13495
+"Bone Shards",1,"Sorcery",B,"mh2","395",common,b,Owned,Non-foil,false,,,"","",91063
+"Duress",1,"Sorcery",B,"usg","132",common,b,Not Owned,,false,,,"","",12317
+"Imperial Seal",1,"Sorcery",B,"ptk","78",rare,b,Not Owned,,false,,,"","",
+"Inquisition of Kozilek",1,"Sorcery",B,"roe","115",uncommon,b,Not Owned,,false,,,"","",36360
+"Mind Twist",1,"Sorcery",B,"lea","115",rare,b,Not Owned,,false,,,"","",
+"Reanimate",1,"Sorcery",B,"tmp","151",uncommon,b,Not Owned,,false,,,"","",9989
+"Thoughtseize",1,"Sorcery",B,"lrw","145",rare,b,Not Owned,,false,,,"","",28269
+"Chainer's Edict",2,"Sorcery",B,"tor","57",uncommon,b,Not Owned,,false,,,"","",17205
+"Collective Brutality",2,"Sorcery",B,"emn","85",rare,b,Not Owned,,false,,,"","",61144
+"Demonic Tutor",2,"Sorcery",B,"lea","104",uncommon,b,Not Owned,,false,,,"","",
+"Exhume",2,"Sorcery",B,"usg","134",common,b,Not Owned,,false,,,"","",11897
+"Sinkhole",2,"Sorcery",B,"lea","129",common,b,Not Owned,,false,,,"","",
+"Doomsday",3,"Sorcery",B,"wth","66",rare,b,Not Owned,,false,,,"","",9279
+"Toxic Deluge",3,"Sorcery",B,"c13","96",rare,b,Not Owned,,false,,,"","",51366
+"Yawgmoth's Will",3,"Sorcery",B,"usg","171",rare,b,Not Owned,,false,,,"","",12349
+"Damnation",4,"Sorcery",B,"plc","85",rare,b,Not Owned,,false,,,"","",26279
+"Mox Jet",0,"Artifact",B,"lea","262",rare,b,Not Owned,,false,,,"","",649
+"Bolas's Citadel",6,"Legendary Artifact",B,"war","79",rare,b,Not Owned,,false,,,"","",71764
+"Animate Dead",2,"Enchantment - Aura",B,"lea","92",uncommon,b,Not Owned,,false,,,"","",
+"Bitterblossom",2,"Kindred Enchantment - Faerie",B,"mor","58",rare,b,Not Owned,,false,,,"","",29038
+"Dance of the Dead",2,"Enchantment - Aura",B,"ice","118",uncommon,b,Not Owned,,false,,,"","",
+"Necromancy",3,"Enchantment",B,"vis","64",uncommon,b,Not Owned,,false,,,"","",7649
+"Recurring Nightmare",3,"Enchantment",B,"exo","72",rare,b,Not Owned,,false,,,"","",10583
+"Yawgmoth's Bargain",6,"Enchantment",B,"uds","75",rare,b,Not Owned,,false,,,"","",12853
+"Dragon's Rage Channeler",1,"Creature - Human Shaman",R,"mh2","121",uncommon,r,Owned,Non-foil,false,,,"","",90615
+"Goblin Bushwhacker",1,"Creature - Goblin Warrior",R,"zen","125",common,r,Not Owned,,false,,,"","",34388
+"Goblin Guide",1,"Creature - Goblin Scout",R,"zen","126",rare,r,Not Owned,,false,,,"","",34374
+"Goblin Lackey",1,"Creature - Goblin",R,"usg","190",uncommon,r,Owned,Non-foil,false,,,"","",12403
+"Goblin Welder",1,"Creature - Goblin Artificer",R,"ulg","80",rare,r,Not Owned,,false,,,"","",12561
+"Monastery Swiftspear",1,"Creature - Human Monk",R,"ktk","118",uncommon,r,Not Owned,,false,,,"","",54108
+"Ragavan, Nimble Pilferer",1,"Legendary Creature - Monkey Pirate",R,"mh2","138",mythic,r,Not Owned,,false,,,"","",90653
+"Skirk Prospector",1,"Creature - Goblin",R,"ons","230",common,r,Not Owned,,false,,,"","",18053
+"Stromkirk Noble",1,"Creature - Vampire Noble",R,"isd","164",rare,r,Not Owned,,false,,,"","",42554
+"Eidolon of the Great Revel",2,"Enchantment Creature - Spirit",R,"jou","94",rare,r,Not Owned,,false,,,"","",52246
+"Goblin Cratermaker",2,"Creature - Goblin Warrior",R,"grn","103",uncommon,r,Owned,Non-foil,false,,,"","",69579
+"Goblin Recruiter",2,"Creature - Goblin",R,"vis","80",uncommon,r,Not Owned,,false,,,"","",7567
+"Inti, Seneschal of the Sun",2,"Legendary Creature - Human Knight",R,"lci","156",rare,r,Not Owned,,false,,,"","",118132
+"Lizard Blades",2,"Artifact Creature - Equipment Lizard",R,"neo","153",rare,r,Not Owned,,false,,,"","",97238
+"Robber of the Rich",2,"Creature - Human Archer Rogue",R,"eld","138",mythic,r,Not Owned,,false,,,"","",78406
+"Warren Instigator",2,"Creature - Goblin Berserker",R,"zen","154",mythic,r,Owned,Non-foil,false,,,"","",34642
+"""Name Sticker" Goblin",3,"Creature - Goblin Guest",R,"unf","107m",common,r,Not Owned,,false,,,"","",115722
+"Bonecrusher Giant",3,"Creature - Giant",R,"eld","115",rare,r,Not Owned,,false,,,"","",78352
+"Broadside Bombardiers",3,"Creature - Goblin Pirate",R,"lcc","86",rare,r,Not Owned,,false,,,"","",119178
+"Detective's Phoenix",3,"Enchantment Creature - Phoenix",R,"mh3","116",rare,r,Owned,Non-foil,false,,,"","",126249
+"Goblin Rabblemaster",3,"Creature - Goblin Warrior",R,"m15","145",rare,r,Not Owned,,false,,,"","",53500
+"Goblin Sharpshooter",3,"Creature - Goblin",R,"ons","207",rare,r,Owned,Non-foil,false,,,"","",18063
+"Gut, True Soul Zealot",3,"Legendary Creature - Goblin Shaman",R,"clb","180",uncommon,r,Not Owned,,false,,,"","",100384
+"Krenko, Tin Street Kingpin",3,"Legendary Creature - Goblin",R,"war","137",rare,r,Not Owned,,false,,,"","",71880
+"Laelia, the Blade Reforged",3,"Legendary Creature - Spirit Warrior",R,"c21","53",rare,r,Not Owned,,false,,,"","",89849
+"Seasoned Pyromancer",3,"Creature - Human Shaman",R,"mh1","145",mythic,r,Not Owned,,false,,,"","",72662
+"Caves of Chaos Adventurer",4,"Creature - Human Barbarian",R,"clb","167",rare,r,Not Owned,,false,,,"","",100356
+"Headliner Scarlett",4,"Legendary Creature - Human Warlock",R,"clu","4",rare,r,Not Owned,,false,,,"","",123418
+"Krenko, Mob Boss",4,"Legendary Creature - Goblin Warrior",R,"j22","564",rare,r,Owned,Non-foil,false,,,"","",
+"Pyrogoyf",4,"Creature - Lhurgoyf",R,"m3c","111",rare,r,Not Owned,,false,,,"","",127421
+"Storm-Kiln Artist",4,"Creature - Dwarf Shaman",R,"otc","181",uncommon,r,Owned,Non-foil,false,,,"","",124821
+"Fury",5,"Creature - Elemental Incarnation",R,"mh2","126",mythic,r,Not Owned,,false,,,"","",90629
+"Karlach, Fury of Avernus",5,"Legendary Creature - Tiefling Barbarian",R,"clb","186",mythic,r,Not Owned,,false,,,"","",100396
+"Kiki-Jiki, Mirror Breaker",5,"Legendary Creature - Goblin Shaman",R,"chk","175",rare,r,Not Owned,,false,,,"","",21021
+"Siege-Gang Commander",5,"Creature - Goblin",R,"scg","103",rare,r,Not Owned,,false,,,"","",18820
+"Terror of the Peaks",5,"Creature - Dragon",R,"m21","164",mythic,r,Not Owned,,false,,,"","",81555
+"Zealous Conscripts",5,"Creature - Human Warrior",R,"tsr","354",special,r,Owned,Non-foil,false,,,"","",87085
+"Muxus, Goblin Grandee",6,"Legendary Creature - Goblin Noble",R,"jmp","24",rare,r,Owned,Non-foil,false,,,"","",81795
+"Chandra, Torch of Defiance",4,"Legendary Planeswalker - Chandra",R,"kld","110",mythic,r,Not Owned,,false,,,"","",61573
+"Daretti, Scrap Savant",4,"Legendary Planeswalker - Daretti",R,"c14","33",mythic,r,Not Owned,,false,,,"","",55115
+"Lightning Bolt",1,"Instant",R,"lea","161",common,r,Not Owned,,false,,,"","",
+"Abrade",2,"Instant",R,"hou","83",uncommon,r,Not Owned,,false,,,"","",64650
+"Desperate Ritual",2,"Instant - Arcane",R,"chk","163",common,r,Not Owned,,false,,,"","",21529
+"Price of Progress",2,"Instant",R,"exo","95",uncommon,r,Not Owned,,false,,,"","",10563
+"Pyretic Ritual",2,"Instant",R,"m11","153",common,r,Not Owned,,false,,,"","",37468
+"Seething Song",3,"Instant",R,"mrd","104",common,r,Owned,Non-foil,false,,,"","",19991
+"Through the Breach",5,"Instant - Arcane",R,"chk","193",rare,r,Not Owned,,false,,,"","",21519
+"Chain Lightning",1,"Sorcery",R,"jmp","302",uncommon,r,Not Owned,,false,,,"","",
+"Faithless Looting",1,"Sorcery",R,"dka","87",common,r,Not Owned,,false,,,"","",43267
+"Rite of Flame",1,"Sorcery",R,"csp","96",common,r,Not Owned,,false,,,"","",24675
+"Rift Bolt",3,"Sorcery",R,"tsp","176",common,r,Not Owned,,false,,,"","",25477
+"Wheel of Fortune",3,"Sorcery",R,"lea","183",rare,r,Not Owned,,false,,,"","",
+"Empty the Warrens",4,"Sorcery",R,"tsp","152",common,r,Not Owned,,false,,,"","",25535
+"Fiery Confluence",4,"Sorcery",R,"c15","26",rare,r,Owned,Non-foil,false,,,"","",
+"Ruination",4,"Sorcery",R,"sth","95",rare,r,Owned,Non-foil,false,,,"","",10353
+"Mox Ruby",0,"Artifact",R,"lea","264",rare,r,Not Owned,,false,,,"","",653
+"Embercleave",6,"Legendary Artifact - Equipment",R,"eld","120",mythic,r,Not Owned,,false,,,"","",78364
+"Impending Disaster",2,"Enchantment",R,"ulg","82",rare,r,Owned,Non-foil,false,,,"","",12485
+"Roiling Vortex",2,"Enchantment",R,"znr","156",rare,r,Not Owned,,false,,,"","",83287
+"Underworld Breach",2,"Enchantment",R,"thb","161",rare,r,Not Owned,,false,,,"","",79446
+"Blood Moon",3,"Enchantment",R,"drk","58",rare,r,Not Owned,,false,,,"","",
+"Fable of the Mirror-Breaker",3,"Enchantment - Saga",R,"neo","141",rare,r,Not Owned,,false,,,"","",97210
+"Spellshock",3,"Enchantment",R,"exo","104",uncommon,r,Not Owned,,false,,,"","",10623
+"Sneak Attack",4,"Enchantment",R,"usg","218",rare,r,Not Owned,,false,,,"","",12399
+"Fiery Emancipation",6,"Enchantment",R,"m21","143",mythic,r,Owned,Non-foil,false,,,"","",81513
+"Arbor Elf",1,"Creature - Elf Druid",G,"wwk","95",common,g,Not Owned,,false,,,"","",35773
+"Birds of Paradise",1,"Creature - Bird",G,"lea","186",rare,g,Not Owned,,false,,,"","",
+"Delighted Halfling",1,"Creature - Halfling Citizen",G,"ltr","158",rare,g,Not Owned,,false,,,"","",112226
+"Elvish Mystic",1,"Creature - Elf Druid",G,"m14","169",common,g,Not Owned,,false,,,"","",49499
+"Fyndhorn Elves",1,"Creature - Elf Druid",G,"ice","244",common,g,Owned,Non-foil,false,,,"","",
+"Haywire Mite",1,"Artifact Creature - Insect",G,"bro","199",uncommon,g,Not Owned,,false,,,"","",105018
+"Hexdrinker",1,"Creature - Snake",G,"mh1","168",mythic,g,Not Owned,,false,,,"","",72708
+"Llanowar Elves",1,"Creature - Elf Druid",G,"dd1","9",common,g,Not Owned,,false,,,"","",28931
+"Sylvan Safekeeper",1,"Creature - Human Wizard",G,"jud","133",rare,g,Not Owned,,false,,,"","",17374
+"Bloom Tender",2,"Creature - Elf Druid",G,"eve","66",rare,g,Not Owned,,false,,,"","",30260
+"Bristly Bill, Spine Sower",2,"Legendary Creature - Plant Druid",G,"otj","157",mythic,g,Not Owned,,false,,,"","",124225
+"Collector Ouphe",2,"Creature - Ouphe",G,"mh1","158",rare,g,Not Owned,,false,,,"","",72688
+"Fanatic of Rhonas",2,"Creature - Snake Druid",G,"mh3","152",rare,g,Not Owned,,false,,,"","",126321
+"Lotus Cobra",2,"Creature - Snake",G,"zen","168",mythic,g,Not Owned,,false,,,"","",34546
+"Priest of Titania",2,"Creature - Elf Druid",G,"plst","C14-210",common,g,Owned,Non-foil,false,,,"","",
+"Rofellos, Llanowar Emissary",2,"Legendary Creature - Elf Druid",G,"uds","118",rare,g,Not Owned,,false,,,"","",12913
+"Scavenging Ooze",2,"Creature - Ooze",G,"cmd","170",rare,g,Not Owned,,false,,,"","",40630
+"Springheart Nantuko",2,"Enchantment Creature - Insect Monk",G,"mh3","171",rare,g,Not Owned,,false,,,"","",126359
+"Sylvan Caryatid",2,"Creature - Plant",G,"ths","180",rare,g,Not Owned,,false,,,"","",50260
+"Tarmogoyf",2,"Creature - Lhurgoyf",G,"fut","153",rare,g,Not Owned,,false,,,"","",26844
+"Dryad of the Ilysian Grove",3,"Enchantment Creature - Nymph Dryad",G,"thb","169",rare,g,Owned,Non-foil,false,,,"","",79462
+"Endurance",3,"Creature - Elemental Incarnation",G,"mh2","157",mythic,g,Not Owned,,false,,,"","",90691
+"Eternal Witness",3,"Creature - Human Shaman",G,"5dn","86",uncommon,g,Not Owned,,false,,,"","",20856
+"Ramunap Excavator",3,"Creature - Snake Cleric",G,"hou","129",rare,g,Not Owned,,false,,,"","",64742
+"Scute Swarm",3,"Creature - Insect",G,"znr","203",rare,g,Not Owned,,false,,,"","",83395
+"Six",3,"Legendary Creature - Treefolk",G,"mh3","169",rare,g,Not Owned,,false,,,"","",126355
+"Questing Beast",4,"Legendary Creature - Beast",G,"eld","171",mythic,g,Not Owned,,false,,,"","",78482
+"Sowing Mycospawn",4,"Creature - Eldrazi Fungus",G,"mh3","170",rare,g,Not Owned,,false,,,"","",126357
+"Undermountain Adventurer",4,"Creature - Giant Warrior",G,"clb","260",rare,g,Owned,Non-foil,false,,,"","",100558
+"Elder Gargaroth",5,"Creature - Beast",G,"m21","179",mythic,g,Not Owned,,false,,,"","",81585
+"Ohran Frostfang",5,"Snow Creature - Snake",G,"otc","199",rare,g,Owned,Non-foil,false,,,"","",124857
+"Titania, Protector of Argoth",5,"Legendary Creature - Elemental",G,"c14","50",mythic,g,Not Owned,,false,,,"","",55119
+"Primeval Titan",6,"Creature - Giant",G,"m11","192",mythic,g,Not Owned,,false,,,"","",37400
+"Vorinclex, Monstrous Raider",6,"Legendary Creature - Phyrexian Praetor",G,"khm","199",mythic,g,Not Owned,,false,,,"","",87741
+"Hornet Queen",7,"Creature - Insect",G,"mkc","172",rare,g,Owned,Non-foil,false,,,"","",122484
+"Craterhoof Behemoth",8,"Creature - Beast",G,"avr","172",mythic,g,Owned,Non-foil,false,,,"","",43921
+"Woodfall Primus",8,"Creature - Treefolk Shaman",G,"shm","135",rare,g,Owned,Non-foil,false,,,"","",29589
+"Worldspine Wurm",11,"Creature - Wurm",G,"rtr","140",mythic,g,Not Owned,,false,,,"","",46795
+"Crop Rotation",1,"Instant",G,"ulg","98",common,g,Not Owned,,false,,,"","",12547
+"Noxious Revival",1,"Instant",G,"nph","118",uncommon,g,Not Owned,,false,,,"","",39922
+"Collective Resistance",2,"Instant",G,"mh3","147",uncommon,g,Not Owned,,false,,,"","",126311
+"Tangle",2,"Instant",G,"inv","213",uncommon,g,Owned,Non-foil,false,,,"","",14557
+"Collected Company",4,"Instant",G,"dtk","177",rare,g,Not Owned,,false,,,"","",56314
+"Force of Vigor",4,"Instant",G,"mh1","164",rare,g,Not Owned,,false,,,"","",72700
+"Pest Infestation",1,"Sorcery",G,"c21","65",rare,g,Owned,Non-foil,false,,,"","",89873
+"Channel",2,"Sorcery",G,"lea","188",uncommon,g,Not Owned,,false,,,"","",
+"Regrowth",2,"Sorcery",G,"lea","214",uncommon,g,Not Owned,,false,,,"","",
+"Eureka",4,"Sorcery",G,"leg","185",rare,g,Owned,Non-foil,false,,,"","",
+"Natural Order",4,"Sorcery",G,"vis","114",rare,g,Not Owned,,false,,,"","",7647
+"Mox Emerald",0,"Artifact",G,"lea","261",rare,g,Not Owned,,false,,,"","",647
+"Conduit of Worlds",4,"Artifact",G,"one","163",rare,g,Not Owned,,false,,,"","",106541
+"Esika's Chariot",4,"Legendary Artifact - Vehicle",G,"khm","169",rare,g,Not Owned,,false,,,"","",87677
+"Exploration",1,"Enchantment",G,"usg","250",rare,g,Not Owned,,false,,,"","",12335
+"Fastbond",1,"Enchantment",G,"lea","192",rare,g,Not Owned,,false,,,"","",
+"Mirri's Guile",1,"Enchantment",G,"tmp","236",rare,g,Owned,Non-foil,false,,,"","",9831
+"Earthcraft",2,"Enchantment",G,"tmp","222",rare,g,Not Owned,,false,,,"","",9823
+"Oath of Druids",2,"Enchantment",G,"exo","115",rare,g,Not Owned,,false,,,"","",10519
+"Survival of the Fittest",2,"Enchantment",G,"exo","129",rare,g,Not Owned,,false,,,"","",10709
+"Sylvan Library",2,"Enchantment",G,"leg","207",uncommon,g,Not Owned,,false,,,"","",
+"Pattern of Rebirth",4,"Enchantment - Aura",G,"uma","176",rare,g,Owned,Non-foil,false,,,"","",70425
+"Azorius Signet",2,"Artifact",UW,"blc","265",uncommon,m,Owned,Non-foil,false,,,"Secret Lair Signets","Added from package "Secret Lair Signets": cubecobra.com/packages/64f210f5-b8f2-4958-81b0-731ea5c13450",128677
+"Teferi, Time Raveler",3,"Legendary Planeswalker - Teferi",UW,"war","221",rare,m,Not Owned,,false,,,"","",72048
+"Urza, Lord Protector",3,"Legendary Creature - Human Artificer",UW,"bro","225",mythic,m,Not Owned,,false,,,"","",105072
+"Narset Transcendent",4,"Legendary Planeswalker - Narset",UW,"dtk","225",mythic,m,Not Owned,,false,,,"","",56076
+"Fractured Identity",5,"Sorcery",UW,"c17","37",rare,m,Not Owned,,false,,,"","",
+"Teferi, Hero of Dominaria",5,"Legendary Planeswalker - Teferi",UW,"dom","207",mythic,m,Not Owned,,false,,,"","",67879
+"Baleful Strix",2,"Artifact Creature - Bird",BU,"pc2","82",uncommon,m,Not Owned,,false,,,"","",45066
+"Dimir Signet",2,"Artifact",BU,"prm","46924",uncommon,m,Owned,Non-foil,false,,,"Secret Lair Signets","Added from package "Secret Lair Signets": cubecobra.com/packages/64f210f5-b8f2-4958-81b0-731ea5c13450",46924
+"Psychic Frog",2,"Creature - Frog",BU,"mh3","199",rare,m,Not Owned,,false,,,"","",126417
+"Ashiok, Dream Render",3,"Legendary Planeswalker - Ashiok",BU,"war","228",uncommon,m,Not Owned,,false,,,"","",72062
+"Kaito Shizuki",3,"Legendary Planeswalker - Kaito",BU,"neo","226",mythic,m,Not Owned,,false,,,"","",97400
+"Tezzeret, Agent of Bolas",4,"Legendary Planeswalker - Tezzeret",BU,"mbs","97",mythic,m,Not Owned,,false,,,"","",39301
+"Fallen Shinobi",5,"Creature - Zombie Ninja",BU,"mh1","199",rare,m,Owned,Non-foil,false,,,"","",72770
+"Kroxa, Titan of Death's Hunger",2,"Legendary Creature - Elder Giant",BR,"thb","221",mythic,m,Not Owned,,false,,,"","",79566
+"Molten Collapse",2,"Sorcery",BR,"lci","234",rare,m,Owned,Non-foil,false,,,"","",118308
+"Rakdos Signet",2,"Artifact",BR,"dis","165",common,m,Owned,Non-foil,false,,,"Secret Lair Signets","Added from package "Secret Lair Signets": cubecobra.com/packages/64f210f5-b8f2-4958-81b0-731ea5c13450",24045
+"Valki, God of Lies",2,"Legendary Creature - God",BR,"plst","KHM-114",mythic,m,Not Owned,,false,,,"","",
+"Carnage Interpreter",3,"Creature - Devil Detective",BR,"clu","26",rare,m,Owned,Non-foil,false,,,"","",123360
+"Fire Covenant",3,"Instant",BR,"ice","289",uncommon,m,Not Owned,,false,,,"","",
+"Kolaghan's Command",3,"Instant",BR,"dtk","224",rare,m,Not Owned,,false,,,"","",56082
+"Ob Nixilis, the Adversary",3,"Legendary Planeswalker - Nixilis",BR,"snc","206",mythic,m,Not Owned,,false,,,"","",98631
+"Vial Smasher the Fierce",3,"Legendary Creature - Goblin Berserker",BR,"c16","49",mythic,m,Not Owned,,false,,,"","",
+"Gruul Signet",2,"Artifact",GR,"gpt","150",common,m,Owned,Non-foil,false,,,"Secret Lair Signets","Added from package "Secret Lair Signets": cubecobra.com/packages/64f210f5-b8f2-4958-81b0-731ea5c13450",23669
+"Manamorphose",2,"Instant",GR,"shm","211",common,m,Not Owned,,false,,,"","",29653
+"Wrenn and Six",2,"Legendary Planeswalker - Wrenn",GR,"mh1","217",mythic,m,Not Owned,,false,,,"","",72806
+"Anzrag, the Quake-Mole",4,"Legendary Creature - Mole God",GR,"mkm","186",mythic,m,Not Owned,,false,,,"","",121848
+"Bloodbraid Elf",4,"Creature - Elf Berserker",GR,"arb","50",uncommon,m,Not Owned,,false,,,"","",32430
+"Minsc & Boo, Timeless Heroes",4,"Legendary Planeswalker - Minsc",GR,"clb","285",mythic,m,Not Owned,,false,,,"","",100608
+"Etali, Primal Conqueror",7,"Legendary Creature - Elder Dinosaur",GR,"mom","137",rare,m,Not Owned,,false,,,"","",110122
+"Avacyn's Pilgrim",1,"Creature - Human Monk",GW,"isd","170",common,m,Not Owned,,false,,,"","",42678
+"Selesnya Signet",2,"Artifact",GW,"rav","270",common,m,Owned,Non-foil,false,,,"Secret Lair Signets","Added from package "Secret Lair Signets": cubecobra.com/packages/64f210f5-b8f2-4958-81b0-731ea5c13450",23568
+"Arwen, Mortal Queen",3,"Legendary Creature - Elf Noble",GW,"ltr","193",mythic,m,Not Owned,,false,,,"","",112296
+"Knight of the Reliquary",3,"Creature - Human Knight",GW,"ima","203",rare,m,Owned,Non-foil,false,,,"","",66285
+"Orzhov Signet",2,"Artifact",BW,"gpt","155",common,m,Owned,Non-foil,false,,,"Secret Lair Signets","Added from package "Secret Lair Signets": cubecobra.com/packages/64f210f5-b8f2-4958-81b0-731ea5c13450",23681
+"Tidehollow Sculler",2,"Artifact Creature - Zombie",BW,"ala","202",uncommon,m,Owned,Non-foil,false,,,"","",31125
+"Lingering Souls",3,"Sorcery",BW,"dka","12",uncommon,m,Not Owned,,false,,,"","",43359
+"Lurrus of the Dream-Den",3,"Legendary Creature - Cat Nightmare",BW,"iko","226",rare,m,Not Owned,,false,,,"","",80461
+"Vindicate",3,"Sorcery",BW,"apc","126",rare,m,Not Owned,,false,,,"","",16154
+"Expressive Iteration",2,"Sorcery",RU,"stx","186",uncommon,m,Not Owned,,false,,,"","",88879
+"Goblin Electromancer",2,"Creature - Goblin Wizard",RU,"grn","174",common,m,Owned,Non-foil,false,,,"","",69721
+"Izzet Signet",2,"Artifact",RU,"gpt","152",common,m,Owned,Non-foil,false,,,"Secret Lair Signets","Added from package "Secret Lair Signets": cubecobra.com/packages/64f210f5-b8f2-4958-81b0-731ea5c13450",23679
+"Ral, Monsoon Mage",2,"Legendary Creature - Human Wizard",RU,"mh3","247",mythic,m,Not Owned,,false,,,"","",126533
+"Third Path Iconoclast",2,"Creature - Human Monk",RU,"otc","244",uncommon,m,Owned,Non-foil,false,,,"","",124951
+"Dack Fayden",3,"Legendary Planeswalker - Dack",RU,"cns","42",mythic,m,Not Owned,,false,,,"","",
+"Invert Polarity",3,"Instant",RU,"mh3","190",rare,m,Not Owned,,false,,,"","",126397
+"Lutri, the Spellchaser",3,"Legendary Creature - Elemental Otter",RU,"mul","52",rare,m,Owned,Non-foil,false,,,"","",109326
+"Saheeli, Sublime Artificer",3,"Legendary Planeswalker - Saheeli",RU,"war","234",uncommon,m,Not Owned,,false,,,"","",72074
+"Exalted Flamer of Tzeentch",4,"Creature - Demon",RU,"40k","119",rare,m,Not Owned,,false,,,"","",108710
+"Jhoira, Weatherlight Captain",4,"Legendary Creature - Human Artificer",RU,"dom","197",mythic,m,Not Owned,,false,,,"","",67859
+"Thousand-Year Storm",6,"Enchantment",RU,"grn","207",mythic,m,Owned,Non-foil,false,,,"","",69787
+"Deathrite Shaman",1,"Creature - Elf Shaman",BG,"rtr","213",rare,m,Not Owned,,false,,,"","",46777
+"Elves of Deep Shadow",1,"Creature - Elf Druid",BG,"rav","161",common,m,Not Owned,,false,,,"","",23100
+"Grist, Voracious Larva",1,"Legendary Creature - Insect",BG,"mh3","251",mythic,m,Not Owned,,false,,,"","",126549
+"Abrupt Decay",2,"Instant",BG,"rtr","141",rare,m,Not Owned,,false,,,"","",46497
+"Assassin's Trophy",2,"Instant",BG,"grn","152",rare,m,Not Owned,,false,,,"","",69677
+"Golgari Signet",2,"Artifact",BG,"rav","262",common,m,Owned,Non-foil,false,,,"Secret Lair Signets","Added from package "Secret Lair Signets": cubecobra.com/packages/64f210f5-b8f2-4958-81b0-731ea5c13450",23564
+"Grist, the Hunger Tide",3,"Legendary Planeswalker - Grist",BG,"mh2","202",mythic,m,Not Owned,,false,,,"","",90781
+"The Gitrog, Ravenous Ride",5,"Legendary Creature - Frog Horror Mount",BG,"otj","206",mythic,m,Owned,Non-foil,false,,,"","",124323
+"Ajani, Nacatl Pariah",2,"Legendary Creature - Cat Warrior",RW,"mh3","237",mythic,m,Not Owned,,false,,,"","",126493
+"Boros Signet",2,"Artifact",RW,"rav","255",common,m,Owned,Non-foil,false,,,"Secret Lair Signets","Added from package "Secret Lair Signets": cubecobra.com/packages/64f210f5-b8f2-4958-81b0-731ea5c13450",23566
+"Forth Eorlingas!",2,"Sorcery",RW,"ltc","56",rare,m,Not Owned,,false,,,"","",113144
+"Phlage, Titan of Fire's Fury",3,"Legendary Creature - Elder Giant",RW,"mh3","197",mythic,m,Not Owned,,false,,,"","",126413
+"Comet, Stellar Pup",4,"Legendary Planeswalker - Comet",RW,"unf","166",mythic,m,Not Owned,,false,,,"","",115784
+"Winota, Joiner of Forces",4,"Legendary Creature - Human Warrior",RW,"iko","216",mythic,m,Not Owned,,false,,,"","",80441
+"Otharri, Suns' Glory",5,"Legendary Creature - Phoenix",RW,"onc","39",mythic,m,Owned,Non-foil,false,,,"","",106821
+"Tamiyo, Inquisitive Student",1,"Legendary Creature - Moonfolk Wizard",GU,"mh3","242",mythic,m,Not Owned,,false,,,"","",126513
+"Kinnan, Bonder Prodigy",2,"Legendary Creature - Human Druid",GU,"iko","192",mythic,m,Not Owned,,false,,,"","",80393
+"Simic Signet",2,"Artifact",GU,"dis","166",common,m,Owned,Non-foil,false,,,"Secret Lair Signets","Added from package "Secret Lair Signets": cubecobra.com/packages/64f210f5-b8f2-4958-81b0-731ea5c13450",24015
+"Edric, Spymaster of Trest",3,"Legendary Creature - Elf Rogue",GU,"cmd","196",rare,m,Not Owned,,false,,,"","",40629
+"Nadu, Winged Wisdom",3,"Legendary Creature - Bird Wizard",GU,"mh3","193",rare,m,Not Owned,,false,,,"","",126403
+"Oko, Thief of Crowns",3,"Legendary Planeswalker - Oko",GU,"eld","197",mythic,m,Not Owned,,false,,,"","",78538
+"Uro, Titan of Nature's Wrath",3,"Legendary Creature - Elder Giant",GU,"thb","229",mythic,m,Not Owned,,false,,,"","",79582
+"Tamiyo, Collector of Tales",4,"Legendary Planeswalker - Tamiyo",GU,"war","220",rare,m,Not Owned,,false,,,"","",72046
+"Noble Hierarch",1,"Creature - Human Druid",GUW,"con","87",rare,m,Not Owned,,false,,,"","",31745
+"Tamiyo, Field Researcher",4,"Legendary Planeswalker - Tamiyo",GUW,"emn","190",mythic,m,Not Owned,,false,,,"","",61262
+"Chulane, Teller of Tales",5,"Legendary Creature - Human Druid",GUW,"mkc","202",mythic,m,Owned,Non-foil,false,,,"","",122544
+"Thopter Foundry",2,"Artifact",BUW,"arb","133",uncommon,m,Not Owned,,false,,,"","",32420
+"Relic of Sauron",4,"Artifact",BRU,"ltc","79",rare,m,Not Owned,,false,,,"","",113190
+"Nicol Bolas, Planeswalker",8,"Legendary Planeswalker - Bolas",BRU,"con","120",mythic,m,Not Owned,,false,,,"","",31909
+"Ignoble Hierarch",1,"Creature - Goblin Shaman",BGR,"mh2","166",rare,m,Not Owned,,false,,,"","",90709
+"Leovold, Emissary of Trest",3,"Legendary Creature - Elf Advisor",BGU,"cn2","77",mythic,m,Not Owned,,false,,,"","",
+"Omnath, Locus of Creation",4,"Legendary Creature - Elemental",GRUW,"znr","232",mythic,m,Not Owned,,false,,,"","",83459
+"Atraxa, Grand Unifier",7,"Legendary Creature - Phyrexian Angel",BGUW,"one","196",mythic,m,Not Owned,,false,,,"","",106607
+"Leyline of the Guildpact",4,"Enchantment",BGRUW,"mkm","217",rare,m,Owned,Non-foil,false,,,"","",121908
+"Walking Ballista",0,"Artifact Creature - Construct",,"aer","181",rare,c,Not Owned,,false,,,"","",62561
+"Phyrexian Dreadnought",1,"Artifact Creature - Phyrexian Dreadnought",,"mir","315",rare,c,Not Owned,,false,,,"","",7185
+"Wurmcoil Engine",6,"Artifact Creature - Phyrexian Wurm",,"som","223",mythic,c,Not Owned,,false,,,"","",38185
+"Blightsteel Colossus",12,"Artifact Creature - Phyrexian Golem",,"mbs","99",mythic,c,Not Owned,,false,,,"","",39587
+"Emrakul, the Aeons Torn",15,"Legendary Creature - Eldrazi",,"roe","4",mythic,c,Not Owned,,false,,,"","",36396
+"Scion of Draco",12,"Artifact Creature - Dragon",,"mh2","234",mythic,c,Owned,,false,,,"","",90849
+"Ulamog, the Ceaseless Hunger",10,"Legendary Creature - Eldrazi",,"bfz","15",mythic,c,Not Owned,,false,,,"","",58301
+"Ulamog, the Defiler",10,"Legendary Creature - Eldrazi",,"mh3","15",mythic,c,Not Owned,,false,,,"","",126047
+"Karn, Scion of Urza",4,"Legendary Planeswalker - Karn",,"dom","1",mythic,c,Not Owned,,false,,,"","",67467
+"Karn, the Great Creator",4,"Legendary Planeswalker - Karn",,"war","1",rare,c,Not Owned,,false,,,"","",71608
+"Karn Liberated",7,"Legendary Planeswalker - Karn",,"nph","1",mythic,c,Not Owned,,false,,,"","",39710
+"Black Lotus",0,"Artifact",,"lea","232",rare,c,Not Owned,,false,,,"","",347
+"Chrome Mox",0,"Artifact",,"mrd","152",rare,c,Not Owned,,false,,,"","",19831
+"Lion's Eye Diamond",0,"Artifact",,"mir","307",rare,c,Not Owned,,false,,,"","",7103
+"Lotus Petal",0,"Artifact",,"tmp","294",common,c,Not Owned,,false,,,"","",9475
+"Mana Crypt",0,"Artifact",,"phpr","5",rare,c,Not Owned,,false,,,"","",
+"Mishra's Bauble",0,"Artifact",,"csp","138",uncommon,c,Not Owned,,false,,,"","",24821
+"Mox Diamond",0,"Artifact",,"sth","138",rare,c,Not Owned,,false,,,"","",10325
+"Mox Opal",0,"Legendary Artifact",,"som","179",mythic,c,Not Owned,,false,,,"","",38197
+"Zuran Orb",0,"Artifact",,"ice","350",uncommon,c,Not Owned,,false,,,"","",
+"Basilisk Collar",1,"Artifact - Equipment",,"wwk","122",rare,c,Not Owned,,false,,,"","",35695
+"Candelabra of Tawnos",1,"Artifact",,"atq","43",rare,c,Not Owned,,false,,,"","",
+"Currency Converter",1,"Artifact",,"ncc","81",rare,c,Owned,Non-foil,false,,,"","",
+"Expedition Map",1,"Artifact",,"zen","201",common,c,Not Owned,,false,,,"","",34832
+"Mana Vault",1,"Artifact",,"lea","259",rare,c,Not Owned,,false,,,"","",
+"Retrofitter Foundry",1,"Artifact",,"c18","57",rare,c,Not Owned,,false,,,"","",
+"Sensei's Divining Top",1,"Artifact",,"chk","268",uncommon,c,Not Owned,,false,,,"","",21045
+"Shadowspear",1,"Legendary Artifact - Equipment",,"thb","236",rare,c,Not Owned,,false,,,"","",79596
+"Skullclamp",1,"Artifact - Equipment",,"dst","140",uncommon,c,Not Owned,,false,,,"","",20551
+"Sol Ring",1,"Artifact",,"lea","269",uncommon,c,Not Owned,,false,,,"","",
+"Soul-Guide Lantern",1,"Artifact",,"thb","237",uncommon,c,Not Owned,,false,,,"","",79598
+"Altar of Dementia",2,"Artifact",,"tmp","276",rare,c,Not Owned,,false,,,"","",9741
+"Grim Monolith",2,"Artifact",,"ulg","126",rare,c,Not Owned,,false,,,"","",12551
+"Helm of Awakening",2,"Artifact",,"plst","VIS-145",uncommon,c,Owned,Non-foil,false,,,"","",
+"Isochron Scepter",2,"Artifact",,"mrd","188",uncommon,c,Owned,Non-foil,false,,,"","",19665
+"Sword of the Meek",2,"Artifact - Equipment",,"fut","165",uncommon,c,Not Owned,,false,,,"","",26660
+"Time Vault",2,"Artifact",,"lea","274",rare,c,Not Owned,,false,,,"","",
+"Umezawa's Jitte",2,"Legendary Artifact - Equipment",,"bok","163",rare,c,Not Owned,,false,,,"","",21603
+"Unlicensed Hearse",2,"Artifact - Vehicle",,"snc","246",rare,c,Not Owned,,false,,,"","",98711
+"Basalt Monolith",3,"Artifact",,"lea","231",uncommon,c,Not Owned,,false,,,"","",
+"Crucible of Worlds",3,"Artifact",,"5dn","114",rare,c,Not Owned,,false,,,"","",20790
+"Ensnaring Bridge",3,"Artifact",,"a25","224",mythic,c,Not Owned,,false,,,"","",67362
+"Palantír of Orthanc",3,"Legendary Artifact",,"ltr","247",mythic,c,Not Owned,,false,,,"","",112404
+"Sword of Body and Mind",3,"Artifact - Equipment",,"v10","14",mythic,c,Not Owned,,false,,,"","",37649
+"Aetherflux Reservoir",4,"Artifact",,"kld","192",rare,c,Not Owned,,false,,,"","",61805
+"Smokestack",4,"Artifact",,"usg","309",rare,c,Not Owned,,false,,,"","",12131
+"The One Ring",4,"Legendary Artifact",,"ltr","246",mythic,c,Not Owned,,false,,,"","",112402
+"Thran Dynamo",4,"Artifact",,"uds","139",uncommon,c,Owned,Non-foil,false,,,"","",12925
+"Batterskull",5,"Artifact - Equipment",,"nph","130",mythic,c,Not Owned,,false,,,"","",39974
+"Memory Jar",5,"Artifact",,"ulg","129",rare,c,Not Owned,,false,,,"","",12697
+"Paradox Engine",5,"Legendary Artifact",,"aer","169",mythic,c,Not Owned,,false,,,"","",62911
+"The Mightstone and Weakstone",5,"Legendary Artifact - Powerstone",,"bro","238a",rare,c,Not Owned,,false,,,"","",105100
+"Coveted Jewel",6,"Artifact",,"c18","54",rare,c,Not Owned,,false,,,"","",
+"Mindslaver",6,"Legendary Artifact",,"mrd","206",rare,c,Not Owned,,false,,,"","",19827
+"Mycosynth Lattice",6,"Artifact",,"dst","130",rare,c,Not Owned,,false,,,"","",20585
+"Kaldra Compleat",7,"Legendary Artifact - Equipment",,"cmm","958",mythic,c,Owned,Non-foil,false,,,"","",114257
+"Portal to Phyrexia",9,"Artifact",,"bro","240",mythic,c,Not Owned,,false,,,"","",105104
+"Hallowed Fountain",0,"Land - Plains Island",UW,"dis","174",rare,l,Not Owned,,false,,,"","",24001
+"Meticulous Archive",0,"Land - Plains Island",UW,"pmkm","264p",rare,l,Owned,Non-foil,false,,,"Surveil Lands","Added from package "Surveil Lands": cubecobra.com/packages/bd0256b7-5a5c-4c58-9a1d-29fc53a3847b",
+"Tundra",0,"Land - Plains Island",UW,"lea","284",rare,l,Not Owned,,false,,,"","",
+"Undercity Sewers",0,"Land - Island Swamp",BU,"mkm","270",rare,l,Owned,Non-foil,false,,,"Surveil Lands","Added from package "Surveil Lands": cubecobra.com/packages/bd0256b7-5a5c-4c58-9a1d-29fc53a3847b",122032
+"Underground Sea",0,"Land - Island Swamp",BU,"lea","285",rare,l,Not Owned,,false,,,"","",
+"Watery Grave",0,"Land - Island Swamp",BU,"rav","286",rare,l,Not Owned,,false,,,"","",23586
+"Badlands",0,"Land - Swamp Mountain",BR,"lea","277",rare,l,Not Owned,,false,,,"","",
+"Blood Crypt",0,"Land - Swamp Mountain",BR,"dis","171",rare,l,Not Owned,,false,,,"","",24053
+"Raucous Theater",0,"Land - Swamp Mountain",BR,"pmkm","266s",rare,l,Owned,Non-foil,false,,,"Surveil Lands","Added from package "Surveil Lands": cubecobra.com/packages/bd0256b7-5a5c-4c58-9a1d-29fc53a3847b",
+"Commercial District",0,"Land - Mountain Forest",GR,"mkm","259",rare,l,Owned,Non-foil,false,,,"Surveil Lands","Added from package "Surveil Lands": cubecobra.com/packages/bd0256b7-5a5c-4c58-9a1d-29fc53a3847b",122010
+"Stomping Ground",0,"Land - Mountain Forest",GR,"gpt","165",rare,l,Not Owned,,false,,,"","",23709
+"Taiga",0,"Land - Mountain Forest",GR,"lea","282",rare,l,Not Owned,,false,,,"","",
+"Lush Portico",0,"Land - Forest Plains",GW,"pmkm","263p",rare,l,Owned,Non-foil,false,,,"Surveil Lands","Added from package "Surveil Lands": cubecobra.com/packages/bd0256b7-5a5c-4c58-9a1d-29fc53a3847b",
+"Savannah",0,"Land - Forest Plains",GW,"lea","280",rare,l,Not Owned,,false,,,"","",
+"Temple Garden",0,"Land - Forest Plains",GW,"rav","284",rare,l,Not Owned,,false,,,"","",23594
+"Godless Shrine",0,"Land - Plains Swamp",BW,"gpt","157",rare,l,Not Owned,,false,,,"","",23755
+"Scrubland",0,"Land - Plains Swamp",BW,"lea","281",rare,l,Not Owned,,false,,,"","",
+"Shadowy Backstreet",0,"Land - Plains Swamp",BW,"mkm","268",rare,l,Owned,Non-foil,false,,,"Surveil Lands","Added from package "Surveil Lands": cubecobra.com/packages/bd0256b7-5a5c-4c58-9a1d-29fc53a3847b",122028
+"Steam Vents",0,"Land - Island Mountain",RU,"gpt","164",rare,l,Not Owned,,false,,,"","",23739
+"Thundering Falls",0,"Land - Island Mountain",RU,"mkm","269",rare,l,Owned,Non-foil,false,,,"Surveil Lands","Added from package "Surveil Lands": cubecobra.com/packages/bd0256b7-5a5c-4c58-9a1d-29fc53a3847b",122030
+"Volcanic Island",0,"Land - Island Mountain",RU,"leb","287",rare,l,Not Owned,,false,,,"","",
+"Bayou",0,"Land - Swamp Forest",BG,"lea","278",rare,l,Not Owned,,false,,,"","",
+"Overgrown Tomb",0,"Land - Swamp Forest",BG,"rav","279",rare,l,Not Owned,,false,,,"","",23592
+"Underground Mortuary",0,"Land - Swamp Forest",BG,"mkm","271",rare,l,Owned,Non-foil,false,,,"Surveil Lands","Added from package "Surveil Lands": cubecobra.com/packages/bd0256b7-5a5c-4c58-9a1d-29fc53a3847b",122034
+"Elegant Parlor",0,"Land - Mountain Plains",RW,"mkm","260",rare,l,Owned,Non-foil,false,,,"Surveil Lands","Added from package "Surveil Lands": cubecobra.com/packages/bd0256b7-5a5c-4c58-9a1d-29fc53a3847b",122012
+"Plateau",0,"Land - Mountain Plains",RW,"lea","279",rare,l,Not Owned,,false,,,"","",
+"Sacred Foundry",0,"Land - Mountain Plains",RW,"rav","280",rare,l,Not Owned,,false,,,"","",23590
+"Breeding Pool",0,"Land - Forest Island",GU,"dis","172",rare,l,Not Owned,,false,,,"","",24029
+"Hedge Maze",0,"Land - Forest Island",GU,"pmkm","262s",rare,l,Owned,Non-foil,false,,,"Surveil Lands","Added from package "Surveil Lands": cubecobra.com/packages/bd0256b7-5a5c-4c58-9a1d-29fc53a3847b",
+"Tropical Island",0,"Land - Forest Island",GU,"lea","283",rare,l,Not Owned,,false,,,"","",
+"Spara's Headquarters",0,"Land - Forest Plains Island",GUW,"snc","257",rare,l,Not Owned,,false,,,"","",98733
+"Raffine's Tower",0,"Land - Plains Island Swamp",BUW,"snc","254",rare,l,Not Owned,,false,,,"","",98727
+"Xander's Lounge",0,"Land - Island Swamp Mountain",BRU,"snc","260",rare,l,Not Owned,,false,,,"","",98739
+"Ziatora's Proving Ground",0,"Land - Swamp Mountain Forest",BGR,"snc","261",rare,l,Not Owned,,false,,,"","",98741
+"Jetmir's Garden",0,"Land - Mountain Forest Plains",GRW,"snc","250",rare,l,Not Owned,,false,,,"","",98719
+"Savai Triome",0,"Land - Mountain Plains Swamp",BRW,"iko","253",rare,l,Not Owned,,false,,,"","",80515
+"Ketria Triome",0,"Land - Forest Island Mountain",GRU,"iko","250",rare,l,Not Owned,,false,,,"","",80509
+"Indatha Triome",0,"Land - Plains Swamp Forest",BGW,"iko","248",rare,l,Not Owned,,false,,,"","",80505
+"Raugrin Triome",0,"Land - Island Mountain Plains",RUW,"iko","251",rare,l,Not Owned,,false,,,"","",80511
+"Zagoth Triome",0,"Land - Swamp Forest Island",BGU,"iko","259",rare,l,Not Owned,,false,,,"","",80527
+"Academy Ruins",0,"Legendary Land",U,"tsp","269",rare,l,Not Owned,,false,,,"","",25739
+"Ancient Tomb",0,"Land",,"tmp","315",uncommon,l,Not Owned,,false,,,"","",10043
+"Arid Mesa",0,"Land",,"zen","211",rare,l,Not Owned,,false,,,"","",34414
+"Bazaar of Baghdad",0,"Land",,"arn","70",uncommon,l,Not Owned,,false,,,"","",
+"Bloodstained Mire",0,"Land",,"ons","313",rare,l,Not Owned,,false,,,"","",18249
+"Boseiju, Who Endures",0,"Legendary Land",G,"neo","266",rare,l,Not Owned,,false,,,"","",97482
+"Cavern of Souls",0,"Land",,"avr","226",rare,l,Not Owned,,false,,,"","",44245
+"City of Brass",0,"Land",,"8ed","322",rare,l,Not Owned,,false,,,"","",19301
+"City of Traitors",0,"Land",,"exo","143",rare,l,Not Owned,,false,,,"","",10685
+"Dark Depths",0,"Legendary Snow Land",,"csp","145",rare,l,Not Owned,,false,,,"","",24583
+"Fabled Passage",0,"Land",,"eld","244",rare,l,Not Owned,,false,,,"","",78634
+"Field of the Dead",0,"Land",,"m20","247",rare,l,Owned,Non-foil,false,,,"","",73393
+"Flooded Strand",0,"Land",,"ons","316",rare,l,Not Owned,,false,,,"","",18245
+"Forbidden Orchard",0,"Land",,"chk","276",rare,l,Owned,Non-foil,false,,,"","",21437
+"Gaea's Cradle",0,"Legendary Land",G,"usg","321",rare,l,Not Owned,,false,,,"","",11867
+"Glacial Chasm",0,"Land",,"ice","353",uncommon,l,Not Owned,,false,,,"","",
+"Karakas",0,"Legendary Land",W,"leg","303",uncommon,l,Not Owned,,false,,,"","",
+"Library of Alexandria",0,"Land",,"arn","76",uncommon,l,Not Owned,,false,,,"","",
+"Mana Confluence",0,"Land",,"jou","163",rare,l,Not Owned,,false,,,"","",52120
+"Marsh Flats",0,"Land",,"zen","219",rare,l,Not Owned,,false,,,"","",34646
+"Maze of Ith",0,"Land",,"drk","117",uncommon,l,Not Owned,,false,,,"","",
+"Mishra's Workshop",0,"Land",,"atq","81",rare,l,Not Owned,,false,,,"","",
+"Misty Rainforest",0,"Land",,"zen","220",rare,l,Not Owned,,false,,,"","",34622
+"Phyrexian Tower",0,"Legendary Land",B,"usg","322",rare,l,Not Owned,,false,,,"","",11961
+"Polluted Delta",0,"Land",,"ons","321",rare,l,Not Owned,,false,,,"","",18247
+"Prismatic Vista",0,"Land",,"mh1","244",rare,l,Not Owned,,false,,,"","",72860
+"Scalding Tarn",0,"Land",,"zen","223",rare,l,Not Owned,,false,,,"","",34590
+"Shelldock Isle",0,"Land",U,"lrw","272",rare,l,Not Owned,,false,,,"","",28707
+"Shifting Woodland",0,"Land",G,"mh3","228",rare,l,Not Owned,,false,,,"","",126475
+"Strip Mine",0,"Land",,"atq","82a",uncommon,l,Not Owned,,false,,,"","",
+"The Tabernacle at Pendrell Vale",0,"Legendary Land",,"leg","307",rare,l,Not Owned,,false,,,"","",
+"Thespian's Stage",0,"Land",,"gtc","248",rare,l,Not Owned,,false,,,"","",47805
+"Tolarian Academy",0,"Legendary Land",U,"usg","330",rare,l,Not Owned,,false,,,"","",11931
+"Urborg, Tomb of Yawgmoth",0,"Legendary Land",,"plc","165",rare,l,Not Owned,,false,,,"","",26479
+"Urza's Saga",0,"Enchantment Land - Urza's Saga",,"mh2","259",rare,l,Not Owned,,false,,,"","",90899
+"Valakut, the Molten Pinnacle",0,"Land",R,"zen","228",rare,l,Owned,Non-foil,false,,,"","",34604
+"Verdant Catacombs",0,"Land",,"zen","229",rare,l,Not Owned,,false,,,"","",34704
+"Vesuva",0,"Land",,"tsp","281",rare,l,Not Owned,,false,,,"","",25657
+"Wasteland",0,"Land",,"tmp","330",uncommon,l,Not Owned,,false,,,"","",10035
+"Windswept Heath",0,"Land",,"ons","328",rare,l,Not Owned,,false,,,"","",18255
+"Wooded Foothills",0,"Land",,"ons","330",rare,l,Not Owned,,false,,,"","",18251
+"Brazen Borrower",3,"Creature - Faerie Rogue",U,"sld","234",mythic,u,Owned,Non-foil,true,,,"","",
+"Ugin, the Spirit Dragon",8,"Legendary Planeswalker - Ugin",,"m21","279",mythic,c,Owned,Non-foil,true,,,"","",
+"Tireless Tracker",3,"Creature - Human Scout",G,"moc","314",rare,g,Owned,Non-foil,true,,,"","",
+"Nissa, Who Shakes the World",5,"Legendary Planeswalker - Nissa",G,"blc","84",rare,g,Owned,Non-foil,true,,,"","",128289
+"Murktide Regent",7,"Creature - Dragon",U,"mh2","52",mythic,u,Owned,Non-foil,true,,,"","",90473
+"Flickerwisp",3,"Creature - Elemental",W,"eve","6",uncommon,w,Owned,Non-foil,true,,,"","",29970
+"Smuggler's Copter",2,"Artifact - Vehicle",,"sld","446",rare,c,Owned,Non-foil,true,,,"","",
+"Ulamog, the Infinite Gyre",11,"Legendary Creature - Eldrazi",,"2x2","577",mythic,c,Owned,Non-foil,true,,,"","",
+"Elite Spellbinder",3,"Creature - Human Cleric",W,"slc","2021",rare,w,Owned,Non-foil,true,,,"","",
+"Dig Through Time",8,"Instant",U,"uma","50",rare,u,Owned,Non-foil,true,,,"","",70173
+"The Meathook Massacre",2,"Legendary Enchantment",B,"mid","112",mythic,b,Owned,Non-foil,true,,,"","",93186
+"Kozilek, Butcher of Truth",10,"Legendary Creature - Eldrazi",,"roe","6",mythic,c,Owned,Non-foil,true,,,"","",36628
+"Loran of the Third Path",3,"Legendary Creature - Human Artificer",W,"bro","12",rare,w,Owned,Non-foil,true,,,"","",104642
+"Thieving Skydiver",2,"Creature - Merfolk Rogue",U,"otc","118",rare,u,Owned,Non-foil,true,,,"","",124695
+"Joraga Treespeaker",1,"Creature - Elf Druid",G,"roe","190",uncommon,g,Owned,Non-foil,true,,,"","",36408
+"Infernal Grasp",2,"Instant",B,"mid","107",uncommon,b,Owned,Non-foil,true,,,"","",93174
+"Gilded Goose",1,"Creature - Bird",G,"ltc","246",rare,g,Owned,Non-foil,true,,,"","",112846
+"Utopia Sprawl",1,"Enchantment - Aura",G,"rvr","355",uncommon,g,Owned,Non-foil,true,,,"","",120287
+"Aetherflux Reservoir",4,"Artifact",,"brr","2",mythic,c,Owned,Non-foil,true,,,"","",104422
+"Third Path Iconoclast",2,"Creature - Human Monk",RU,"otc","244",uncommon,m,Owned,Non-foil,true,,,"","",124951
+"Miscalculation",2,"Instant",U,"ulg","36",common,u,Owned,Non-foil,true,,,"","",12607
+"Escape to the Wilds",5,"Sorcery",GR,"eld","189",rare,m,Not Owned,,true,,,"","",78522
+"Tezzeret, Agent of Bolas",4,"Legendary Planeswalker - Tezzeret",BU,"mbs","97",mythic,m,Not Owned,,true,,,"","",39301
+"Mox Amber",0,"Legendary Artifact",,"dom","224",mythic,c,Not Owned,,true,,,"","",67913
+"Mutavault",0,"Land",,"mor","148",rare,l,Not Owned,,true,,,"","",29074
+"Genesis Ultimatum",7,"Sorcery",GRU,"iko","189",rare,m,Not Owned,,true,,,"","",80387
+"Winota, Joiner of Forces",4,"Legendary Creature - Human Warrior",RW,"iko","216",mythic,m,Not Owned,,true,,,"","",80441
+"Metastatic Evangel",2,"Creature - Phyrexian Human Cleric",W,"mh3","35",uncommon,w,Not Owned,,true,,,"","",126087
+"Witch Enchanter",4,"Creature - Human Warlock",W,"mh3","239",uncommon,w,Not Owned,,true,,,"","",126503
+"Hydroelectric Specimen",3,"Creature - Weird",U,"mh3","240",uncommon,u,Not Owned,,true,,,"","",126507
+"Bridgeworks Battle",3,"Sorcery",G,"mh3","249",uncommon,g,Not Owned,,true,,,"","",126543
+"Eladamri, Korvecdal",3,"Legendary Creature - Elf Warrior",G,"mh3","149",mythic,g,Not Owned,,true,,,"","",126315
+"Counterspell",2,"Instant",U,"dmr","45",common,u,Owned,Non-foil,true,,,"","",107579
+"Talisman of Indulgence",2,"Artifact",BR,"scd","282",uncommon,m,Owned,Non-foil,true,,,"","",104142
+"Goblin Engineer",2,"Creature - Goblin Artificer",R,"tsr","345",special,r,Owned,Non-foil,true,,,"","",87067
+"Orcish Lumberjack",1,"Creature - Orc",GR,"plst","DDL-44",common,m,Owned,Non-foil,true,,,"","",
+"Mizzix's Mastery",4,"Sorcery",R,"rvr","339",rare,r,Owned,Non-foil,true,,,"","",120255
+"Ranger's Firebrand",1,"Sorcery",R,"ltr","143",uncommon,r,Owned,Non-foil,true,,,"","",112196
+"Goblin Lackey",1,"Creature - Goblin",R,"sld","1311",rare,r,Owned,Non-foil,true,,,"","",
+"Muxus, Goblin Grandee",6,"Legendary Creature - Goblin Noble",R,"jmp","24",rare,r,Owned,Non-foil,true,,,"","",81795
+"Goblin Lore",2,"Sorcery",R,"10e","208",uncommon,r,Owned,Non-foil,true,,,"","",27230
+"Goblin Ruinblaster",3,"Creature - Goblin Shaman",R,"zen","127",uncommon,r,Owned,Non-foil,true,,,"","",34470
+"Rionya, Fire Dancer",5,"Legendary Creature - Human Wizard",R,"c21","55",rare,r,Owned,Non-foil,true,,,"","",89853
+"Scrap Mastery",5,"Sorcery",R,"c14","38",rare,r,Owned,Non-foil,true,,,"","",55129
+"Mogg Salvage",3,"Instant",R,"mh2","282",uncommon,r,Owned,Non-foil,true,,,"","",90987
+"Boil",4,"Instant",R,"8ed","180",uncommon,r,Owned,Non-foil,true,,,"","",19023
+"Dreamtide Whale",3,"Creature - Whale",U,"mh3","59",rare,u,Not Owned,,true,,,"","",126135
+"Giant Killer",1,"Creature - Human Peasant",W,"eld","14",rare,w,Not Owned,,true,,,"","",78118
+"Spirit of the Labyrinth",2,"Enchantment Creature - Spirit",W,"bng","27",rare,w,Not Owned,,true,,,"","",51769
+"Aven Mindcensor",3,"Creature - Bird Wizard",W,"fut","18",uncommon,w,Not Owned,,true,,,"","",26932
+"Delney, Streetwise Lookout",3,"Legendary Creature - Human Scout",W,"mkm","12",mythic,w,Not Owned,,true,,,"","",121512
+"Thalia, Heretic Cathar",3,"Legendary Creature - Human Soldier",W,"emn","46",rare,w,Not Owned,,true,,,"","",61308
+"Gideon Blackblade",3,"Legendary Planeswalker - Gideon",W,"war","13",mythic,w,Not Owned,,true,,,"","",71632
+"Cloudshift",1,"Instant",W,"avr","12",common,w,Not Owned,,true,,,"","",43887
+"Mana Tithe",1,"Instant",W,"plc","25",common,w,Not Owned,,true,,,"","",26511
+"Stony Silence",2,"Enchantment",W,"isd","36",rare,w,Not Owned,,true,,,"","",42778
+"Lighthouse Chronologist",2,"Creature - Human Wizard",U,"roe","75",mythic,u,Not Owned,,true,,,"","",36574
+"Harbinger of the Seas",3,"Creature - Merfolk Wizard",U,"mh3","63",rare,u,Not Owned,,true,,,"","",126143
+"Teferi, Master of Time",4,"Legendary Planeswalker - Teferi",U,"m21","275",mythic,u,Not Owned,,true,,,"","",
+"Teferi, Temporal Pilgrim",5,"Legendary Planeswalker - Teferi",U,"bro","293",mythic,u,Not Owned,,true,,,"","",
+"Tezzeret the Seeker",5,"Legendary Planeswalker - Tezzeret",U,"ala","60",mythic,u,Not Owned,,true,,,"","",30979
+"Pact of Negation",0,"Instant",U,"fut","42",rare,u,Not Owned,,true,,,"","",26758
+"Steel Sabotage",1,"Instant",U,"mbs","33",common,u,Not Owned,,true,,,"","",39323
+"Ugin's Binding",3,"Instant",U,"mh3","328",mythic,u,Not Owned,,true,,,"","",125823
+"Temporal Mastery",7,"Sorcery",U,"avr","81",mythic,u,Not Owned,,true,,,"","",44047
+"Hex Parasite",1,"Artifact Creature - Phyrexian Insect",B,"nph","137",rare,b,Not Owned,,true,,,"","",39742
+"Bloodline Keeper",4,"Creature - Vampire",B,"isd","90",rare,b,Not Owned,,true,,,"","",42466
+"Long Goodbye",2,"Instant",B,"mkm","92",uncommon,b,Not Owned,,true,,,"","",121662
+"Unearth",1,"Sorcery",B,"ulg","72",common,b,Not Owned,,true,,,"","",12585
+"Hymn to Tourach",2,"Sorcery",B,"fem","38a",common,b,Not Owned,,true,,,"","",
+"Grim Lavamancer",1,"Creature - Human Wizard",R,"tor","100",rare,r,Not Owned,,true,,,"","",17339
+"Ardoz, Cobbler of War",2,"Legendary Creature - Goblin Shaman",R,"j22","29",rare,r,Not Owned,,true,,,"","",
+"Legion Warboss",3,"Creature - Goblin Soldier",R,"grn","109",rare,r,Not Owned,,true,,,"","",69591
+"Magus of the Moon",3,"Creature - Human Wizard",R,"fut","101",rare,r,Not Owned,,true,,,"","",26860
+"Taurean Mauler",3,"Creature - Shapeshifter",R,"mor","109",rare,r,Not Owned,,true,,,"","",29202
+"Red Elemental Blast",1,"Instant",R,"lea","169",common,r,Not Owned,,true,,,"","",
+"Wild Nacatl",1,"Creature - Cat Warrior",G,"ala","152",common,g,Not Owned,,true,,,"","",31061
+"Gwenna, Eyes of Gaea",3,"Legendary Creature - Elf Druid Scout",G,"bro","185",rare,g,Not Owned,,true,,,"","",104988
+"Colossal Rattlewurm",4,"Creature - Wurm",G,"otj","159",rare,g,Not Owned,,true,,,"","",124229
+"Impervious Greatwurm",10,"Creature - Wurm",G,"2x2","152",rare,g,Not Owned,,true,,,"","",101788
+"Flare of Cultivation",3,"Sorcery",G,"mh3","154",rare,g,Not Owned,,true,,,"","",126325
+"Concordant Crossroads",1,"World Enchantment",G,"leg","179",rare,g,Not Owned,,true,,,"","",
+"Lavinia, Azorius Renegade",2,"Legendary Creature - Human Soldier",UW,"rna","189",rare,m,Not Owned,,true,,,"","",71378
+"Dreadbore",2,"Sorcery",BR,"rtr","157",rare,m,Not Owned,,true,,,"","",46443
+"Rakdos Headliner",2,"Creature - Devil",BR,"mh2","210",uncommon,m,Not Owned,,true,,,"","",90797
+"Olivia Voldaren",4,"Legendary Creature - Vampire",BR,"isd","215",mythic,m,Not Owned,,true,,,"","",42764
+"Gaddock Teeg",2,"Legendary Creature - Kithkin Advisor",GW,"lrw","248",rare,m,Not Owned,,true,,,"","",28445
+"Figure of Destiny",1,"Creature - Kithkin",RW,"eve","139",rare,m,Not Owned,,true,,,"","",30238
+"Lightning Helix",2,"Instant",RW,"rav","213",uncommon,m,Not Owned,,true,,,"","",23154
+"Brutal Cathar",3,"Creature - Human Soldier Werewolf",RW,"mid","7",rare,m,Not Owned,,true,,,"","",92934
+"Oko, the Ringleader",4,"Legendary Planeswalker - Oko",GU,"otj","223",mythic,m,Not Owned,,true,,,"","",124357
+"Devourer of Destiny",7,"Creature - Eldrazi",,"mh3","2",rare,c,Not Owned,,true,,,"","",126021
+"Emrakul, the Promised End",13,"Legendary Creature - Eldrazi",,"emn","6",mythic,c,Not Owned,,true,,,"","",61068
+"Emrakul, the World Anew",12,"Legendary Creature - Eldrazi",,"mh3","381",mythic,c,Not Owned,,true,,,"","",125801
+"Sword of War and Peace",3,"Artifact - Equipment",,"nph","161",mythic,c,Not Owned,,true,,,"","",39730
+"Archway of Innovation",0,"Land",U,"mh3","214",rare,l,Not Owned,,true,,,"","",126447
+"Horizon of Progress",0,"Land",,"m3c","130",rare,l,Not Owned,,true,,,"","",127459
+"Monumental Henge",0,"Land",W,"mh3","222",rare,l,Not Owned,,true,,,"","",126463
+"Spymaster's Vault",0,"Land",B,"mh3","230",rare,l,Not Owned,,true,,,"","",126479
+"Bria, Riptide Rogue",4,"Legendary Creature - Otter Rogue",RU,"blb","379",mythic,m,Not Owned,,true,,,"","",128999
+"Pack Rat",2,"Creature - Rat",B,"rtr","73",rare,b,Not Owned,,true,,,"","",46737
+"Knight of Autumn",3,"Creature - Dryad Knight",GW,"grn","183",rare,m,Not Owned,,true,,,"","",69739
+"Fling",2,"Instant",R,"m11","139",common,r,Owned,Non-foil,true,,,"","",37118
+"Fireblast",6,"Instant",R,"pd2","26",common,r,Owned,Non-foil,true,,,"","",39224
+"Nicol Bolas, Dragon-God",5,"Legendary Planeswalker - Bolas",BRU,"med","WS6",mythic,m,Owned,Non-foil,true,,,"","",72208
+"Portal to Phyrexia",9,"Artifact",,"bro","240",mythic,c,Owned,Non-foil,true,,,"","",105104
+"Journey to Nowhere",2,"Enchantment",W,"zen","14",common,w,Not Owned,,true,,,"","",34390
+"Mystic Forge",4,"Artifact",,"m20","233",rare,c,Not Owned,,true,,,"","",73365
+"Skyclave Apparition",3,"Creature - Kor Spirit",W,"znr","39",rare,w,Not Owned,,true,,,"","",83023
+"Spell Pierce",1,"Instant",U,"zen","67",common,u,Not Owned,,true,,,"","",34442
+"Nishoba Brawler",2,"Creature - Cat Warrior",G,"dmu","174",uncommon,g,Not Owned,,true,,,"","",102824
+"Tasigur, the Golden Fang",6,"Legendary Creature - Human Shaman",BGU,"frf","87",rare,m,Not Owned,,true,,,"","",55338
+"Recruiter of the Guard",3,"Creature - Human Soldier",W,"plst","CN2-22",rare,w,Owned,Non-foil,true,,,"","",
+"Tendrils of Agony",4,"Sorcery",B,"scg","75",uncommon,b,Owned,Non-foil,true,,,"","",18866
+"Palace Jailer",4,"Creature - Human Soldier",W,"ltc","174",uncommon,w,Owned,Non-foil,true,,,"","",112702
+"Fiery Confluence",4,"Sorcery",R,"ss3","3",rare,r,Owned,Non-foil,true,,,"","",
+"Exhume",2,"Sorcery",B,"brb","24",common,b,Owned,Non-foil,true,,,"","",
+"Elvish Reclaimer",1,"Creature - Elf Warrior",G,"m20","169",rare,g,Owned,Non-foil,true,,,"","",73237
+"Sword of Fire and Ice",3,"Artifact - Equipment",,"spg","62",mythic,c,Owned,Non-foil,true,,,"","",
+"Seething Song",3,"Instant",R,"9ed","216",common,r,Owned,Non-foil,true,,,"","",22807
+"Mystic Confluence",5,"Instant",U,"tsr","312",special,u,Owned,Non-foil,true,,,"","",87001
+"Shark Typhoon",6,"Enchantment",U,"iko","67",rare,u,Owned,Non-foil,true,,,"","",80143
+"Shallow Grave",2,"Instant",B,"mir","141",rare,b,Owned,Non-foil,true,,,"","",7297
+"Mind's Desire",6,"Sorcery",U,"dds","4",rare,u,Owned,Non-foil,true,,,"","",
+"Murderous Rider",3,"Creature - Zombie Knight",B,"moc","258",rare,b,Owned,Non-foil,true,,,"","",110966
+"Celestial Colonnade",0,"Land",UW,"zne","23",mythic,l,Owned,Non-foil,true,,,"","",83613
+"Time Warp",5,"Sorcery",U,"tmp","97",rare,u,Owned,Non-foil,true,,,"","",9895
+"Selfless Spirit",2,"Creature - Spirit Cleric",W,"plst","EMN-40",rare,w,Owned,Non-foil,true,,,"","",
+"Creeping Tar Pit",0,"Land",BU,"wwk","134",rare,l,Owned,Non-foil,true,,,"","",35657
+"Otawara, Soaring City",0,"Legendary Land",U,"neo","271",rare,l,Owned,Non-foil,true,,,"","",97492
+"Land Tax",1,"Enchantment",W,"4ed","34",rare,w,Owned,Non-foil,true,,,"","",
+"Worldly Tutor",1,"Instant",G,"dmr","442",rare,g,Owned,Non-foil,true,,,"","",108113
+"Usher of the Fallen",1,"Creature - Spirit Warrior",W,"khm","35",uncommon,w,Owned,Non-foil,true,,,"","",87393
+"Voice of Resurgence",2,"Creature - Elemental",GW,"dgm","114",mythic,m,Owned,Non-foil,true,,,"","",48302
+"Rankle, Master of Pranks",4,"Legendary Creature - Faerie Rogue",B,"cmm","180",rare,b,Owned,Non-foil,true,,,"","",115459
+"Baral, Chief of Compliance",2,"Legendary Creature - Human Wizard",U,"plst","TSR-306",special,u,Owned,Non-foil,true,,,"","",
+"Serra Paragon",4,"Creature - Angel",W,"dmu","32",mythic,w,Owned,Non-foil,true,,,"","",102540
+"Trinket Mage",3,"Creature - Human Wizard",U,"tsr","320",special,u,Owned,Non-foil,true,,,"","",87017
+"Rotting Regisaur",3,"Creature - Zombie Dinosaur",B,"m20","111",rare,b,Owned,Non-foil,true,,,"","",73121
+"Custodi Lich",5,"Creature - Zombie Cleric",B,"ncc","244",rare,b,Owned,Non-foil,true,,,"","",
+"Sphinx of the Steel Wind",8,"Artifact Creature - Sphinx",BUW,"ema","207",mythic,m,Owned,Non-foil,true,,,"","",60621
+"Simian Spirit Guide",3,"Creature - Ape Spirit",R,"tsr","190",common,r,Owned,Non-foil,true,,,"","",86755
+"Soulherder",3,"Creature - Spirit",UW,"khc","93",uncommon,m,Owned,Non-foil,true,,,"","",88091
+"Oliphaunt",6,"Creature - Elephant",R,"ltr","139",common,r,Owned,Non-foil,true,,,"","",112188
+"Prismari Command",3,"Instant",RU,"lcc","279",rare,m,Owned,Non-foil,true,,,"","",118958
+"Lightning Greaves",2,"Artifact - Equipment",,"cma","220",uncommon,c,Owned,Non-foil,true,,,"","",
+"Otharri, Suns' Glory",5,"Legendary Creature - Phoenix",RW,"onc","3",mythic,m,Owned,Non-foil,true,,,"","",
+"Bloodghast",2,"Creature - Vampire Spirit",B,"lcc","184",rare,b,Owned,Non-foil,true,,,"","",118768
+"Gush",5,"Instant",U,"plst","DD2-27",common,u,Owned,Non-foil,true,,,"","",
+"Ashiok, Nightmare Weaver",3,"Legendary Planeswalker - Ashiok",BU,"ths","188",mythic,m,Owned,Non-foil,true,,,"","",50310
+"Necropotence",3,"Enchantment",B,"5ed","182",rare,b,Owned,Non-foil,true,,,"","",
+"Kari Zev, Skyship Raider",2,"Legendary Creature - Human Pirate",R,"plst","AER-87",rare,r,Owned,Non-foil,true,,,"","",
+"Hogaak, Arisen Necropolis",7,"Legendary Creature - Avatar",BG,"mh1","202",rare,m,Owned,Non-foil,true,,,"","",72776
+"Gix, Yawgmoth Praetor",3,"Legendary Creature - Phyrexian Praetor",B,"bro","95",mythic,b,Owned,Non-foil,true,,,"","",104808
+"Soul-Scar Mage",1,"Creature - Human Wizard",R,"akh","148",rare,r,Owned,Non-foil,true,,,"","",63898
+"Consider",1,"Instant",U,"dbl","44",common,u,Owned,Non-foil,true,,,"","",96302
+"Demonic Consultation",1,"Instant",B,"ice","121",uncommon,b,Owned,Non-foil,true,,,"","",
+"Jace, Wielder of Mysteries",4,"Legendary Planeswalker - Jace",U,"war","54",rare,u,Owned,Non-foil,true,,,"","",71714
+"Progenitus",10,"Legendary Creature - Hydra Avatar",BGRUW,"v11","9",mythic,m,Owned,Non-foil,true,,,"","",42251
+"Koma, Cosmos Serpent",7,"Legendary Creature - Serpent",GU,"khm","221",mythic,m,Owned,Non-foil,true,,,"","",87785
+"Triplicate Titan",9,"Artifact Creature - Golem",,"plst","C21-79",rare,c,Owned,Non-foil,true,,,"","",
+"Wedding Announcement",3,"Enchantment",W,"vow","45",rare,w,Owned,Non-foil,true,,,"","",94388
+"Hullbreaker Horror",7,"Creature - Kraken Horror",U,"woc","95",rare,u,Owned,Non-foil,true,,,"","",117106
+"Terastodon",8,"Creature - Elephant",G,"cmr","438",rare,g,Owned,Non-foil,true,,,"","",85686
+"Persist",2,"Sorcery",B,"spg","42",mythic,b,Owned,Non-foil,true,,,"","",
+"Tithe Taker",2,"Creature - Human Soldier",W,"woc","80",rare,w,Owned,Non-foil,true,,,"","",117074
+"Valakut, the Molten Pinnacle",0,"Land",R,"zen","228",rare,l,Owned,Non-foil,true,,,"","",34604
+"Tenacious Underdog",2,"Creature - Human Warrior",B,"snc","97",rare,b,Owned,Non-foil,true,,,"","",98413
+"Chaos Defiler",5,"Artifact Creature - Demon Construct",BR,"40k","110",rare,m,Owned,Non-foil,true,,,"","",108692
+"Goryo's Vengeance",2,"Instant - Arcane",B,"bok","67",rare,b,Owned,Non-foil,true,,,"","",21737
+"The Abyss",4,"World Enchantment",B,"leg","120",rare,b,Owned,Non-foil,true,,,"","",
+"Chains of Mephistopheles",2,"Enchantment",B,"leg","91",rare,b,Owned,Non-foil,true,,,"","",
+"Snap",2,"Instant",U,"dds","10",common,u,Owned,Non-foil,true,,,"","",
+"Life // Death",3,"Sorcery",BG,"ddj","77",uncommon,m,Owned,Non-foil,true,,,"","",46099
+"Toski, Bearer of Secrets",4,"Legendary Creature - Squirrel",G,"spg","60",mythic,g,Owned,Non-foil,true,,,"","",
+"Sail into the West",4,"Instant",GU,"ltc","68",rare,m,Owned,Non-foil,true,,,"","",113168
+"Kogla, the Titan Ape",6,"Legendary Creature - Ape",G,"iko","162",rare,g,Owned,Non-foil,true,,,"","",80333
+"Elvish Spirit Guide",3,"Creature - Elf Spirit",G,"sld","423",rare,g,Owned,Non-foil,true,,,"","",
+"Sheoldred, Whispering One",7,"Legendary Creature - Phyrexian Praetor",B,"nph","73",mythic,b,Owned,Non-foil,true,,,"","",39746
+"Fauna Shaman",2,"Creature - Elf Shaman",G,"bro","179",rare,g,Owned,Non-foil,true,,,"","",104976
+"Berserk",1,"Instant",G,"v09","2",mythic,g,Owned,Non-foil,true,,,"","",33924
+"Palinchron",7,"Creature - Illusion",U,"ulg","38",rare,u,Owned,Non-foil,true,,,"","",12469
+"Mental Misstep",1,"Instant",U,"nph","38",uncommon,u,Owned,Non-foil,true,,,"","",39920
+"Go for the Throat",2,"Instant",B,"2x2","76",uncommon,b,Owned,Non-foil,true,,,"","",101636
+"Generous Ent",6,"Creature - Treefolk",G,"ltr","169",common,g,Owned,Non-foil,true,,,"","",112248
+"Serra's Sanctum",0,"Legendary Land",W,"usg","325",rare,l,Owned,Non-foil,true,,,"","",11893
+"Doubling Season",5,"Enchantment",G,"cmm","283",mythic,g,Owned,Non-foil,true,,,"","",114795
+"Engineered Explosives",0,"Artifact",,"2xm","252",rare,c,Owned,Non-foil,true,,,"","",82538
+"Mystic Sanctuary",0,"Land - Island",U,"eld","247",common,l,Owned,Non-foil,true,,,"","",78640
+"Supreme Verdict",4,"Sorcery",UW,"2x2","280",rare,m,Owned,Non-foil,true,,,"","",102044
+"Bitter Triumph",2,"Instant",B,"lci","91",uncommon,b,Owned,Non-foil,true,,,"","",117986
+"Boromir, Warden of the Tower",3,"Legendary Creature - Human Soldier",W,"ltr","407",rare,w,Owned,Non-foil,true,,,"","",111538
+"Swift Reconfiguration",1,"Enchantment - Aura",W,"nec","10",rare,w,Owned,Non-foil,true,,,"","",
+"Nykthos, Shrine to Nyx",0,"Legendary Land",,"plst","THS-223",rare,l,Owned,Non-foil,true,,,"","",
+"Contract from Below",1,"Sorcery",B,"3ed","97",rare,b,Owned,Non-foil,true,,,"","",
+"Arcane Savant",5,"Creature - Human Wizard",U,"cn2","27",rare,u,Owned,Non-foil,true,,,"","",
+"Jeska's Will",3,"Sorcery",R,"clb","799",rare,r,Owned,Non-foil,true,,,"","",
+"Replenish",4,"Sorcery",W,"uds","15",rare,w,Owned,Non-foil,true,,,"","",12795
+"Virtue of Persistence",7,"Enchantment",B,"woe","115",mythic,b,Owned,Non-foil,true,,,"","",116546
+"Mirage Mirror",3,"Artifact",,"hou","165",rare,c,Owned,Non-foil,true,,,"","",64854
+"Graveyard Trespasser",3,"Creature - Human Werewolf",B,"dbl","104",rare,b,Owned,Non-foil,true,,,"","",96446
+"Call of the Ring",2,"Enchantment",B,"ltr","79",rare,b,Owned,Non-foil,true,,,"","",112068
+"Charming Prince",2,"Creature - Human Noble",W,"plst","ELD-8",rare,w,Owned,Non-foil,true,,,"","",
+"Seasoned Hallowblade",2,"Creature - Human Warrior",W,"m21","34",uncommon,w,Owned,Non-foil,true,,,"","",81295
+"Mirari's Wake",5,"Enchantment",GW,"c17","181",mythic,m,Owned,Non-foil,true,,,"","",
+"Anguished Unmaking",3,"Instant",BW,"otp","74",mythic,m,Owned,Non-foil,true,,,"","",123537
+"Squee, Dubious Monarch",3,"Legendary Creature - Goblin Noble",R,"dmu","146",rare,r,Owned,Non-foil,true,,,"","",102768
+"Condemn",1,"Instant",W,"cmr","369",uncommon,w,Owned,Non-foil,true,,,"","",85554
+"Gifts Ungiven",4,"Instant",U,"ss1","5",rare,u,Owned,Non-foil,true,,,"","",
+"Wildfire",6,"Sorcery",R,"usg","228",rare,r,Owned,Non-foil,true,,,"","",12115
+"Thalia and The Gitrog Monster",4,"Legendary Creature - Human Frog Horror",BGW,"mom","255",mythic,m,Owned,Non-foil,true,,,"","",110424
+"Archangel of Thune",5,"Creature - Angel",W,"2xm","5",mythic,w,Owned,Non-foil,true,,,"","",82044
+"Tooth and Nail",7,"Sorcery",G,"mrd","134",rare,g,Owned,Non-foil,true,,,"","",19969
+"Chromatic Lantern",3,"Artifact",,"brr","73",rare,c,Owned,Non-foil,true,,,"","",104312
+"Combat Celebrant",3,"Creature - Human Warrior",R,"ltc","212",mythic,r,Owned,Non-foil,true,,,"","",112778
+"Questing Druid",2,"Creature - Human Druid",GR,"woe","234",rare,m,Owned,Non-foil,true,,,"","",116840
+"Sword of Light and Shadow",3,"Artifact - Equipment",,"acr","100",mythic,c,Owned,Non-foil,true,,,"","",128166
+"Nicol Bolas, the Ravager",4,"Legendary Creature - Elder Dragon",BRU,"sld","1211",mythic,m,Owned,Non-foil,true,,,"","",
+"Lier, Disciple of the Drowned",5,"Legendary Creature - Human Wizard",U,"dbl","59",mythic,u,Owned,Non-foil,true,,,"","",96338
+"Ertai Resurrected",4,"Legendary Creature - Phyrexian Human Wizard",BU,"dmu","199",rare,m,Owned,Non-foil,true,,,"","",102874
+"Avacyn, Angel of Hope",8,"Legendary Creature - Angel",W,"cmm","14",mythic,w,Owned,Non-foil,true,,,"","",115127
+"Sauron, the Dark Lord",6,"Legendary Creature - Avatar Horror",BRU,"ltr","224",mythic,m,Owned,Non-foil,true,,,"","",112358
+"Impulse",2,"Instant",U,"btd","10",common,u,Owned,Non-foil,true,,,"","",
+"Nether Void",4,"World Enchantment",B,"leg","113",rare,b,Owned,Non-foil,true,,,"","",
+"Kess, Dissident Mage",4,"Legendary Creature - Human Wizard",BRU,"c17","39",mythic,m,Owned,Non-foil,true,,,"","",
+"Pithing Needle",1,"Artifact",,"mid","257",rare,c,Owned,Non-foil,true,,,"","",93524
+"Flame of Anor",3,"Instant",RU,"ltr","203",rare,m,Owned,Non-foil,true,,,"","",112316
+"Kaito, Dancing Shadow",4,"Legendary Planeswalker - Kaito",BU,"one","204",rare,m,Owned,Non-foil,true,,,"","",106623
+"Reckoner Bankbuster",2,"Artifact - Vehicle",,"neo","255",rare,c,Owned,Non-foil,true,,,"","",97460
+"Arcane Proxy",7,"Artifact Creature - Wizard",U,"bro","75",mythic,u,Owned,Non-foil,true,,,"","",104768
+"Serum Visions",1,"Sorcery",U,"mm3","49",uncommon,u,Owned,Non-foil,true,,,"","",63505
+"Knight of the Ebon Legion",1,"Creature - Vampire Knight",B,"m20","105",rare,b,Owned,Non-foil,true,,,"","",73109
+"Malcolm, Alluring Scoundrel",2,"Legendary Creature - Siren Pirate",U,"lci","63",rare,u,Owned,Non-foil,true,,,"","",117924
+"Soul-Guide Lantern",1,"Artifact",,"woe","251",uncommon,c,Owned,Non-foil,true,,,"","",116890
+"Ajani Vengeant",4,"Legendary Planeswalker - Ajani",RW,"ala","154",mythic,m,Owned,Non-foil,true,,,"","",30923
+"Aragorn, King of Gondor",4,"Legendary Creature - Human Noble",RUW,"ltc","5",mythic,m,Owned,Non-foil,true,,,"","",113194
+"Triumph of Saint Katherine",5,"Creature - Human Warrior",W,"40k","17",rare,w,Owned,Non-foil,true,,,"","",108506
+"Nicol Bolas, God-Pharaoh",7,"Legendary Planeswalker - Bolas",BRU,"2x2","260",mythic,m,Owned,Non-foil,true,,,"","",102004
+"Syr Ginger, the Meal Ender",2,"Legendary Artifact Creature - Food Knight",,"woe","252",rare,c,Owned,Non-foil,true,,,"","",116892
+"Kambal, Consul of Allocation",3,"Legendary Creature - Human Advisor",BW,"kld","183",rare,m,Owned,Non-foil,true,,,"","",62037
+"Protean Hulk",7,"Creature - Beast",G,"a25","185",rare,g,Owned,Non-foil,true,,,"","",67284
+"Dark Petition",5,"Sorcery",B,"ori","90",rare,b,Owned,Non-foil,true,,,"","",57968
+"Control Magic",4,"Enchantment - Aura",U,"30a","52",uncommon,u,Owned,Non-foil,true,,,"","",
+"Hushbringer",2,"Creature - Faerie",W,"eld","18",rare,w,Owned,Non-foil,true,,,"","",78128
+"Aether Channeler",3,"Creature - Human Wizard",U,"blc","160",rare,u,Owned,Non-foil,true,,,"","",128467
+"Hostage Taker",4,"Creature - Human Pirate",BU,"lcc","271",rare,m,Owned,Non-foil,true,,,"","",118942
+"Hall of Storm Giants",0,"Land",U,"afr","257",rare,l,Owned,Non-foil,true,,,"","",92016
+"Baneslayer Angel",5,"Creature - Angel",W,"m21","6",mythic,w,Owned,Non-foil,true,,,"","",81239
+"Growth Spiral",2,"Instant",GU,"who","828",common,m,Owned,Non-foil,true,,,"","",
+"Ravenloft Adventurer",4,"Creature - Human Rogue Assassin",B,"clb","142",rare,b,Owned,Non-foil,true,,,"","",100302
+"Hero's Downfall",3,"Instant",B,"dmc","112",uncommon,b,Owned,Non-foil,true,,,"","",103110
+"Terminate",2,"Instant",BR,"dmc","172",common,m,Owned,Non-foil,true,,,"","",103230
+"Noxious Gearhulk",6,"Artifact Creature - Construct",B,"moc","260",mythic,b,Owned,Non-foil,true,,,"","",110972
+"Ghost Quarter",0,"Land",,"plst","CM2-253",uncommon,l,Owned,Non-foil,true,,,"","",
+"Dualcaster Mage",3,"Creature - Human Wizard",R,"c14","34",rare,r,Owned,Non-foil,true,,,"","",55101
+"Aluren",4,"Enchantment",G,"tmp","213",rare,g,Owned,Non-foil,true,,,"","",9821
+"Volrath's Stronghold",0,"Legendary Land",B,"sth","143",rare,l,Owned,Non-foil,true,,,"","",10429
+"Cast into the Fire",2,"Instant",R,"ltr","118",common,r,Owned,Non-foil,true,,,"","",112146
+"Tibalt's Trickery",2,"Instant",R,"khm","153",rare,r,Owned,Non-foil,true,,,"","",87641
+"Phyrexian Obliterator",4,"Creature - Phyrexian Horror",B,"plst","A25-101",mythic,b,Owned,Non-foil,true,,,"","",
+"Pyrite Spellbomb",1,"Artifact",R,"2xm","283",common,r,Owned,Non-foil,true,,,"","",82600
+"Mondrak, Glory Dominus",4,"Legendary Creature - Phyrexian Horror",W,"one","346",mythic,w,Owned,Non-foil,true,,,"","",
+"Teshar, Ancestor's Apostle",4,"Legendary Creature - Bird Cleric",W,"dmc","105",rare,w,Owned,Non-foil,true,,,"","",103096
+"Invoke Despair",5,"Sorcery",B,"neo","101",rare,b,Owned,Non-foil,true,,,"","",97122
+"Drown in the Loch",2,"Instant",BU,"spg","27",mythic,m,Owned,Non-foil,true,,,"","",
+"Brutal Cathar",3,"Creature - Human Soldier Werewolf",RW,"mid","7",rare,m,Owned,Non-foil,true,,,"","",92934
+"Wrenn and Seven",5,"Legendary Planeswalker - Wrenn",G,"mid","278",mythic,g,Owned,Non-foil,true,,,"","",
+"Thing in the Ice",2,"Creature - Horror",U,"soi","92",rare,u,Owned,Non-foil,true,,,"","",59868
+"Luminous Broodmoth",4,"Creature - Insect",W,"iko","371",mythic,w,Owned,Non-foil,true,,,"","",
+"Null Rod",2,"Artifact",,"wth","154",rare,c,Owned,Non-foil,true,,,"","",9259
+"Sudden Edict",2,"Instant",B,"mh2","100",uncommon,b,Owned,Non-foil,true,,,"","",90573
+"Teferi's Puzzle Box",4,"Artifact",,"vis","156",rare,c,Owned,Non-foil,true,,,"","",7751
+"Outland Liberator",2,"Creature - Human Werewolf",G,"mid","190",uncommon,g,Owned,Non-foil,true,,,"","",93370
+"Chain of Vapor",1,"Instant",U,"ons","73",uncommon,u,Owned,Non-foil,true,,,"","",17847
+"Settle the Wreckage",4,"Instant",W,"xln","34",rare,w,Owned,Non-foil,true,,,"","",65080
+"Eagles of the North",6,"Creature - Bird Soldier",W,"ltr","7",common,w,Owned,Non-foil,true,,,"","",111924
+"Ancient Grudge",2,"Instant",GR,"mm3","88",uncommon,m,Owned,Non-foil,true,,,"","",63285
+"Dovin's Veto",2,"Instant",UW,"tsr","375",special,m,Owned,Non-foil,true,,,"","",87127
+"Power Word Kill",2,"Instant",B,"afr","114",uncommon,b,Owned,Non-foil,true,,,"","",91730
+"Minamo, School at Water's Edge",0,"Legendary Land",U,"chk","279",rare,l,Owned,Non-foil,true,,,"","",21385
+"Lyra Dawnbringer",5,"Legendary Creature - Angel",W,"dmr","413",mythic,w,Owned,Non-foil,true,,,"","",108055
+"Temporal Manipulation",5,"Sorcery",U,"sld","1169",mythic,u,Owned,Non-foil,true,,,"","",
+"Regal Bunnicorn",2,"Creature - Rabbit Unicorn",W,"woe","25",rare,w,Owned,Non-foil,true,,,"","",116342
+"Commit // Memory",10,"Instant",U,"akh","211",rare,u,Owned,Non-foil,true,,,"","",64032
+"All Is Dust",7,"Kindred Sorcery - Eldrazi",,"plst","MM2-1",rare,c,Owned,Non-foil,true,,,"","",
+"Cataclysm",4,"Sorcery",W,"exo","3",rare,w,Owned,Non-foil,true,,,"","",10499
+"Thrun, Breaker of Silence",5,"Legendary Creature - Troll Shaman",G,"one","186",rare,g,Owned,Non-foil,true,,,"","",106587
+"Qasali Pridemage",2,"Creature - Cat Wizard",GW,"plst","C17-189",common,m,Owned,Non-foil,true,,,"","",
+"Mirror Entity",3,"Creature - Shapeshifter",W,"c13","17",rare,w,Owned,Non-foil,true,,,"","",50848
+"Molten Collapse",2,"Sorcery",BR,"lci","234",rare,m,Owned,Non-foil,true,,,"","",118308
+"Opt",1,"Instant",U,"woc","101",common,u,Owned,Non-foil,true,,,"","",117120
+"Siege Rhino",4,"Creature - Rhino",BGW,"slc","2014",rare,m,Owned,Non-foil,true,,,"","",
+"Torsten, Founder of Benalia",7,"Legendary Creature - Human Soldier",GW,"dmc","47",mythic,m,Owned,Non-foil,true,,,"","",103536
+"Jace, Memory Adept",5,"Legendary Planeswalker - Jace",U,"m14","60",mythic,u,Owned,Non-foil,true,,,"","",49253
+"Lolth, Spider Queen",5,"Legendary Planeswalker - Lolth",B,"afr","112",mythic,b,Owned,Non-foil,true,,,"","",91726
+"Burning-Tree Emissary",2,"Creature - Human Shaman",GR,"gk2","88",uncommon,m,Owned,Non-foil,true,,,"","",
+"Personal Tutor",1,"Sorcery",U,"por","64",uncommon,u,Owned,Non-foil,true,,,"","",
+"Hurkyl's Recall",2,"Instant",U,"plst","MM2-48",rare,u,Owned,Non-foil,true,,,"","",
+"Standstill",2,"Enchantment",U,"ody","102",uncommon,u,Owned,Non-foil,true,,,"","",16855
+"Ulvenwald Oddity",4,"Creature - Beast",G,"vow","225",rare,g,Owned,Non-foil,true,,,"","",94812
+"Krark-Clan Ironworks",4,"Artifact",,"5dn","134",uncommon,c,Owned,Non-foil,true,,,"","",20862
+"Lim-Dûl's Vault",2,"Instant",BU,"slc","1996",rare,m,Owned,Non-foil,true,,,"","",
+"Feed the Swarm",2,"Sorcery",B,"ltc","200",common,b,Owned,Non-foil,true,,,"","",112476
+"Deep-Cavern Bat",2,"Creature - Bat",B,"lci","102",uncommon,b,Owned,Non-foil,true,,,"","",118008
+"Green Sun's Zenith",1,"Sorcery",G,"ema","169",rare,g,Owned,Non-foil,true,,,"","",60681
+"Inzerva, Master of Insights",5,"Legendary Planeswalker - Inzerva",RU,"ph17","2",mythic,m,Owned,Non-foil,true,,,"","",
+"Fervent Champion",1,"Creature - Human Knight",R,"eld","124",rare,r,Owned,Non-foil,true,,,"","",78374
+"Burning Inquiry",1,"Sorcery",R,"plst","M10-128",common,r,Owned,Non-foil,true,,,"","",
+"Ojer Axonil, Deepest Might",4,"Legendary Creature - God",R,"lci","158",mythic,r,Owned,Non-foil,true,,,"","",118136
+"Sanctum Weaver",2,"Enchantment Creature - Dryad",G,"woc","131",rare,g,Owned,Non-foil,true,,,"","",117180
+"Raven's Crime",1,"Sorcery",B,"mma","95",common,b,Owned,Non-foil,true,,,"","",48784
+"Goblin Piledriver",2,"Creature - Goblin Warrior",R,"ori","151",rare,r,Owned,Non-foil,true,,,"","",57714
+"Crackle with Power",2,"Sorcery",R,"stx","95",mythic,r,Owned,Non-foil,true,,,"","",88667
+"Repeal",1,"Instant",U,"clu","94",common,u,Owned,Non-foil,true,,,"","",122972
+"An Offer You Can't Refuse",1,"Instant",U,"snc","51",uncommon,u,Owned,Non-foil,true,,,"","",98321
+"Nighthawk Scavenger",3,"Creature - Vampire Rogue",B,"otc","144",rare,b,Owned,Non-foil,true,,,"","",124747
+"Vraska, Betrayal's Sting",6,"Legendary Planeswalker - Vraska",B,"one","361",mythic,b,Owned,Non-foil,true,,,"","",
+"Eater of Virtue",1,"Legendary Artifact - Equipment",,"neo","245",rare,c,Owned,Non-foil,true,,,"","",97440
+"The Reality Chip",2,"Legendary Artifact Creature - Equipment Jellyfish",U,"neo","74",rare,u,Owned,Non-foil,true,,,"","",97068
+"Ashiok, Nightmare Muse",5,"Legendary Planeswalker - Ashiok",BU,"thb","208",mythic,m,Owned,Non-foil,true,,,"","",79540
+"Territorial Kavu",2,"Creature - Kavu",GR,"mh2","216",rare,m,Owned,Non-foil,true,,,"","",90813
+"Blade of the Oni",2,"Artifact Creature - Equipment Demon",B,"neo","89",mythic,b,Owned,Non-foil,true,,,"","",97098
+"General Ferrous Rokiric",3,"Legendary Creature - Human Soldier",RW,"mh2","198",rare,m,Owned,Non-foil,true,,,"","",90773
+"Teferi, Who Slows the Sunset",4,"Legendary Planeswalker - Teferi",UW,"mid","245",mythic,m,Owned,Non-foil,true,,,"","",93496
+"Kaya the Inexorable",5,"Legendary Planeswalker - Kaya",BW,"khm","218",mythic,m,Owned,Non-foil,true,,,"","",87779
+"Chancellor of the Annex",7,"Creature - Phyrexian Angel",W,"plst","NPH-6",rare,w,Owned,Non-foil,true,,,"","",
+"Ignite Memories",5,"Sorcery",R,"tsp","164",uncommon,r,Owned,Non-foil,true,,,"","",25543
+"Bring to Light",5,"Sorcery",GU,"bfz","209",rare,m,Owned,Non-foil,true,,,"","",58573
+"Dakkon, Shadow Slayer",3,"Legendary Planeswalker - Dakkon",BUW,"mh2","192",mythic,m,Owned,Non-foil,true,,,"","",90761
+"Oracle of the Alpha",3,"Creature - Bird Wizard",U,"ydmu","4",mythic,u,Owned,Non-foil,true,,,"","",
+"Counterbalance",2,"Enchantment",U,"plst","CSP-31",uncommon,u,Owned,Non-foil,true,,,"","",
+"Worldgorger Dragon",6,"Creature - Nightmare Dragon",R,"dmr","334",mythic,r,Owned,Non-foil,true,,,"","",107353
+"Ashaya, Soul of the Wild",5,"Legendary Creature - Elemental",G,"znr","179",mythic,g,Owned,Non-foil,true,,,"","",83341
+"Jin-Gitaxias, Core Augur",10,"Legendary Creature - Phyrexian Praetor",U,"ima","62",mythic,u,Owned,Non-foil,true,,,"","",66003
+"Song of Creation",4,"Enchantment",GRU,"sld","1603",rare,m,Owned,Non-foil,true,,,"","",
+"Hall of Heliod's Generosity",0,"Legendary Land",W,"woc","162",rare,l,Owned,Non-foil,true,,,"","",117242
+"Cathartic Reunion",2,"Sorcery",R,"plst","KLD-109",common,r,Owned,Non-foil,true,,,"","",
+"Chimil, the Inner Sun",6,"Legendary Artifact",,"lci","249",mythic,c,Owned,Non-foil,true,,,"","",118338
+"Bojuka Bog",0,"Land",B,"c20","259",common,l,Owned,Non-foil,true,,,"","",
+"Scion of Draco",12,"Artifact Creature - Dragon",,"mh2","431",mythic,c,Owned,Non-foil,true,,,"","",91135
+"Captain Sisay",4,"Legendary Creature - Human Soldier",GW,"v11","2",mythic,m,Owned,Non-foil,true,,,"","",42237
+"Crystal Shard",3,"Artifact",U,"plst","MRD-159",uncommon,u,Owned,Non-foil,true,,,"","",
+"The Locust God",6,"Legendary Creature - God",RU,"plst","C20-219",mythic,m,Owned,Non-foil,true,,,"","",
+"Astral Dragon",8,"Creature - Dragon",U,"clb","664",rare,u,Owned,Non-foil,true,,,"","",101424
+"Inventors' Fair",0,"Legendary Land",,"kld","247",rare,l,Owned,Non-foil,true,,,"","",61857
+"Lightning Skelemental",3,"Creature - Elemental Skeleton",BR,"mh1","208",rare,m,Owned,Non-foil,true,,,"","",72788
+"Vilis, Broker of Blood",8,"Legendary Creature - Demon",B,"gn3","63",rare,b,Owned,Non-foil,true,,,"","",
+"Intruder Alarm",3,"Enchantment",U,"sld","229",rare,u,Owned,Non-foil,true,,,"","",
+"Jet Medallion",2,"Artifact",,"mh3","346",rare,c,Owned,Non-foil,true,,,"","",125859
+"Shattering Spree",1,"Sorcery",R,"plst","GK1-34",uncommon,r,Owned,Non-foil,true,,,"","",
+"Dryad Militant",1,"Creature - Dryad Soldier",GW,"plst","PRTR-214",uncommon,m,Owned,Non-foil,true,,,"","",
+"Junji, the Midnight Sky",5,"Legendary Creature - Dragon Spirit",B,"neo","409",mythic,b,Owned,Non-foil,true,,,"","",
+"Samwise Gamgee",2,"Legendary Creature - Halfling Peasant",GW,"ltr","222",rare,m,Owned,Non-foil,true,,,"","",112354
+"Ao, the Dawn Sky",5,"Legendary Creature - Dragon Spirit",W,"neo","406",mythic,w,Owned,Non-foil,true,,,"","",
+"Fiery Inscription",3,"Enchantment",R,"ltr","126",uncommon,r,Owned,Non-foil,true,,,"","",112162
+"Smallpox",2,"Sorcery",B,"tsp","131",uncommon,b,Owned,Non-foil,true,,,"","",25643
+"Jin-Gitaxias",5,"Legendary Creature - Phyrexian Praetor",U,"mom","65",mythic,u,Owned,Non-foil,true,,,"","",109952
+"Falkenrath Aristocrat",4,"Creature - Vampire Noble",BR,"mm3","163",rare,m,Owned,Non-foil,true,,,"","",63315
+"Arcane Denial",2,"Instant",U,"woc","84",common,u,Owned,Non-foil,true,,,"","",117082
+"Legolas's Quick Reflexes",1,"Instant",G,"ltc","537",rare,g,Owned,Non-foil,true,,,"","",
+"Cranial Plating",2,"Artifact - Equipment",B,"c16","249",uncommon,b,Owned,Non-foil,true,,,"","",
+"Verdant Command",2,"Instant",G,"mh2","182",rare,g,Owned,Non-foil,true,,,"","",90741
+"Grave Pact",4,"Enchantment",B,"cmd","85",rare,b,Owned,Non-foil,true,,,"","",40715
+"Court of Ire",5,"Enchantment",R,"ltc","213",rare,r,Owned,Non-foil,true,,,"","",112780
+"Hokori, Dust Drinker",4,"Legendary Creature - Spirit",W,"bok","7",rare,w,Owned,Non-foil,true,,,"","",21889
+"Mikaeus, the Unhallowed",6,"Legendary Creature - Zombie Cleric",B,"sld","490",mythic,b,Owned,Non-foil,true,,,"","",
+"Cast Down",2,"Instant",B,"dom","81",uncommon,b,Owned,Non-foil,true,,,"","",67627
+"Timeless Witness",4,"Creature - Human Shaman",G,"mh2","179",uncommon,g,Owned,Non-foil,true,,,"","",90735
+"Panoptic Mirror",5,"Artifact",,"dst","136",rare,c,Owned,Non-foil,true,,,"","",20411
+"Goblin Anarchomancer",2,"Creature - Goblin Shaman",GR,"mh2","200",common,m,Owned,Non-foil,true,,,"","",90777
+"Deflecting Palm",2,"Instant",RW,"ktk","173",rare,m,Owned,Non-foil,true,,,"","",54454
+"Ultimate Price",2,"Instant",B,"rvr","329",uncommon,b,Owned,Non-foil,true,,,"","",120235
+"Greymond, Avacyn's Stalwart",4,"Legendary Creature - Human Soldier",W,"sld","143",mythic,w,Owned,Non-foil,true,,,"","",
+"Daretti, Ingenious Iconoclast",3,"Legendary Planeswalker - Daretti",BR,"med","GR3",mythic,m,Owned,Non-foil,true,,,"","",69969
+"Sundering Titan",8,"Artifact Creature - Golem",,"a25","233",rare,c,Owned,Non-foil,true,,,"","",67380
+"Ugin's Labyrinth",0,"Land",,"mh3","233",mythic,l,Not Owned,,true,,,"","",126485
+"Talon Gates of Madara",0,"Land - Gate",,"m3c","134",rare,l,Not Owned,,true,,,"","",127467
+"Arena of Glory",0,"Land",R,"mh3","215",rare,l,Not Owned,,true,,,"","",126449
+"Sword of Wealth and Power",3,"Artifact - Equipment",,"big","26",mythic,c,Not Owned,,true,,,"","",125413
+"Sword of Feast and Famine",3,"Artifact - Equipment",,"mbs","138",mythic,c,Not Owned,,true,,,"","",39549
+"Forcefield",3,"Artifact",,"lea","243",rare,c,Not Owned,,true,,,"","",
+"Chalice of the Void",0,"Artifact",,"mrd","150",rare,c,Not Owned,,true,,,"","",19995
+"Lodestone Golem",4,"Artifact Creature - Golem",,"wwk","127",rare,c,Not Owned,,true,,,"","",35709
+"Metalworker",3,"Artifact Creature - Construct",,"uds","135",rare,c,Not Owned,,true,,,"","",12921
+"Prophet of Kruphix",5,"Creature - Human Wizard",GU,"ths","199",rare,m,Not Owned,,true,,,"","",50618
+"High Noon",2,"Enchantment",RW,"otj","15",rare,m,Not Owned,,true,,,"","",123941
+"Kaya, Orzhov Usurper",3,"Legendary Planeswalker - Kaya",BW,"rna","186",mythic,m,Not Owned,,true,,,"","",71372
+"Sorin of House Markov",2,"Legendary Creature - Human Noble",BW,"mh3","245",mythic,m,Not Owned,,true,,,"","",126525
+"Hidetsugu Consumes All",3,"Enchantment - Saga",BR,"neo","221",mythic,m,Not Owned,,true,,,"","",97388
+"Bloodtithe Harvester",2,"Creature - Vampire",BR,"vow","232",uncommon,m,Not Owned,,true,,,"","",94832
+"Up the Beanstalk",2,"Enchantment",G,"woe","195",uncommon,g,Not Owned,,true,,,"","",116732
+"Life from the Loam",2,"Sorcery",G,"rav","172",rare,g,Not Owned,,true,,,"","",23376
+"Ancient Stirrings",1,"Sorcery",G,"roe","174",common,g,Not Owned,,true,,,"","",36374
+"Jokulhaups",6,"Sorcery",R,"ice","195",rare,r,Owned,Non-foil,true,,,"","",
+"Tribal Flames",2,"Sorcery",R,"inv","176",common,r,Not Owned,,true,,,"","",14689
+"Flare of Duplication",3,"Instant",R,"mh3","119",rare,r,Not Owned,,true,,,"","",126255
+"Firestorm",1,"Instant",R,"wth","101",rare,r,Not Owned,,true,,,"","",9321
+"Inferno of the Star Mounts",6,"Legendary Creature - Dragon",R,"afr","151",mythic,r,Not Owned,,true,,,"","",91804
+"Hellrider",4,"Creature - Devil",R,"dka","93",rare,r,Not Owned,,true,,,"","",43185
+"Krenko, Baron of Tin Street",3,"Legendary Creature - Goblin",R,"mkm","135",rare,r,Not Owned,,true,,,"","",121748
+"Harsh Mentor",2,"Creature - Human Cleric",R,"akh","135",rare,r,Not Owned,,true,,,"","",63872
+"Living Death",5,"Sorcery",B,"tmp","142",rare,b,Not Owned,,true,,,"","",9795
+"Buried Alive",3,"Sorcery",B,"wth","63",uncommon,b,Not Owned,,true,,,"","",9385
+"Hatred",5,"Instant",B,"exo","64",rare,b,Not Owned,,true,,,"","",10699
+"Flare of Malice",4,"Instant",B,"mh3","331",rare,b,Not Owned,,true,,,"","",125829
+"K'rrik, Son of Yawgmoth",7,"Legendary Creature - Phyrexian Horror Minion",B,"c19","18",rare,b,Not Owned,,true,,,"","",77090
+"Yawgmoth, Thran Physician",4,"Legendary Creature - Human Cleric",B,"mh1","116",mythic,b,Not Owned,,true,,,"","",72604
+"Warren Soultrader",3,"Creature - Zombie Goblin Wizard",B,"mh3","110",rare,b,Not Owned,,true,,,"","",126237
+"Flare of Denial",3,"Instant",U,"mh3","326",rare,u,Not Owned,,true,,,"","",125819
+"Swan Song",1,"Instant",U,"ths","65",rare,u,Not Owned,,true,,,"","",50440
+"Student of Warfare",1,"Creature - Human Knight",W,"roe","47",rare,w,Not Owned,,true,,,"","",36586
+"Oswald Fiddlebender",2,"Legendary Creature - Gnome Artificer",W,"afr","28",rare,w,Not Owned,,true,,,"","",91558
+"Blade Splicer",3,"Creature - Phyrexian Human Artificer",W,"nph","4",rare,w,Not Owned,,true,,,"","",39996
+"Hero of Bladehold",4,"Creature - Human Knight",W,"mbs","8",mythic,w,Not Owned,,true,,,"","",39539
+"Serra's Emissary",7,"Creature - Angel",W,"mh2","30",mythic,w,Not Owned,,true,,,"","",90429
+"Manifold Key",1,"Artifact",,"m20","230",uncommon,c,Not Owned,,true,,,"","",73359
+"Weathered Wayfarer",1,"Creature - Human Nomad Cleric",W,"ons","59",rare,w,Not Owned,,true,,,"","",17749
+"Slickshot Show-Off",2,"Creature - Bird Wizard",R,"otj","146",rare,r,Not Owned,,true,,,"","",124203
+"Gamble",1,"Sorcery",R,"usg","188",rare,r,Not Owned,,true,,,"","",12067
+"Nissa, Vastwood Seer",3,"Legendary Creature - Elf Scout",G,"ori","189",mythic,g,Not Owned,,true,,,"","",58056
+"Boros Signet",2,"Artifact",RW,"rav","255",common,m,Not Owned,,true,,,"","",23566
+"Simic Signet",2,"Artifact",GU,"dis","166",common,m,Not Owned,,true,,,"","",24015
+"Golgari Signet",2,"Artifact",BG,"rav","262",common,m,Not Owned,,true,,,"","",23564
+"Izzet Signet",2,"Artifact",RU,"gpt","152",common,m,Not Owned,,true,,,"","",23679
+"Orzhov Signet",2,"Artifact",BW,"gpt","155",common,m,Not Owned,,true,,,"","",23681
+"Selesnya Signet",2,"Artifact",GW,"rav","270",common,m,Not Owned,,true,,,"","",23568
+"Gruul Signet",2,"Artifact",GR,"gpt","150",common,m,Not Owned,,true,,,"","",23669
+"Rakdos Signet",2,"Artifact",BR,"dis","165",common,m,Not Owned,,true,,,"","",24045
+"Dimir Signet",2,"Artifact",BU,"rav","260",common,m,Not Owned,,true,,,"","",23562
+"Azorius Signet",2,"Artifact",UW,"dis","159",common,m,Not Owned,,true,,,"","",24023
+"Goblin Trashmaster",4,"Creature - Goblin Warrior",R,"m19","144",rare,r,Owned,Non-foil,true,,,"","",68449
+"Silverblade Paladin",3,"Creature - Human Knight",W,"avr","36",rare,w,Owned,Non-foil,true,,,"","",44279
+"Sulfuric Vortex",3,"Enchantment",R,"scg","106",rare,r,Not Owned,,true,,,"","",18928
+"Embereth Shieldbreaker",2,"Creature - Human Knight",R,"eld","122",uncommon,r,Not Owned,,true,,,"","",78368
+"Pyroblast",1,"Instant",R,"ice","213",common,r,Not Owned,,true,,,"","",
+"Brotherhood's End",3,"Sorcery",R,"bro","128",rare,r,Not Owned,,true,,,"","",104874
+"Vexing Bauble",1,"Artifact",,"mh3","212",uncommon,c,Not Owned,,true,,,"","",126443
+"Fulminator Mage",3,"Creature - Elemental Shaman",BR,"shm","188",rare,m,Not Owned,,true,,,"","",29333
+"Bonfire of the Damned",1,"Sorcery",R,"avr","129",mythic,r,Not Owned,,true,,,"","",44191
+"Sai, Master Thopterist",3,"Legendary Creature - Human Artificer",U,"m19","69",rare,u,Not Owned,,true,,,"","",68299
+"Freed from the Real",3,"Enchantment - Aura",U,"sok","38",common,u,Not Owned,,true,,,"","",22156
+"Peacekeeper",3,"Creature - Human",W,"wth","22",rare,w,Not Owned,,true,,,"","",9351
+"Cataclysm",4,"Sorcery",W,"exo","3",rare,w,Not Owned,,true,,,"maybeout","",10499
+"Elspeth Resplendent",5,"Legendary Planeswalker - Elspeth",W,"snc","282",mythic,w,Not Owned,,true,,,"maybeout","",
+"Iona, Shield of Emeria",9,"Legendary Creature - Angel",W,"mm2","20",mythic,w,Owned,Non-foil,true,,,"maybeout","",57158
+"Loyal Retainers",3,"Creature - Human Advisor",W,"ptk","12",uncommon,w,Not Owned,,true,,,"maybeout","",
+"Dream Halls",5,"Enchantment",U,"sth","28",rare,u,Not Owned,,true,,,"maybeout","",10175
+"Intuition",3,"Instant",U,"tmp","70",rare,u,Not Owned,,true,,,"maybeout","",9897
+"Capsize",3,"Instant",U,"tmp","55",common,u,Owned,Non-foil,true,,,"","",9641
+"Sink into Stupor",3,"Instant",U,"mh3","241",uncommon,u,Not Owned,,true,,,"","",126511
+"Goblin Matron",3,"Creature - Goblin",R,"usg","191",common,r,Not Owned,,true,,,"","",11957
+"Avalanche Riders",4,"Creature - Human Nomad",R,"ulg","74",uncommon,r,Not Owned,,true,,,"","",12477
+"Bonehoard Dracosaur",5,"Creature - Dinosaur Dragon",R,"lci","134",mythic,r,Not Owned,,true,,,"","",118080
+"Dockside Extortionist",2,"Creature - Goblin Pirate",R,"c19","24",rare,r,Not Owned,,true,,,"","",77102
+"Silverback Elder",5,"Creature - Ape Shaman",G,"dmu","177",mythic,g,Not Owned,,true,,,"","",102830
+"Oracle of Mul Daya",4,"Creature - Elf Shaman",G,"zen","172",rare,g,Not Owned,,true,,,"","",34542
+"Acidic Slime",5,"Creature - Ooze",G,"m10","165",uncommon,g,Not Owned,,true,,,"","",32723
+"Azusa, Lost but Seeking",3,"Legendary Creature - Human Monk",G,"chk","201",rare,g,Not Owned,,true,,,"maybeout","",21535
+"Wrenn and Realmbreaker",3,"Legendary Planeswalker - Wrenn",G,"mom","217",mythic,g,Not Owned,,true,,,"maybeout","",110322
+"Tarmogoyf Nest",3,"Kindred Enchantment - Lhurgoyf Aura",G,"m3c","120",rare,g,Not Owned,,true,,,"maybeout","",127439
+"Tezzeret, Master of the Bridge",6,"Legendary Planeswalker - Tezzeret",BU,"war","275",mythic,m,Not Owned,,true,,,"","",72192
+"Wight of the Reliquary",2,"Creature - Zombie Knight",BG,"mh3","207",rare,m,Not Owned,,true,,,"maybeout","",126433
+"The Scarab God",5,"Legendary Creature - God",BU,"hou","145",mythic,m,Not Owned,,true,,,"","",64774
+"Geist of Saint Traft",3,"Legendary Creature - Spirit Cleric",UW,"isd","213",mythic,m,Not Owned,,true,,,"maybeout","",42824
+"Aura Shards",3,"Enchantment",GW,"cmd","182",uncommon,m,Not Owned,,true,,,"maybeout","",40576
+"Grand Arbiter Augustin IV",4,"Legendary Creature - Human Advisor",UW,"dis","112",rare,m,Not Owned,,true,,,"maybeout","",24157
+"Notion Thief",4,"Creature - Human Rogue",BU,"dgm","88",rare,m,Not Owned,,true,,,"","",48332
+"Nettlecyst",3,"Artifact - Equipment",,"mh2","231",rare,c,Not Owned,,true,,,"","",90843
+"Timeless Lotus",5,"Legendary Artifact",BGRUW,"dmu","239",mythic,m,Not Owned,,true,,,"maybeout","",102954
+"Currency Converter",1,"Artifact",,"ncc","81",rare,c,Owned,,true,,,"","",
+"Forbidden Orchard",0,"Land",,"chk","276",rare,l,Owned,,true,,,"","",21437
+"Molten Collapse",2,"Sorcery",BR,"lci","234",rare,m,Owned,,true,,,"","",118308
+"Carnage Interpreter",3,"Creature - Devil Detective",BR,"clu","26",rare,m,Owned,,true,,,"","",123360
+"Leyline of the Guildpact",4,"Enchantment",BGRUW,"mkm","217",rare,m,Owned,,true,,,"","",121908
+"Tidehollow Sculler",2,"Artifact Creature - Zombie",BW,"ala","202",uncommon,m,Owned,,true,,,"","",31125
+"The Gitrog, Ravenous Ride",5,"Legendary Creature - Frog Horror Mount",BG,"otj","206",mythic,m,Owned,,true,,,"","",124323
+"Otharri, Suns' Glory",5,"Legendary Creature - Phoenix",RW,"onc","3",mythic,m,Owned,,true,,,"","",
+"Chulane, Teller of Tales",5,"Legendary Creature - Human Druid",GUW,"eld","326",mythic,m,Owned,,true,,,"","",78712
+"Pattern of Rebirth",4,"Enchantment - Aura",G,"uds","115",rare,g,Owned,,true,,,"","",12907
+"Dryad of the Ilysian Grove",3,"Enchantment Creature - Nymph Dryad",G,"thb","169",rare,g,Owned,,true,,,"","",79462
+"Ohran Frostfang",5,"Snow Creature - Snake",G,"c19","33",rare,g,Owned,,true,,,"","",77120
+"Woodfall Primus",8,"Creature - Treefolk Shaman",G,"shm","135",rare,g,Owned,,true,,,"","",29589
+"Hornet Queen",7,"Creature - Insect",G,"cmd","159",rare,g,Owned,,true,,,"","",40660
+"Tangle",2,"Instant",G,"inv","213",uncommon,g,Owned,,true,,,"","",14557
+"Ruination",4,"Sorcery",R,"sth","95",rare,r,Owned,,true,,,"","",10353
+"Goblin Sharpshooter",3,"Creature - Goblin",R,"ons","207",rare,r,Owned,,true,,,"","",18063
+"Detective's Phoenix",3,"Enchantment Creature - Phoenix",R,"mh3","116",rare,r,Owned,,true,,,"","",126249
+"Valakut, the Molten Pinnacle",0,"Land",R,"zen","228",rare,l,Owned,,true,,,"","",34604
+"Temporal Fissure",5,"Sorcery",U,"scg","53",common,u,Owned,,true,,,"","",18860
+"Freed from the Real",3,"Enchantment - Aura",U,"sok","38",common,u,Owned,,true,,,"","",22156
+"Mystical Tutor",1,"Instant",U,"mir","80",uncommon,u,Owned,,true,,,"","",7163
+"Search for Azcanta",2,"Legendary Enchantment",U,"xln","74",rare,u,Owned,,true,,,"","",65160
+"Orim's Chant",1,"Instant",W,"pls","11",rare,w,Owned,,true,,,"","",15195
+"Hushbringer",2,"Creature - Faerie",W,"eld","18",rare,w,Owned,,true,,,"","",78128
+"Hero of Bladehold",4,"Creature - Human Knight",W,"mbs","8",mythic,w,Owned,,true,,,"","",39539
+"Serra Paragon",4,"Creature - Angel",W,"dmu","32",mythic,w,Owned,,true,,,"","",102540
+"Touch the Spirit Realm",3,"Enchantment",W,"neo","40",uncommon,w,Owned,,true,,,"","",96994
