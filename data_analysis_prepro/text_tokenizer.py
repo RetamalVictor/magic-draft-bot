@@ -2,10 +2,6 @@ import os
 import torch
 from transformers import AutoTokenizer, AutoModel
 
-# Set your API token as an environment variable
-# os.environ["HUGGINGFACE_TOKEN"] = "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" #read
-os.environ["HF_TOKEN"] = "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" # write
-
 model_name = "sentence-transformers/all-MiniLM-L6-v2"
 
 # Load the tokenizer and model with authentication
